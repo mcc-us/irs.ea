@@ -128,3 +128,148 @@ layout: post
 
 1. Supervise employees & ensure compliance with IRS regulations.
 2. Maintain ethical standards in practice.
+
+## 1.3. Sanctionable Acts
+
+### Incompetence & Disreputable Conduct
+
+**Summary**: Acts of incompetence & disreputable conduct can result in sanctions by the IRS. These acts include criminal convictions, giving false or misleading information, & other actions that reflect adversely on the practitioner's honesty or competence.
+
+1. Criminal convictions, especially those involving dishonesty or breach of trust.
+2. Giving false or misleading information to the IRS or to a client.
+3. Willful failure to file a tax return or comply with tax obligations.
+4. Other disreputable conduct affecting the integrity of the tax profession.
+
+### Sanctions Imposed by the Office of Professional Responsibility
+
+**Summary**: The Office of Professional Responsibility (OPR) can impose various sanctions on tax practitioners who engage in misconduct. These sanctions include censure, suspension, disbarment, & monetary penalties.
+
+1. Censure.
+2. Suspension.
+3. Disbarment.
+4. Monetary penalties.
+
+### Frivolous Submissions (Returns & Documents)
+
+**Summary**: Filing frivolous tax returns or documents, which are those that do not comply with tax laws or are intended to impede tax administration, can result in significant penalties. The IRS has published a list of frivolous positions that should be avoided.
+
+1. Frivolous returns are those that do not comply with tax law.
+2. A penalty of $5,000 may be imposed for frivolous returns.
+3. The IRS maintains a list of positions considered frivolous.
+
+### Fraudulent Transactions (e.g., Badges of Fraud)
+
+**Summary**: Fraudulent transactions designed to evade taxes are subject to penalties & legal action. The IRS identifies certain "badges of fraud," such as concealing assets or underreporting income, which indicate fraudulent intent.
+
+1. Concealing assets or income.
+2. Maintaining false or inadequate records.
+3. Underreporting income or claiming false deductions.
+4. Engaging in conduct intended to mislead or deceive the IRS.
+
+## 1.4. Rules & Penalties
+
+### Assessment & Appeal Procedures for Preparer Penalties
+
+**Summary**: Tax preparers who fail to comply with IRS regulations may face penalties, which can be assessed by the IRS & appealed by the preparer. The procedures ensure that preparers are held accountable for their conduct.
+
+1. Assessment of penalties by the IRS.
+2. Rights of preparers to appeal penalties.
+3. Procedures for requesting a review of the penalty assessment.
+
+### Types of Penalties (e.g., Negligence, Substantial Understatement, Overvaluation)
+
+**Summary**: The IRS can impose various penalties on taxpayers & preparers, including those for negligence, substantial understatement of tax, & overvaluation of assets. These penalties are designed to encourage compliance with tax laws.
+
+1. Negligence penalty for failure to exercise due care.
+2. Penalty for substantial understatement of tax.
+3. Penalty for overvaluation of assets or deductions.
+
+### Furnishing a Copy of a Return to a Taxpayer
+
+**Summary**: Tax preparers are required to furnish a copy of the tax return to the taxpayer after it is prepared. This ensures that taxpayers have a record of the return that was filed on their behalf.
+
+1. Provide a copy of the tax return to the taxpayer.
+2. Ensure the copy is provided in a timely manner.
+
+### Signing Returns & Furnishing Identifying Numbers
+
+**Summary**: Tax preparers must sign the returns they prepare & include their Preparer Tax Identification Number (PTIN). This requirement ensures accountability & proper identification of the preparer.
+
+1. Sign the tax return as the preparer.
+2. Include the Preparer Tax Identification Number (PTIN) on the return.
+
+### Keeping Copies or Lists of Returns Prepared
+
+**Summary**: Preparers must maintain copies or a list of the tax returns they have prepared for a specific period. This helps ensure that records are available if needed for review or audit.
+
+1. Keep copies or a list of returns prepared.
+2. Retain records for the required period, typically three years.
+
+### Employees Engaged or Employed During a Return Period (e.g., IRC Section 6060)
+
+**Summary**: Preparers must comply with rules regarding the engagement & employment of individuals who assist in preparing returns. This includes ensuring that all employees are properly supervised & that their work complies with IRS regulations.
+
+1. Ensure compliance with IRC Section 6060.
+2. Supervise employees & ensure their work meets IRS standards.
+
+### Preparer Due Diligence Penalties
+
+**Summary**: Tax preparers must exercise due diligence when preparing returns, particularly when claiming credits or deductions. Failure to do so can result in penalties for the preparer.
+
+1. Exercise due diligence in preparing returns.
+2. Verify eligibility for credits & deductions.
+3. Penalty for failure to meet due diligence requirements.
+
+## Domain 2: Representation Before the IRS
+
+### 2.1. Power of Attorney
+
+**Summary**: A power of attorney allows a designated individual to represent a taxpayer before the IRS. The form (Form 2848) must be properly completed to grant specific authorities, such as signing agreements or extending the period of assessment.
+
+1. Purpose of power of attorney.
+2. Proper completion of Form 2848.
+3. Authority granted by taxpayer, including limitations.
+4. Signature authority & alternate forms of power of attorney.
+5. Rules for client privacy & consent to disclose.
+6. Distinctions between power of attorney (Form 2848) & tax information authorization (Form 8821).
+7. Requirements for changing or dropping representatives.
+8. Purpose of a Centralized Authorization File (CAF) number.
+
+### 2.2. Building the Taxpayer’s Case - Preliminary Work
+
+**Summary**: Building a taxpayer's case before the IRS involves identifying tax issues, gathering supporting details, & assessing potential conflicts of interest. Practitioners must ensure they have the competence & resources to handle the case effectively.
+
+1. Identification of tax issues & supporting details.
+2. Consideration of potential criminal aspects.
+3. Assessment of competence, expertise, & time.
+4. Conflict of interest considerations.
+5. Obtaining transcripts from the IRS.
+
+## Domain 3: Specific Areas of Representation
+
+### 3.1. Representing a Taxpayer in the Collection Process
+
+**Summary**: Representing a taxpayer in the IRS collection process includes negotiating installment agreements, offers in compromise, & handling collection appeals. The practitioner must understand the taxpayer's financial situation & the available options.
+
+1. Extension of time to pay (Form 1127).
+2. Negotiating installment agreements.
+3. Submitting an offer in compromise.
+4. Navigating the collection appeals program.
+5. Requesting an audit reconsideration.
+
+### 3.2. Penalties and/or Interest Abatement
+
+**Summary**: Penalties & interest can be abated under specific circumstances, such as reasonable cause or administrative errors. Practitioners must know the procedures for requesting abatement & the types of penalties eligible for abatement.
+
+1. Identify penalties subject to abatement.
+2. Basis for requesting penalty or interest abatement.
+3. Procedures for requesting abatement.
+
+### 3.3. Representing a Taxpayer in Audits/Examinations
+
+**Summary**: Representing a taxpayer in an audit involves understanding the IRS's authority, verifying the taxpayer's documentation, & guiding the taxpayer through the process, including potential appeals.
+
+1. Understanding IRS authority to investigate.
+2. Verifying & substantiating entries on the return.
+3. Navigating the audit process, including initial meetings & information submission.
+4. Interpretation of revenue agent reports & notices.
