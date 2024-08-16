@@ -144,7 +144,7 @@ Each category has specific practice privileges that define the scope of their au
 
 ### Sanctions Imposed by the Office of Professional Responsibility
 
-**Summary**: The Office of Professional Responsibility (OPR) can impose various sanctions on tax practitioners who engage in misconduct. These sanctions include censure, suspension, disbarment, & monetary penalties.
+**Summary**: The Office of Professional Responsibility (OPR) can impose various sanctions on tax practitioners who engage in misconduct. These sanctions include:
 
 1. Censure.
 2. Suspension.
@@ -155,13 +155,13 @@ Each category has specific practice privileges that define the scope of their au
 
 **Summary**: Filing frivolous tax returns or documents, which are those that do not comply with tax laws or are intended to impede tax administration, can result in significant penalties. The IRS has published a list of frivolous positions that should be avoided.
 
-1. Frivolous returns are those that do not comply with tax law. (?)
+1. Frivolous returns are those that do not comply with tax law. **(Where & what?)**
 2. A penalty of $5,000 may be imposed for frivolous returns.
-3. The IRS maintains a list of positions considered frivolous.
+3. The IRS maintains a list of positions considered frivolous. **(Where & what?)**
 
 ### Fraudulent Transactions (e.g., Badges of Fraud)
 
-**Summary**: Fraudulent transactions designed to evade taxes are subject to penalties & legal action. The IRS identifies certain "badges of fraud," such as concealing assets or underreporting income, which indicate fraudulent intent.
+**Summary**: Fraudulent transactions designed to evade taxes are subject to penalties & legal action. The IRS identifies certain (**"badges of fraud"???)** such as concealing assets or underreporting income, which indicate fraudulent intent.
 
 1. Concealing assets or income.
 2. Maintaining false or inadequate records.
@@ -202,7 +202,7 @@ Each category has specific practice privileges that define the scope of their au
 
 ### Keeping Copies or Lists of Returns Prepared
 
-**Summary**: Preparers must maintain copies or a list of the tax returns they have prepared for a specific period. This helps ensure that records are available if needed for review or audit.
+**Summary**: Preparers must maintain copies **OR???** a list of the tax returns they have prepared for a specific period. This helps ensure that records are available if needed for review or audit.
 
 1. Keep copies or a list of returns prepared.
 2. Retain records for the required period, typically three years.
