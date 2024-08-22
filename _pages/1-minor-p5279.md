@@ -1,9 +1,12 @@
 ---
 layout: post
-title: minor-p5279.pdf
+title: Becoming as EA.pdf
 --- 
 
-**Your Pathway to Becoming an Enrolled Agent**
+> This is an outline not detailed!  
+{: .block-warning }
+
+**A Pathway to Becoming an Enrolled Agent**
 
 - Obtain a Preparer Tax Identification Number (PTIN)
 - Pass the Special Enrollment Examination (SEE)
@@ -12,9 +15,11 @@ title: minor-p5279.pdf
 
 **About the exam**
 
-- Part 1 Individuals; Part 2 Businesses; & Part 3 Representation, Practices & Procedures.
-- Each exam contains 100 multiple-choice questions & is 3.5 hours.
-- Exam is offered May - February.
+- Part 1 Individuals
+- Part 2 Businesses
+- Part 3 Representation, Practices & Procedures
+- Each exam contains 100 multiple-choice questions & is 3.5 hours
+- Exam is offered May - February
 
 **www.prometric.com/see**
 
