@@ -6,12 +6,12 @@ layout: post
 ||Web Site|Age|Dollar Amounts|Fed|State|
 |-:|:-|-:|-:|
 |1|ezTaxReturn.com|Any|<= \$79k|Not all states|None|
-|2|1040.com|Any| \$17k < x < $79k|All states|Not all states|
-|3|1040NOW.NET|Any| < \$68k|Not all states|None|
-|4|OLT.com|Any| <= \$45k|All states|All states|
-|5|FileYourTaxes.com| <= \$64| <= \$45k|All states|Not all states|
-|6|FreeTaxUSA®|Any| \$8.5k <= x <= \45k|All states|All states|
-|7|TaxSlayer®|Any| <=\$45k|All states|Not all states|
+|2|1040.com|Any|$17k < x < $79k|All states|Not all states|
+|3|1040NOW.NET|Any|< \$68k|Not all states|None|
+|4|OLT.com|Any|<= \$45k|All states|All states|
+|5|FileYourTaxes.com|<= \$64| <= \$45k|All states|Not all states|
+|6|FreeTaxUSA®|Any|\$8.5k <= x <= \45k|All states|All states|
+|7|TaxSlayer®|Any|<=\$45k|All states|Not all states|
 |8|TaxAct®|20 <= age <= 58| <=\$45k|All states|Not all states|
 
 - **Free** Volunteer Income Tax Assistance (VITA): IRS.gov/VITA  
