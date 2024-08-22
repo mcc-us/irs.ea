@@ -3,7 +3,7 @@ layout: post
 title: EA Exam Preparation
 --- 
 
-## Free Resources for EA Exam Preparation
+## Free Resources
 
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 
