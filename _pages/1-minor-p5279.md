@@ -3,7 +3,7 @@ layout: post
 title: minor-p5279.pdf
 --- 
 
-Your Pathway to Becoming an Enrolled Agent
+**Your Pathway to Becoming an Enrolled Agent**
 
 - Obtain a Preparer Tax Identification Number (PTIN)
 - Pass the Special Enrollment Examination (SEE)
@@ -20,6 +20,11 @@ Your Pathway to Becoming an Enrolled Agent
 
 - Prometric’s website includes an overview of examination topics, sample test questions, FAQs, & "What to Expect on Test Day" video, & "Take a Test Drive"
 
+**GOTO**: https://www.irs.gov/tax-professionals/enrolled-agents
+
+1. https://www.irs.gov/tax-professionals/enrolled-agents/become-an-enrolled-agent
+2. https://www.prometric.com/test-takers/search/irs
+3. https://www.irs.gov/tax-professionals/enrolled-agents/enrolled-agents-frequently-asked-questions
 
 <div class="pdf-container">
     <iframe src="/irs.ea/assets/general/minor-p5279.pdf#zoom=FitH" height="600" width="90%" allowFullScreen="true">
