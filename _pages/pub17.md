@@ -164,3 +164,8 @@ layout: post
 ## How to Get Tax Help
 
 - **Major Thought:** Resources and methods to get assistance with your taxes, including online tools and contact information.
+
+<div class="pdf-container">
+    <iframe src="/irs.ea/assets/general/p17.pdf#zoom=FitH" height="600" width="90%" allowFullScreen="true">
+    </iframe>
+</div>

@@ -42,9 +42,9 @@ layout: post
 
 ## Subpart E — General Provisions
 
-**Summary**: Subpart E contains general provisions related to the practice before the IRS. It addresses recordkeeping requirements, saving provisions, & the effective dates of the regulations.
+**Summary**: Subpart E contains general provisions related to the practice before the IRS. It addresses record keeping requirements, saving provisions, & the effective dates of the regulations.
 
-1. Recordkeeping requirements for practitioners, including the retention of records for a specified period.
+1. Record keeping requirements for practitioners, including the retention of records for a specified period.
 2. Saving provisions that clarify the application of these regulations.
 3. Special orders that may be issued by the IRS regarding specific practices.
 4. Effective dates for the applicability of these regulations.

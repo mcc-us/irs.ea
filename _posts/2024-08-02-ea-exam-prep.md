@@ -22,49 +22,14 @@ The IRS provides booklets, PDFs that cover much of the same material on the EA e
 <script>
 function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
+
 - [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf): Your Federal Income Tax (for Individuals)
-- 
-- <button onclick="buttonFunc()">Go to: Publication 17</button>
-<script>
-function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
-</script>
-
+  
 - [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf): Tax Guide for Small Business
-- <button onclick="buttonFunc()">Go to: Publication 334</button>
-<script>
-function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p334.pdf"); }
-</script>
-
 - [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
-- <button onclick="buttonFunc()">Go to: Publication 463</button>
-<script>
-function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p463.pdf"); }
-</script>
-
 - [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
-- <button onclick="buttonFunc()">Go to: Publication 970</button>
-<script>
-function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p970.pdf"); }
-</script>
-
 - [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf): Examination of Returns, Appeal Rights, and Claims for Refund
-- <button onclick="buttonFunc()">Go to: Publication 556</button>
-<script>
-function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p556.pdf"); }
-</script>
-
-
-These publications are **FREE** on:
-
-- <button onclick="buttonFunc()">IRS website</button>
-<script>
-function buttonFunc() {
-  window.open("https://www.irs.gov/forms-pubs");
-}
-</script>
-
-https://www.irs.gov/forms-pubs/ebook
-
+- For E-books: - https://www.irs.gov/forms-pubs/ebook
 
 ### 2. IRS Learning Modules
 
@@ -94,7 +59,7 @@ Some *online courses* offer free sample questions and practice exams.
 
 ### 6. Online Forums and Study Groups
 
-- Reddit’s [r/taxpros](https://www.reddit.com/r/taxpros/), *GOOD*
+- Reddit’s [r/taxpros](https://www.reddit.com/r/taxpros/), *Interesting*
 - LinkedIn groups focused on EA exam preparation. Members often share free resources, study tips, and insights.
 
 ---
