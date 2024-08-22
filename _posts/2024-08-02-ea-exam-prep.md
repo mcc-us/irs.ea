@@ -24,7 +24,6 @@ function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
 
 - [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf): Your Federal Income Tax (for Individuals)
-  
 - [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf): Tax Guide for Small Business
 - [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
 - [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
