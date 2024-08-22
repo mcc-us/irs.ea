@@ -11,17 +11,41 @@ Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exa
 
 The IRS provides free booklets that cover much of the same material on the EA exam.
 
-- <button onclick="buttonFunc()">Go to: IRS forms</button>
+- <button onclick="buttonFunc()">For ALL: IRS forms</button>
 <script>
-function buttonFunc() {
-  window.open("https://www.irs.gov/forms-pubs");
-}
+function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
 - [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf): Your Federal Income Tax (for Individuals)
+- 
+- <button onclick="buttonFunc()">Go to: Publication 17</button>
+<script>
+function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
+</script>
+
 - [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf): Tax Guide for Small Business
+- <button onclick="buttonFunc()">Go to: Publication 334</button>
+<script>
+function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p334.pdf"); }
+</script>
+
 - [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
+- <button onclick="buttonFunc()">Go to: Publication 463</button>
+<script>
+function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p463.pdf"); }
+</script>
+
 - [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
+- <button onclick="buttonFunc()">Go to: Publication 970</button>
+<script>
+function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
+</script>
+
 - [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf): Examination of Returns, Appeal Rights, and Claims for Refund
+- <button onclick="buttonFunc()">Go to: Publication 556</button>
+<script>
+function buttonFunc() { window.open("https://www.irs.gov/pub/irs-pdf/p556.pdf"); }
+</script>
+
 
 These publications are **FREE** on:
 
