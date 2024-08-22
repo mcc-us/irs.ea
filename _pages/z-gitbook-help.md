@@ -27,6 +27,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 </div>
 ```
 
+
 ### 4 Blocks
 
 >#### green tip
@@ -146,3 +147,11 @@ foo(3)
   <dd>Definition of term 2b</dd>
 </dl>
 ```
+
+### GPT chat prompt
+
+Please read the pdf doc pcir230.pdf and provide a summary.  
+
+After the summary, Also provide 5 questions and answers that encapsulate the most essential information in the document.
+
+For this and all answers provided to me, please format the output using the Github markdown. I want a "copy code" box. Please use hash marks for all headers. Use Outline numbering for all bullet points. I want to save this file as .md. The output must be compatible, such that I can save the resultant to a file .md and have it ready for reading.
