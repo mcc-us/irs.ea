@@ -23,7 +23,7 @@ title: Becoming as EA.pdf
 
 **www.prometric.com/see**
 
-- Prometric’s website includes an overview of examination topics, sample test questions, FAQs, & "What to Expect on Test Day" video, & "Take a Test Drive"
+- Prometric’s is a company that proctors the EA exam(~$250). Their website includes an overview of examination topics, sample test questions, FAQs, & "What to Expect on Test Day" video, & "Take a Test Drive"
 
 **GOTO**: https://www.irs.gov/tax-professionals/enrolled-agents
 
