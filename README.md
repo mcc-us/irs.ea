@@ -19,10 +19,12 @@ function buttonFunc() { window.open("https://www.irs.gov/tax-professionals/enrol
 
 This list of documents is a should cover most of the material for the SEE exam
 
-1.  <a href="/irs.ea/assets/irs.pubs/p17.pdf" download="Tax Guide, Pub. 17"> 
+<a href="/irs.ea/assets/irs.pubs/p17.pdf" download="Pub17">
+  <img src="assets/images/open-book-icon.jpg" alt="book-icon">
+</a>
+
    
-   
-2. [](/irs.ea/assets/irs.pubs/p17.pdf)
+1. [](/irs.ea/assets/irs.pubs/p17.pdf)
 
 
 
