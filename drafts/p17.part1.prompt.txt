@@ -1,0 +1,37 @@
+Place the output, your response, or the answer in a "copy-code" box. I want the output transcribed into markdown language. I want to place your answer in a website. I want to save the output into a .md file.
+
+Using the PDF document "p17.part1.pdf", provide a more comprehensive outline than the previous one. I need more detail than the previous outline. I want details such as information from tables or bullet points. 
+
+I want you to specifically address the numbered points below. 
+This chapter discusses the following topics:
+1. Whether you have to file a return.
+2. How to file electronically.
+3. How to file for free.
+4. When, how, and where to file your return.
+5. What happens if you pay too little or too much tax.
+6. What records you should keep and how long you should keep them.
+7. How you can change a return you have already filed.
+
+I want to know what form numbers are referenced for each Line. For example, In the document it states,
+"New lines on Schedule 3. This year Schedule
+3 has new lines.
+• Line 5a will be used to report the residen-
+tial clean energy credit from Form 5695.
+• Line 5b will be used to report the energy
+efficient home improvement credit from
+Form 5695.
+• Line 6m will be used to report the credit for
+previously owned clean vehicles from Form
+8936.
+• Line 13c will be used to report the elective
+payment election amount from Form 3800."
+
+
+Using each bold header subpart and section give a sentence or two that describes the content in that bold part. Make sure that important peices of information are collected and included in the outline.
+
+After Part One is complete, please produce 5 quiz-like questions on the reading material directly in that chapter. Please follow this example:
+1. Produce a 1-2 sentence summary of the entire Part one. 
+2. Include the label of each Sub-Part then include its outline
+3. Provide 3 quiz-like questions, and their answers from each of the sub-parts
+4. Continue to next sub-part. 
+
