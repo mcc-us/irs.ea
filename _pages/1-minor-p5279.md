@@ -25,11 +25,25 @@ title: Becoming as EA.pdf
 
 - Prometric’s is a company that proctors the EA exam(~$250). Their website includes an overview of examination topics, sample test questions, FAQs, & "What to Expect on Test Day" video, & "Take a Test Drive"
 
-**GOTO**: https://www.irs.gov/tax-professionals/enrolled-agents
+---
 
-1. https://www.irs.gov/tax-professionals/enrolled-agents/become-an-enrolled-agent
-2. https://www.prometric.com/test-takers/search/irs
-3. https://www.irs.gov/tax-professionals/enrolled-agents/enrolled-agents-frequently-asked-questions
+### These steps will help you
+
+1. Get your PTIN
+
+   - Step 1. https://www.irs.gov/tax-professionals/enrolled-agents/become-an-enrolled-agent
+
+2. Study for test
+3. Sign up for the SEE test  
+
+   - Step 2. https://www.prometric.com/test-takers/search/irs
+  
+4. Continue to next parts
+
+    - Step 3. https://www.irs.gov/tax-professionals/enrolled-agents/enrolled-agents-frequently-asked-questions
+
+
+Additional Info: https://www.irs.gov/tax-professionals/enrolled-agents
 
 <div class="pdf-container">
     <iframe src="/irs.ea/assets/general/minor-p5279.pdf#zoom=FitH" height="600" width="90%" allowFullScreen="true">
