@@ -26,7 +26,7 @@ This list of documents is a should cover most of the material for the SEE exam
    
 1. [](/irs.ea/assets/irs.pubs/p17.pdf)
 
-
+<a href="/irs.ea/assets/irs.pubs/p17.pdf" download="Pub17">Tax Guide For Small Business, Pub. 334</a>
 
 2. [Tax Guide For Small Business, Pub. 334](/irs.ea/assets/irs.pubs/p334.pdf)
 
