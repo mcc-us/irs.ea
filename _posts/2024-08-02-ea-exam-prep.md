@@ -3,16 +3,12 @@ layout: post
 title: EA Exam Preparation
 --- 
 
-Enrolled
-agents generally have unlimited practice rights,
-meaning they can represent any taxpayer
-regarding any tax matter before any IRS office.
+**Enrolled agents** generally have unlimited practice rights, meaning they can represent any taxpayer regarding any tax matter before any IRS office.
+
 **Free Resources**
 
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
-- An EA has passed a three-part Special Enrollment Examination (SEE) administered by the IRS
-- 
 
 ### 1. IRS Publications
 
@@ -42,14 +38,15 @@ The IRS provides free training modules!! These are particularly useful for Part 
 Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated on tax law changes and key topics.
 
 - [IRS Tax Tips](https://www.irs.gov/newsroom/irs-tax-tips)
-- [IRS Webinars]([fix](https://www.irs.gov/newsroom/videos)) pages for more information.
+- [IRS Webinars]([fix](https://www.irs.gov/newsroom/videos))
 - https://www.irs.gov/tax-professionals
 
 ### 4. YouTube Channels and Free Online Courses
 
-Some educators and tax professionals offer free video courses and tutorials on YouTube that cover EA exam topics. While not as structured as paid courses, these can be very helpful.
+Search for channels like *“Tax School,”* *“EA Exam Review,”* or related topics.
 
-Search for channels like “Tax School,” “EA Exam Review,” or specific topics related to the EA exam.
+Some educators and tax professionals offer free video courses and tutorials on YouTube that cover EA exam topics.
+
 
 ### 5. Free Practice Questions
 
