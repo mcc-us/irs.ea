@@ -10,6 +10,10 @@ title: EA Exam Preparation
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
 
+> If you have a tax question not answered by a publication go to the **IRS Interactive Tax Assistant**:
+> [IRS.gov/Help/ITA](www.irs.gov/help/ita)
+{: .block-tip }
+
 ### 1. IRS Publications
 
 The IRS provides booklets, PDFs that cover much of the same material on the EA exam.
@@ -60,8 +64,3 @@ Some *online courses* offer free sample questions and practice exams.
 
 ---
 
-**Tips for Using Free Resources**
-
-- **Combine Resources**: Since a single free guide may not be available, combine these resources to cover all topics.
-- **Create a Study Plan**: Structure your study time and materials as you would with a paid course, focusing on one part of the exam at a time.
-- **Practice Regularly**: Use free practice questions and IRS publications to test your knowledge frequently.
