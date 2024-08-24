@@ -27,6 +27,11 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 </div>
 ```
 
+### Color text mods
+
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 ### 4 Blocks
 
