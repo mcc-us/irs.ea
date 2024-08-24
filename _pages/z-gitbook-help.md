@@ -18,6 +18,11 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 `&nbsp;`
 
 
+### Buttons
+
+<button onclick="buttonFunc()">onButton</button>
+<script> function buttonFunc() { window.open("webAddress"); } </script>
+
 ### PDF Containers
 
 ```

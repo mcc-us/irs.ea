@@ -16,3 +16,4 @@ function buttonFunc() { window.open("https://www.irs.gov/tax-professionals/enrol
 2. [Exam Prep Help](https://mcc-us.github.io/irs.ea/pages/02-ea-exam-prep/)
 3. `IRS.gov` enrolled-agents info.  
    - <button onclick="buttonFunc()">Press: Go to Info</button>
+4. [Flotsam and Jetsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
