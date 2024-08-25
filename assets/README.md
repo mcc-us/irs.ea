@@ -1,2 +1,13 @@
-The directory /assets/ contains the PDFs collected that are used or shown on this website.
-Caution: If you change the name of an asset, you may need to change its relative link in pages, posts or others
+The /assets/ directory contains files needed for this site.
+
+*Caution*: If you change the name of a file THEN you must change the corresponding relative link(s)!!
+
+Directory
+---------
+gitbook : Necessay, DO NOT REMOVE
+gitbook-material : Necessay, DO NOT REMOVE
+images : jpg, png files
+PDFs : documents needed for website
+search.html : Necessay, DO NOT REMOVE
+search_plus_index.json : Necessay, DO NOT REMOVE
+
