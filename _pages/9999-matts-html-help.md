@@ -1,5 +1,5 @@
 ---
-title: gitbook help
+title: Matt's html help
 layout: post
 ---
 
@@ -23,6 +23,11 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 <button onclick="buttonFunc()">onButton</button>
 <script> function buttonFunc() { window.open("webAddress"); } </script>
 
+```
+<button onclick="buttonFunc()">ButtonText</button>
+<script> function buttonFunc() { window.open("Address"); } </script>
+```
+
 ### PDF Containers
 
 ```
@@ -40,40 +45,28 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ### 4 Blocks
 
->#### green tip
->
-> green tip
+> GREEN tip
 {: .block-tip }
 
 ```
-> #### green tip
->
-> green tip
+> GREEN tip
 {: .block-tip }
 ```
 
 ```
-> #### yellow warning
->
-> yellow warning
+> YELLOW warning
 {: .block-warning }
 ```
 
 ```
-> #### red danger
->
-> red danger
+> RED Danger
 {: .block-danger }
 ```
 
-| :warning: White box :warning: |
-|:---------:|
-| White box |
-
 ```
-| :warning: White box :warning: |
+| Info Box: |
 |:---------:|
-| White box |
+| Information |
 ```
 
 ### Emojis
@@ -85,11 +78,11 @@ https://github-emoji-picker.rickstaa.dev/
 ### Links
 
 ```
-[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)
+[AbsoluteLinks](https://mcc-us.github.io/2020-02-28-sample-markdown/)
 ```
 
 ```
-[Relative link to a section inside a page](#local-urls)
+[RelativeLinks](#local-urls)
 ```
 
 ### Bookmark Links on the Same Page
@@ -116,12 +109,12 @@ Images can also be centered!
 ```
 
 ```
-|ImageTitle|
+|ImageBox|
 |:-:|
-|![abc](/bookkeeping/assets/a.png)|
+|![abc](/directory/a.png)|
 ```
 
-### Code chunks 
+### Code chunks
 
 ```javascript
 var foo = function(x) {
