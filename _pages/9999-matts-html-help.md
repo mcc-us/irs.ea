@@ -15,8 +15,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - **Add non-breaking space**
 
-`&nbsp;`
-
+```
+&nbsp;
+```
 
 - **Buttons**
 
@@ -32,18 +33,20 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ```
 <div class="pdf-container">
-    <iframe src="/bookkeeping/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    <iframe src="dir/document.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 ```
 
 - **Color text mods**
 
+```
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
 </span>
+```
 
-- **4 Blocks**
+- **4 Info Blocks**
 
 > GREEN tip
 {: .block-tip }

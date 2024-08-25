@@ -12,18 +12,18 @@ function button3() { window.open("www.irs.gov/help/ita"); }
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
 
-> For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
-> <button onclick="button3()">OPEN PAGE</button>
+> For basic tax questions go to the IRS Interactive Tax Assistant chatbot:  
+> <button onclick="button3()">OPEN PAGE</button>  
 {: .block-tip }
 
 **A. SOME IRS Publications**
 
 The IRS provides booklets, PDFs that cover much of the same material on the EA exam.
 
-- <button onclick="buttonFunc()">For ALL: IRS forms</button>
 <script>
 function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
+- <button onclick="buttonFunc()">For ALL: IRS forms</button>
 
 - [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf): Your Federal Income Tax (for Individuals)
 - [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf): Tax Guide for Small Business
