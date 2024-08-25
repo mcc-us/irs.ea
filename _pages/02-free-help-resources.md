@@ -4,7 +4,7 @@ title: Free help resources
 --- 
 
 <script>
-function button3() { window.open("www.irs.gov/help/ita"); }
+function button3() { window.open("https://www.irs.gov/help/ita"); }
 </script>
 
 **Enrolled agents** generally have unlimited practice rights, meaning they can represent any taxpayer regarding any tax matter before any IRS office.
