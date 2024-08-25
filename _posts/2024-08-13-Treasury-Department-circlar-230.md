@@ -4,7 +4,11 @@ date: 2024-08-13
 layout: post
 ---
 
-## Subpart A — Rules Governing Authority to Practice
+**Treasury Department Circular No. 230**  
+OR  
+**Regulations Governing Practice before the Internal Revenue Service**
+
+### Subpart A — Rules Governing Authority to Practice
 
 **Summary**: Subpart A outlines the regulations regarding who is authorized to practice before the Internal Revenue Service (IRS). It specifies the offices responsible for administering these regulations, defines key terms, & details the eligibility criteria for various practitioner roles, including attorneys, certified public accountants, enrolled agents, enrolled retirement plan agents, & others.
 
@@ -48,3 +52,33 @@ layout: post
 2. Saving provisions that clarify the application of these regulations.
 3. Special orders that may be issued by the IRS regarding specific practices.
 4. Effective dates for the applicability of these regulations.
+
+
+---
+
+### Key Questions and Answers
+
+#### 1. What is the primary purpose of Treasury Department Circular No. 230?
+
+**Answer:** The primary purpose of Treasury Department Circular No. 230 is to regulate the practice of attorneys, CPAs, **enrolled agents**, and other individuals before the IRS to ensure they meet ethical and professional standards in representing taxpayers.
+
+#### 2. Who is eligible to practice before the IRS under Circular No. 230?
+
+**Answer:** Attorneys, CPAs, **enrolled agents**, enrolled retirement plan agents, and registered tax return preparers are eligible to practice before the IRS, provided they meet the requirements set forth in Circular No. 230 and are not currently under suspension or disbarment.
+
+#### 3. What are the possible sanctions for violating the rules in Circular No. 230?
+
+**Answer:** Sanctions for violating the rules in Circular No. 230 include suspension, disbarment, censure, and monetary penalties. These sanctions can be applied to individuals who engage in disreputable conduct or violate any of the specified regulations.
+
+#### 4. What are the continuing education requirements for enrolled agents under Circular No. 230?
+
+**Answer:** Enrolled agents must complete a minimum of 72 hours of continuing education every three years, with at least 16 hours each year, including two hours of ethics or professional conduct.
+
+#### 5. What must a practitioner do if they become aware of a client's omission or error on a tax return?
+
+**Answer:** If a practitioner becomes aware of a client's omission or error on a tax return, they must promptly inform the client of the issue and advise them of the potential consequences. The practitioner must exercise due diligence in ensuring that the error is corrected.
+
+<div class="pdf-container">
+    <iframe src="/irs.ea/assets/irs.pubs/pcir230.pdf#zoom=FitH" height="600" width="90%" allowFullScreen="true">
+    </iframe>
+</div>
