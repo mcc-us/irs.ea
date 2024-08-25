@@ -1,11 +1,9 @@
 ---
 layout: post
-title: EA Exam Preparation
+title: Free help resources
 --- 
 
 **Enrolled agents** generally have unlimited practice rights, meaning they can represent any taxpayer regarding any tax matter before any IRS office.
-
-**Free Resources**
 
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
@@ -14,7 +12,7 @@ Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exa
 > [IRS.gov/Help/ITA](www.irs.gov/help/ita)
 {: .block-tip }
 
-### 1. IRS Publications
+**A. SOME IRS Publications**
 
 The IRS provides booklets, PDFs that cover much of the same material on the EA exam.
 
@@ -28,16 +26,16 @@ function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 - [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
 - [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
 - [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf): Examination of Returns, Appeal Rights, and Claims for Refund
-- For E-books: - https://www.irs.gov/forms-pubs/ebook
+- **For E-books**: - https://www.irs.gov/forms-pubs/ebook
 
-### 2. IRS Learning Modules
+**B. IRS Learning Modules**
 
 The IRS provides free training modules!! These are particularly useful for Part 1 and Part 2 of the exam.
 
 - [IRS Videos](https://www.irs.gov/newsroom/videos)
 - https://www.youtube.com/@irsvideos
 
-### 3. IRS Tax Tips and Webinars
+**C. IRS Tax Tips and Webinars**
 
 Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated on tax law changes and key topics.
 
@@ -45,22 +43,19 @@ Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated o
 - [IRS Webinars]([fix](https://www.irs.gov/newsroom/videos))
 - https://www.irs.gov/tax-professionals
 
-### 4. YouTube Channels and Free Online Courses
+**D. YouTube Channels and Free Online Courses**
 
-Search for channels like *“Tax School,”* *“EA Exam Review,”* or related topics.
+Search for channels like *Tax School, EA Exam Review*...
 
-Some educators and tax professionals offer free video courses and tutorials on YouTube that cover EA exam topics.
+**E. Free Practice Questions**
 
-
-### 5. Free Practice Questions
-
-Some *online courses* offer free sample questions and practice exams.
+Some online courses offer free sample questions & practice exams.
 - [Fast Forward Academy](https://fastforwardacademy.com) offers a limited number of free practice questions.
 
-### 6. Online Forums and Study Groups
+**F. Online Forums and Study Groups**
 
 - Reddit’s [r/taxpros](https://www.reddit.com/r/taxpros/), *Interesting*
-- LinkedIn groups focused on EA exam preparation. Members often share free resources, study tips, and insights.
 
----
+**G. IRS2GO phone app**
 
+- [IRS2GO](https://www.irs.gov/help/irs2goapp)
