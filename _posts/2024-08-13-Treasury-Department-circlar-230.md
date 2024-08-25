@@ -8,7 +8,7 @@ layout: post
 OR  
 **Regulations Governing Practice before the Internal Revenue Service**
 
-### Subpart A — Rules Governing Authority to Practice
+## Subpart A — Rules Governing Authority to Practice
 
 **Summary**: Subpart A outlines the regulations regarding who is authorized to practice before the Internal Revenue Service (IRS). It specifies the offices responsible for administering these regulations, defines key terms, & details the eligibility criteria for various practitioner roles, including attorneys, certified public accountants, enrolled agents, enrolled retirement plan agents, & others.
 
