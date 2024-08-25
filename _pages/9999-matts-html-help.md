@@ -3,7 +3,7 @@ title: Matt's html help
 layout: post
 ---
 
-This page is markdown help favorites. :blush:
+This page is markdown help favorites.
 
 More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
@@ -74,9 +74,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - **Emojis**
 
-https://gist.github.com/rxaviers/7360908
+[https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
 
-https://github-emoji-picker.rickstaa.dev/
+[https://github-emoji-picker.rickstaa.dev/](https://github-emoji-picker.rickstaa.dev/)
 
 - **Links**
 
@@ -142,12 +142,13 @@ foo(3)
 </div>
 ```
 
-- **Dictionary Markdown**
+- **Dictionary lists**
 
 ```
 <dl>
   <dt>Term 1</dt>
   <dd>Definition of term 1</dd>
+
   <dt>Term 2</dt>
   <dd>Definition of term 2a</dd>
   <dd>Definition of term 2b</dd>
@@ -160,4 +161,4 @@ Please read the PDF document doc1.pdf and provide a summary.
 
 After the summary, Also provide 5 questions and answers that encapsulate the most essential information in the document.
 
-Place your response (answer, responses, output, results) in a "copy code" box. Your response should be formatted using Github markdown language. Please numbered lists instead of bullet points and hyphens. Do not use bold text, "**bold text**", when possible.  I want to save this file as ".md". The results will be used on the internet.
+Place your response (answer, responses, output, results) in a "copy code" box. Your response should be formatted using Github markdown language. Please numbered lists instead of bullet points and hyphens. Do not use bold text, `**bold text**`, when possible.  I want to save this file as ".md". The results will be used on the internet.
