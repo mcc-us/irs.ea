@@ -28,5 +28,5 @@ function button3() { window.open("www.irs.gov/help/ita"); }
 
 6. [Flotsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
 
-7. If you have basic tax question go to the IRS Interactive Tax Assistant chatbot:
-   - <button onclick="button2()">OPEN PAGE</button>
+7. For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
+   - <button onclick="button3()">OPEN PAGE</button>

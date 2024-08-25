@@ -3,13 +3,17 @@ layout: post
 title: Free help resources
 --- 
 
+<script>
+function button3() { window.open("www.irs.gov/help/ita"); }
+</script>
+
 **Enrolled agents** generally have unlimited practice rights, meaning they can represent any taxpayer regarding any tax matter before any IRS office.
 
 Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
 
-> If you have a tax question not answered by a publication go to the **IRS Interactive Tax Assistant**:
-> [IRS.gov/Help/ITA](www.irs.gov/help/ita)
+> For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
+> <button onclick="button3()">OPEN PAGE</button>
 {: .block-tip }
 
 **A. SOME IRS Publications**
