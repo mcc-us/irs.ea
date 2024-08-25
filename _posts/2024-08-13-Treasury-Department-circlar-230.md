@@ -1,5 +1,5 @@
 ---
-title: Treasury Department Circular No 230
+title: T.D. Circular No 230
 date: 2024-08-13
 layout: post
 ---
