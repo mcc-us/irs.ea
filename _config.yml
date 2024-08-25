@@ -60,7 +60,7 @@ collections:
 ordered_collections:
   - pages
   - posts
-  - others
+  - pdfs
 
 page_width: 800px
 

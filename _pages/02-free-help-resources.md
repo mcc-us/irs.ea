@@ -9,7 +9,7 @@ function button3() { window.open("https://www.irs.gov/help/ita"); }
 
 **Enrolled agents** generally have unlimited practice rights, meaning they can represent any taxpayer regarding any tax matter before any IRS office.
 
-Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed and structured study materials are paid. However, the IRS has resources that can help you prepare.
+Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exam is challenging, as most detailed & structured study materials are paid. However, the IRS has resources that can help you prepare.
 - https://www.irs.gov/tax-professionals/enrolled-agents
 
 > For basic tax questions go to the IRS Interactive Tax Assistant chatbot:  
@@ -34,20 +34,20 @@ function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 
 **B. IRS Learning Modules**
 
-The IRS provides free training modules!! These are particularly useful for Part 1 and Part 2 of the exam.
+The IRS provides free training modules!! These are particularly useful for Part 1 & Part 2 of the exam.
 
 - [IRS Videos](https://www.irs.gov/newsroom/videos)
-- https://www.youtube.com/@irsvideos
+- [YouTube Videos]https://www.youtube.com/@irsvideos
 
-**C. IRS Tax Tips and Webinars**
+**C. Tax Tips & Webinars**
 
-Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated on tax law changes and key topics.
+Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated on tax law changes & key topics.
 
 - [IRS Tax Tips](https://www.irs.gov/newsroom/irs-tax-tips)
 - [IRS Webinars]([fix](https://www.irs.gov/newsroom/videos))
 - https://www.irs.gov/tax-professionals
 
-**D. YouTube Channels and Free Online Courses**
+**D. YouTube Channels & Free Online Courses**
 
 Search for channels like *Tax School, EA Exam Review*...
 
@@ -56,7 +56,7 @@ Search for channels like *Tax School, EA Exam Review*...
 Some online courses offer free sample questions & practice exams.
 - [Fast Forward Academy](https://fastforwardacademy.com) offers a limited number of free practice questions.
 
-**F. Online Forums and Study Groups**
+**F. Online Forums & Study Groups**
 
 - Reddit’s [r/taxpros](https://www.reddit.com/r/taxpros/), *Interesting*
 
