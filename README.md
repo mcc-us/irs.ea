@@ -16,7 +16,7 @@ function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam
 1. [Becoming an Enrolled Agent](https://mcc-us.github.io/irs.ea/pages/01-minor-p5279/)
 2. [Exam Prep Help](https://mcc-us.github.io/irs.ea/pages/02-ea-exam-prep/)
 3. `IRS.gov` enrolled-agents info.  
-   - <button onclick="buttonFunc()">OPEN PAGE</button>
+   - <button onclick="button1()">OPEN PAGE</button>
 4. [Flotsam and Jetsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
 5. Enrolled Agent Exam Questions
    - <button onclick="button2()">OPEN PAGE</button>
