@@ -21,12 +21,13 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - **Buttons**
 
-<button onclick="button1()">ButtonText</button>
 <script> function button1() { window.open("Address"); } </script>
+<button onclick="button1()">ButtonText</button>
+
 
 ```
-<button onclick="button1()">ButtonText</button>
 <script> function button1() { window.open("Address"); } </script>
+<button onclick="button1()">ButtonText</button>
 ```
 
 - **PDF Containers**
