@@ -7,18 +7,18 @@ This page is markdown help favorites. :blush:
 
 More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
-### Scale images on page
+- **Scale images on page**
 
 ```
 <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="100%" />
 ```
 
-### Add non-breaking space
+- **Add non-breaking space**
 
 `&nbsp;`
 
 
-### Buttons
+- **Buttons**
 
 <button onclick="buttonFunc()">onButton</button>
 <script> function buttonFunc() { window.open("webAddress"); } </script>
@@ -28,7 +28,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 <script> function buttonFunc() { window.open("Address"); } </script>
 ```
 
-### PDF Containers
+- **PDF Containers**
 
 ```
 <div class="pdf-container">
@@ -37,13 +37,13 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 </div>
 ```
 
-### Color text mods
+- **Color text mods**
 
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
 </span>
 
-### 4 Blocks
+- **4 Blocks**
 
 > GREEN tip
 {: .block-tip }
@@ -69,13 +69,13 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 | Information |
 ```
 
-### Emojis
+- **Emojis**
 
 https://gist.github.com/rxaviers/7360908
 
 https://github-emoji-picker.rickstaa.dev/
 
-### Links
+- **Links**
 
 ```
 [AbsoluteLinks](https://mcc-us.github.io/2020-02-28-sample-markdown/)
@@ -85,7 +85,7 @@ https://github-emoji-picker.rickstaa.dev/
 [RelativeLinks](#local-urls)
 ```
 
-### Bookmark Links on the Same Page
+- **Bookmark Links on the Same Page**
 
 If you want to link to a heading on the same page, first add an ID tag to the header like this:
 
@@ -96,25 +96,25 @@ Then reference it with a normal Markdown link:
 ```[Some link](#someIdTag)```
 
 
-### Pictures
+- **Pictures**
 
 ```
-![lion](/bookkeeping/assets/img/lion_head-144x144.png)
+![lion](/dir/image.png)
 ```
 
 Images can also be centered!
 
 ```
-![lion](/bookkeeping/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}
+![lion](/dir/image.png){: .mx-auto.d-block :}
 ```
 
 ```
 |ImageBox|
 |:-:|
-|![abc](/directory/a.png)|
+|![abc](/directory/image.png)|
 ```
 
-### Code chunks
+- **Code chunks**
 
 ```javascript
 var foo = function(x) {
@@ -123,7 +123,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-### Tables
+- **Tables**
 
 ```
 | nameA | nameB | nameC |
@@ -139,7 +139,7 @@ foo(3)
 </div>
 ```
 
-### Dictionary Markdown
+- **Dictionary Markdown**
 
 ```
 <dl>
@@ -151,10 +151,10 @@ foo(3)
 </dl>
 ```
 
-### GPT chat prompt
+- **GPT chat prompt**
 
-Please read the pdf doc pcir230.pdf and provide a summary.  
+Please read the PDF document doc1.pdf and provide a summary.
 
 After the summary, Also provide 5 questions and answers that encapsulate the most essential information in the document.
 
-For this and all answers provided to me, please format the output using the Github markdown. I want a "copy code" box. Please use hash marks for all headers. Use Outline numbering for all bullet points. I want to save this file as .md. The output must be compatible, such that I can save the resultant to a file .md and have it ready for reading.
+Place your response (answer, responses, output, results) in a "copy code" box. Your response should be formatted using Github markdown language. Please numbered lists instead of bullet points and hyphens. Do not use bold text, "**bold text**", when possible.  I want to save this file as ".md". The results will be used on the internet.
