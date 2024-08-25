@@ -13,7 +13,7 @@ Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exa
 - https://www.irs.gov/tax-professionals/enrolled-agents
 
 > For basic tax questions go to the IRS Interactive Tax Assistant chatbot:  
-> <button onclick="button3()">OPEN PAGE</button>  
+> - <button onclick="button3()">OPEN PAGE</button>  
 {: .block-tip }
 
 **A. SOME IRS Publications**
