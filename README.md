@@ -7,6 +7,7 @@ permalink: /
 <script>
 function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
 function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam.html"); }
+function button3() { window.open("www.irs.gov/help/ita"); }
 </script>
 
 [IRS EA Home](https://mcc-us.github.io/irs.ea/)
@@ -26,3 +27,6 @@ function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam
 5. [IRS-PTIN App. Checklist](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
 
 6. [Flotsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
+
+7. If you have basic tax question go to the IRS Interactive Tax Assistant chatbot:
+   - <button onclick="button2()">OPEN PAGE</button>
