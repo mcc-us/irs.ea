@@ -37,15 +37,15 @@ function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 The IRS provides free training modules!! These are particularly useful for Part 1 & Part 2 of the exam.
 
 - [IRS Videos](https://www.irs.gov/newsroom/videos)
-- [YouTube Videos]https://www.youtube.com/@irsvideos
+- [YouTube Videos](https://www.youtube.com/@irsvideos)
 
 **C. Tax Tips & Webinars**
 
 Subscribe to the IRS Tax Tips or explore archived IRS webinars to stay updated on tax law changes & key topics.
 
-- [IRS Tax Tips](https://www.irs.gov/newsroom/irs-tax-tips)
-- [IRS Webinars]([fix](https://www.irs.gov/newsroom/videos))
-- https://www.irs.gov/tax-professionals
+- [IRS tax tips](https://www.irs.gov/newsroom/irs-tax-tips)
+- [IRS newsroom]([fix](https://www.irs.gov/newsroom/videos))
+- [IRS tax-professionals](https://www.irs.gov/tax-professionals)
 
 **D. YouTube Channels & Free Online Courses**
 
