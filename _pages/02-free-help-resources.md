@@ -30,7 +30,7 @@ function buttonFunc() { window.open("https://www.irs.gov/forms-pubs"); }
 - [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
 - [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
 - [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf): Examination of Returns, Appeal Rights, and Claims for Refund
-- **For E-books**: - https://www.irs.gov/forms-pubs/ebook
+- **For E-books**: https://www.irs.gov/forms-pubs/ebook
 
 **B. IRS Learning Modules**
 
