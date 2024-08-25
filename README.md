@@ -20,7 +20,7 @@ function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam
 3. `IRS.gov` enrolled-agents info.  
    - <button onclick="button1()">OPEN PAGE</button>
 
-4. Enrolled Agent Exam Questions
+4. A Sample of Enrolled Agent Exam Questions
    - <button onclick="button2()">OPEN PAGE</button>
 
 5. [IRS-PTIN Application Checklist](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
