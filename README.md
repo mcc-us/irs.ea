@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Matt's IRS.EA Notes
+title: Matt's EA Notes
 permalink: /
 ---
 
@@ -18,7 +18,7 @@ function button3() { window.open("www.irs.gov/help/ita"); }
 
 2. [Free Help Resources](https://mcc-us.github.io/irs.ea/pages/02-free-help-resources/)
 
-3. `IRS.gov` EA info.  
+3. `IRS.gov` EA info.
    - <button onclick="button1()">OPEN PAGE</button>
 
 4. A Sample of EA Exam Questions
@@ -26,7 +26,5 @@ function button3() { window.open("www.irs.gov/help/ita"); }
 
 5. [IRS-PTIN App. Checklist](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
 
-6. [Flotsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
-
-7. For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
+6. For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
    - <button onclick="button3()">OPEN PAGE</button>
