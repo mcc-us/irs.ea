@@ -20,4 +20,4 @@ function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam
 4. [Flotsam and Jetsam](https://mcc-us.github.io/irs.ea/2024-08-22-minor-p4693a.html)
 5. Enrolled Agent Exam Questions
    - <button onclick="button2()">OPEN PAGE</button>
-6. [PTIN Application Checklist-Internal Revenue Service](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
+6. [IRS-PTIN Application Checklist](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
