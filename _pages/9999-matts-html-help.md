@@ -21,12 +21,12 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - **Buttons**
 
-<button onclick="buttonFunc()">onButton</button>
-<script> function buttonFunc() { window.open("webAddress"); } </script>
+<button onclick="button1()">ButtonText</button>
+<script> function button1() { window.open("Address"); } </script>
 
 ```
-<button onclick="buttonFunc()">ButtonText</button>
-<script> function buttonFunc() { window.open("Address"); } </script>
+<button onclick="button1()">ButtonText</button>
+<script> function button1() { window.open("Address"); } </script>
 ```
 
 - **PDF Containers**
