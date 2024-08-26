@@ -18,6 +18,7 @@ Main points: General info for becoming an EA
   - EAs must take 16 hours annually, two of which must be in ethics.
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/minor-p4693a.pdf" height="600" width="90%" allowFullScreen="true">
+    <iframe src="https://www.irs.gov/pub/irs-pdf/minor-p4693a.pdf" 
+    height="600" width="90%" allowFullScreen="true">
     </iframe>
 </div>
