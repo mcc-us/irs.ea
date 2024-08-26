@@ -53,16 +53,16 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  others:
+  pdfs:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - pages
   - posts
-  - others
+  - pdfs
 
-page_width: 800px
+page_width: 1000px
 
 destination:      ./_site
 incremental:      false

@@ -7,7 +7,7 @@ permalink: /
 <script>
 function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
 function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam.html"); }
-function button3() { window.open("www.irs.gov/help/ita"); }
+function button3() { window.open("https://www.irs.gov/help/ita"); }
 </script>
 
 [IRS EA Home](https://mcc-us.github.io/irs.ea/)
