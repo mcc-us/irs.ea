@@ -3,14 +3,12 @@ title: Matt's html help
 layout: post
 ---
 
-This page is markdown help favorites.
-
-More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
+See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
 - **Scale images on page**
 
 ```
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="100%" />
+<img src="dir/image.png" width="100%" />
 ```
 
 - **Add non-breaking space**
@@ -34,7 +32,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ```
 <div class="pdf-container">
-    <iframe src="dir/document.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    <iframe src="dir/document.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 ```
@@ -42,7 +40,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 - **Color text mods**
 
 ```
-<span style="color:green;font-weight:700;font-size:20px">
+<span style="color:red;font-weight:700;font-size:20px">
     markdown color font styles
 </span>
 ```
@@ -82,7 +80,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 - **Links**
 
 ```
-[AbsoluteLinks](https://mcc-us.github.io/2020-02-28-sample-markdown/)
+[AbsoluteLinks](/Absolute-relative/webPage/)
 ```
 
 ```
@@ -137,9 +135,9 @@ foo(3)
 
 ```markdown
 <div class="table-wrapper" markdown="block">
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
+| nameA | nameB | nameC |
+| :---: |:----- | :---- |
+| A1    | B1    | C1    |
 </div>
 ```
 
