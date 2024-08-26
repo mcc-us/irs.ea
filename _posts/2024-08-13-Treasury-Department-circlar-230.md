@@ -1,5 +1,5 @@
 ---
-title: T.D. Circular No 230
+title: pcir230
 date: 2024-08-13
 layout: post
 ---
@@ -79,6 +79,7 @@ OR
 **Answer:** If a practitioner becomes aware of a client's omission or error on a tax return, they must promptly inform the client of the issue and advise them of the potential consequences. The practitioner must exercise due diligence in ensuring that the error is corrected.
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/pcir230.pdf#zoom=FitH" height="600" width="90%" allowFullScreen="true">
+    <iframe src="/irs.ea/assets/pdfs/pcir230.pdf" 
+    height="600" width="90%" allowFullScreen="true">
     </iframe>
 </div>
