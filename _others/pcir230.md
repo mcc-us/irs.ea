@@ -60,19 +60,19 @@ OR
 
 #### 1. What is the primary purpose of Treasury Department Circular No. 230?
 
-**Answer:** The primary purpose of Treasury Department Circular No. 230 is to regulate the practice of attorneys, CPAs, **enrolled agents**, and other individuals before the IRS to ensure they meet ethical and professional standards in representing taxpayers.
+**Answer:** The purpose of Treasury Department Circular No. 230 is to regulate the practice of attorneys, CPAs, **enrolled agents**, and others to ensure they meet ethical and professional standards.
 
 #### 2. Who is eligible to practice before the IRS under Circular No. 230?
 
-**Answer:** Attorneys, CPAs, **enrolled agents**, enrolled retirement plan agents, and registered tax return preparers are eligible to practice before the IRS, provided they meet the requirements set forth in Circular No. 230 and are not currently under suspension or disbarment.
+**Answer:** Attorneys, CPAs, **enrolled agents**, enrolled retirement plan agents, and registered tax return preparers are eligible to practice before the IRS. They must meet the requirements in Circular No. 230 and are not currently under suspension or disbarment.
 
 #### 3. What are the possible sanctions for violating the rules in Circular No. 230?
 
-**Answer:** Sanctions for violating the rules in Circular No. 230 include suspension, disbarment, censure, and monetary penalties. These sanctions can be applied to individuals who engage in disreputable conduct or violate any of the specified regulations.
+**Answer:** Sanctions include suspension, disbarment, censure, and monetary penalties. These sanctions can be applied to individuals who are disreputable or violate regulations.
 
 #### 4. What are the continuing education requirements for enrolled agents under Circular No. 230?
 
-**Answer:** Enrolled agents must complete a minimum of 72 hours of continuing education every three years, with at least 16 hours each year, including two hours of ethics or professional conduct.
+**Answer:** EAs must complete a >= 72 hours of continuing education every three years, with at least 16 hours each year, including two hours of ethics or professional conduct.
 
 #### 5. What must a practitioner do if they become aware of a client's omission or error on a tax return?
 
