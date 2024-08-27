@@ -24,11 +24,11 @@ The IRS provides booklets, PDFs that cover much of the same material on the EA e
 > - <button onclick="button2()">Go to: IRS Forms</button>
 {: .block-tip }
 
-1. [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf): Your Federal Income Tax (for Individuals)
-2. [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf): Tax Guide for Small Business
-3. [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf): Travel, Entertainment, Gift, and Car Expenses
-4. [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf): Tax Benefits for Education
-5. [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf): Examination of Returns, Appeal Rights, and Claims for Refund
+1. Publication 17 - Your Federal Income Tax (for Individuals)
+2. Publication 334 - Tax Guide for Small Business
+3. Publication 463 - Travel, Entertainment, Gift, and Car Expenses
+4. Publication 970 - Tax Benefits for Education
+5. Publication 556 - Examination of Returns, Appeal Rights, and Claims for Refund
 6. Form 8938 - Statement of Specified Foreign Financial Assets
 7. Form 1099C - Cancellation of Debt
 8. Form 1116 - Foreign Tax Credit
@@ -83,4 +83,4 @@ Some online courses offer free sample questions & practice exams.
 
 **G. IRS2GO phone app**
 
-- [IRS2GO](https://www.irs.gov/help/irs2goapp)
+- [IRS2GO](https://www.irs.gov/help/irs2goapp) - VERY Simple!
