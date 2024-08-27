@@ -84,29 +84,3 @@ Some online courses offer free sample questions & practice exams.
 **G. IRS2GO phone app**
 
 - [IRS2GO](https://www.irs.gov/help/irs2goapp)
-
-### These additional documents are listed as important
-
-- <button onclick="buttonFunc()">For ALL: IRS forms</button>
-
-1. Form 8938 - Statement of Specified Foreign Financial Assets
-2. Form 1099C - Cancellation of Debt
-3. Form 1116 - Foreign Tax Credit
-4. Form 2555 - Foreign Earned Income Exclusion
-5. Form 3520 - Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts
-6. Form 5471 - Information Return of U.S. Persons with Respect to Certain Foreign Corporations
-7. Form 8606 - Nondeductible IRAs
-8. Form 1099R - Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
-9. Form 706 - United States Estate (and Generation-Skipping Transfer) Tax Return
-10. Form 1041 - U.S. Income Tax Return for Estates and Trusts
-11. Form 709 - United States Gift (and Generation-Skipping Transfer) Tax Return
-12. Form 8865 - Return of U.S. Persons With Respect to Certain Foreign Partnerships
-13. Form 2848 - Power of Attorney and Declaration of Representative
-14. Form 8821 - Tax Information Authorization
-15. Publication 216 - Conference and Practice Requirements
-16. Form 1127 - Application for Extension of Time for Payment of Tax Due to Undue Hardship
-17. Form 12153 - Request for a Collection Due Process or Equivalent Hearing
-18. Form 843 - Claim for Refund and Request for Abatement
-19. Form 1040X - Amended U.S. Individual Income Tax Return
-20. Form 8879 - IRS e-file Signature Authorization
-21. Form 8453 - U.S. Individual Income Tax Transmittal for an IRS e-file Return
