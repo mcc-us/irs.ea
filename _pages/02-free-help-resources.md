@@ -19,39 +19,18 @@ Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exa
 
 **A. SOME IRS Publications**
 
-The IRS provides booklets, PDFs that cover much of the same material on the EA exam.
+The IRS provides PDFs that cover the EA exam.
 
 > - <button onclick="button2()">Go to: IRS Forms</button>
 {: .block-tip }
 
-1. Publication 17 - Your Federal Income Tax (for Individuals)
-2. Publication 334 - Tax Guide for Small Business
-3. Publication 463 - Travel, Entertainment, Gift, and Car Expenses
-4. Publication 970 - Tax Benefits for Education
-5. Publication 556 - Examination of Returns, Appeal Rights, and Claims for Refund
-6. Form 8938 - Statement of Specified Foreign Financial Assets
-7. Form 1099C - Cancellation of Debt
-8. Form 1116 - Foreign Tax Credit
-9. Form 2555 - Foreign Earned Income Exclusion
-10. Form 3520 - Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts
-11. Form 5471 - Information Return of U.S. Persons with Respect to Certain Foreign Corporations
-12. Form 8606 - Nondeductible IRAs
-13. Form 1099R - Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
-14. Form 706 - United States Estate (and Generation-Skipping Transfer) Tax Return
-15. Form 1041 - U.S. Income Tax Return for Estates and Trusts
-16. Form 709 - United States Gift (and Generation-Skipping Transfer) Tax Return
-17. Form 8865 - Return of U.S. Persons With Respect to Certain Foreign Partnerships
-18. Form 2848 - Power of Attorney and Declaration of Representative
-19. Form 8821 - Tax Information Authorization
-20. Publication 216 - Conference and Practice Requirements
-21. Form 1127 - Application for Extension of Time for Payment of Tax Due to Undue Hardship
-22. Form 12153 - Request for a Collection Due Process or Equivalent Hearing
-23. Form 843 - Claim for Refund and Request for Abatement
-24. Form 1040X - Amended U.S. Individual Income Tax Return
-25. Form 8879 - IRS e-file Signature Authorization
-26. Form 8453 - U.S. Individual Income Tax Transmittal for an IRS e-file Return
+**Start Here**:  
 
-- **For E-books**: https://www.irs.gov/forms-pubs/ebook
+1. pcir230 - Regulations Governing Practice before the Internal Revenue Service
+
+2. [IRS documents](https://mcc-us.github.io/irs.ea/pages/9000-irs-docs/)
+
+3. **For E-books**: https://www.irs.gov/forms-pubs/ebook
 
 **B. IRS Learning Modules**
 

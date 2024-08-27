@@ -22,7 +22,7 @@ title: IRS Docs On Site
 | f2848 & i2848  | Power of Attorney and Declaration of Representative, <br>Form & Info|
 | p334 | Tax Guide for Small Business|
 | f3520 & i3520 | Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, <br>Form & Info|
-| p4245 | |
+| p4245 | Power of Attorney Preparation Guide |
 | p463 | Travel, Gift, and Car Expenses|
 | f4868-auto-extension||
 | p505 | Tax Withholding and Estimated Tax|
