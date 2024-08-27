@@ -7,7 +7,7 @@ title: IRS Docs On Site
     function button2() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
 
-|Document # <br><button onclick="button2()">Go to: IRS Forms</button>|Title|
+|Document <br><button onclick="button2()">Go to: IRS Forms</button>|Title|
 |:-|:-|
 | pcir230.pdf | Regulations Governing Practice before the Internal Revenue Service|
 | f1040x.pdf & i1040x.pdf | Amended U.S. Individual Income Tax Return, <br>Form & Info|
@@ -19,31 +19,30 @@ title: IRS Docs On Site
 | p17.pdf | Tax Guide|
 | p216.pdf | Conference and Practice Requirements|
 | f2555.pdf & i2555.pdf | Foreign Earned Income, <br>Form & Info|
-| f2848.pdf & i2848.pdf  |Power of Attorney and Declaration of Representative, <br>Form & Info|
+| f2848.pdf & i2848.pdf  | Power of Attorney and Declaration of Representative, <br>Form & Info|
 | p334.pdf | Tax Guide for Small Business|
 | f3520.pdf & i3520.pdf | Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, <br>Form & Info|
 | p4245.pdf | |
 | p463.pdf | Travel, Gift, and Car Expenses|
 | f4868-auto-extension.pdf||
-| p505.pdf | |
-| p525.pdf | |
-| p54.pdf | |
-| f5471.pdf & i5471.pdf| , <br>Form & Info|
-| p556.pdf | |
-| f706.pdf & i706.pdf| , <br>Form & Info|
-| i709.pdf | |
-| f843.pdf & i843.pdf| , <br>Form & Info|
-| f8453.pdf| |
-| f8606.pdf & i8606.pdf| , <br>Form & Info|
-| f8821.pdf & i8821.pdf| , <br>Form & Info|
-| i8865.pdf| |
-| f8879.pdf| |
-| f8938.pdf & i8938.pdf| |
-| p970.pdf | , <br>Form & Info|
-| fw4.pdf| |
+| p505.pdf | Tax Withholding and Estimated Tax|
+| p525.pdf | Taxable and Nontaxable Income |
+| p54.pdf | Tax Guide for U.S. Citizens and Resident Aliens Abroad |
+| f5471.pdf & i5471.pdf| Information Return of U.S. Persons With Respect To Certain Foreign Corporations , <br>Form & Info|
+| p556.pdf | Examination of Returns, Appeal Rights, and Claims for Refund |
+| f706.pdf & i706.pdf & i709.pdf| U.S. Estate (and Generation-Skipping Transfer) Tax Return , <br>Form & Info|
+| f843.pdf & i843.pdf| ,Claim for Refund and Request for Abatement  <br>Form & Info|
+| f8453.pdf| U.S. Individual Income Tax Transmittal for an IRS e-file Return |
+| f8606.pdf & i8606.pdf| ,Nondeductible IRAs  <br>Form & Info|
+| f8821.pdf & i8821.pdf| ,Tax Information Authorization  <br>Form & Info|
+| i8865.pdf| Return of U.S. Persons With Respect to Certain Foreign Partnerships |
+| f8879.pdf| IRS e-file Signature Authorization |
+| f8938.pdf & i8938.pdf| Statement of Foreign Financial Assets |
+| p970.pdf | Tax Benefits for Education |
+| fw4.pdf| Form W4|
 | minor-p4693a.pdf| |
 | minor-p5279.pdf| |
-| PTIN.Application.Checklist_Internal.Revenue.Service.pdf||
+| PTIN.Application.Checklist_Internal.Revenue.Service.pdf| Application.Checklist|
 | IRS-SEE-Candidate-Information-Bulletin.pdf||
 
 p17.part1.4.tax.withholding.est.tax.pdf
