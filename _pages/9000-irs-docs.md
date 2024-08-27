@@ -7,7 +7,7 @@ title: IRS Docs On Site
     function button2() { window.open("https://www.irs.gov/forms-pubs"); }
 </script>
 
-|Document #</br><button onclick="button2()">Go to: IRS Forms</button>|Title|
+|Document # <br><button onclick="button2()">Go to: IRS Forms</button>|Title|
 |:-|:-|
 | pcir230.pdf | Regulations Governing Practice before the Internal Revenue Service|
 | f1040x.pdf & i1040x.pdf | Amended U.S. Individual Income Tax Return,</br>Form & Info|
