@@ -9,47 +9,47 @@ title: IRS Docs On Site
 
 |Document <br><button onclick="button2()">Go to: IRS Forms</button>|Title|
 |:-|:-|
-| pcir230.pdf | Regulations Governing Practice before the Internal Revenue Service|
-| f1040x.pdf & i1040x.pdf | Amended U.S. Individual Income Tax Return, <br>Form & Info|
-| f1041.pdf & i1041.pdf | U.S. Income Tax Return for Estates and Trusts|
-| f1099c.pdf & f1099r.pdf & i1099ac.pdf | Acquisition or Abandonment of Secured Property and Cancellation of Debt,<br>Form & Info|
-| f1116.pdf & i1116.pdf | Foreign Tax Credit (Individual, Estate, or Trust), <br>Form & Info|
-| f1127.pdf | Application for Extension of Time for Payment of Tax Due to Undue Hardship|
-| f12153.pdf | Request for Collection Due Process Hearing|
-| p17.pdf | Tax Guide|
-| p216.pdf | Conference and Practice Requirements|
-| f2555.pdf & i2555.pdf | Foreign Earned Income, <br>Form & Info|
-| f2848.pdf & i2848.pdf  | Power of Attorney and Declaration of Representative, <br>Form & Info|
-| p334.pdf | Tax Guide for Small Business|
-| f3520.pdf & i3520.pdf | Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, <br>Form & Info|
-| p4245.pdf | |
-| p463.pdf | Travel, Gift, and Car Expenses|
-| f4868-auto-extension.pdf||
-| p505.pdf | Tax Withholding and Estimated Tax|
-| p525.pdf | Taxable and Nontaxable Income |
-| p54.pdf | Tax Guide for U.S. Citizens and Resident Aliens Abroad |
-| f5471.pdf & i5471.pdf| Information Return of U.S. Persons With Respect To Certain Foreign Corporations , <br>Form & Info|
-| p556.pdf | Examination of Returns, Appeal Rights, and Claims for Refund |
-| f706.pdf & i706.pdf & i709.pdf| U.S. Estate (and Generation-Skipping Transfer) Tax Return , <br>Form & Info|
-| f843.pdf & i843.pdf| ,Claim for Refund and Request for Abatement  <br>Form & Info|
-| f8453.pdf| U.S. Individual Income Tax Transmittal for an IRS e-file Return |
-| f8606.pdf & i8606.pdf| ,Nondeductible IRAs  <br>Form & Info|
-| f8821.pdf & i8821.pdf| ,Tax Information Authorization  <br>Form & Info|
-| i8865.pdf| Return of U.S. Persons With Respect to Certain Foreign Partnerships |
-| f8879.pdf| IRS e-file Signature Authorization |
-| f8938.pdf & i8938.pdf| Statement of Foreign Financial Assets |
-| p970.pdf | Tax Benefits for Education |
-| fw4.pdf| Form W4|
-| minor-p4693a.pdf| |
-| minor-p5279.pdf| |
-| PTIN.Application.Checklist_Internal.Revenue.Service.pdf| Application.Checklist|
-| IRS-SEE-Candidate-Information-Bulletin.pdf||
+| pcir230 | Regulations Governing Practice before the Internal Revenue Service|
+| f1040x & i1040x | Amended U.S. Individual Income Tax Return, <br>Form & Info|
+| f1041 & i1041 | U.S. Income Tax Return for Estates and Trusts|
+| f1099c & f1099r & i1099ac | Acquisition or Abandonment of Secured Property and Cancellation of Debt,<br>Form & Info|
+| f1116 & i1116 | Foreign Tax Credit (Individual, Estate, or Trust), <br>Form & Info|
+| f1127 | Application for Extension of Time for Payment of Tax Due to Undue Hardship|
+| f12153 | Request for Collection Due Process Hearing|
+| p17 | Tax Guide|
+| p216 | Conference and Practice Requirements|
+| f2555 & i2555 | Foreign Earned Income, <br>Form & Info|
+| f2848 & i2848  | Power of Attorney and Declaration of Representative, <br>Form & Info|
+| p334 | Tax Guide for Small Business|
+| f3520 & i3520 | Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, <br>Form & Info|
+| p4245 | |
+| p463 | Travel, Gift, and Car Expenses|
+| f4868-auto-extension||
+| p505 | Tax Withholding and Estimated Tax|
+| p525 | Taxable and Nontaxable Income |
+| p54 | Tax Guide for U.S. Citizens and Resident Aliens Abroad |
+| f5471 & i5471| Information Return of U.S. Persons With Respect To Certain Foreign Corporations , <br>Form & Info|
+| p556 | Examination of Returns, Appeal Rights, and Claims for Refund |
+| f706 & i706 & i709| U.S. Estate (and Generation-Skipping Transfer) Tax Return , <br>Form & Info|
+| f843 & i843| ,Claim for Refund and Request for Abatement  <br>Form & Info|
+| f8453| U.S. Individual Income Tax Transmittal for an IRS e-file Return |
+| f8606 & i8606| ,Nondeductible IRAs  <br>Form & Info|
+| f8821 & i8821| ,Tax Information Authorization  <br>Form & Info|
+| i8865| Return of U.S. Persons With Respect to Certain Foreign Partnerships |
+| f8879| IRS e-file Signature Authorization |
+| f8938 & i8938| Statement of Foreign Financial Assets |
+| p970 | Tax Benefits for Education |
+| fw4| Form W4|
+| minor-p4693a| |
+| minor-p5279| |
+| PTIN.Application.Checklist_Internal.Revenue.Service| Application.Checklist|
+| IRS-SEE-Candidate-Information-Bulletin||
 
-p17.part1.4.tax.withholding.est.tax.pdf
+p17.part1.4.tax.withholding.est.tax
 
-SEE 1 Clean.pdf
-SEE 2 Clean.pdf
-SEE 3 Clean.pdf
-z-see1-sample-test-questions-2024.pdf
-z-see2-sample-test-questions-2024.pdf
-z-see3-sample-test-questions-2024.pdf
+SEE 1 Clean
+SEE 2 Clean
+SEE 3 Clean
+z-see1-sample-test-questions-2024
+z-see2-sample-test-questions-2024
+z-see3-sample-test-questions-2024
