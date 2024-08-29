@@ -38,6 +38,7 @@ title: IRS Docs On Site
 | i8865| Return of U.S. Persons With Respect to Certain Foreign Partnerships |
 | f8879| IRS e-file Signature Authorization |
 | f8938 & i8938| Statement of Foreign Financial Assets |
+| Pub.926 | Household Employer's Tax Guide|
 | p970 | Tax Benefits for Education |
 | fw4| Form W4|
 | minor-p4693a| |
