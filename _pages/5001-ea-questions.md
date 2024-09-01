@@ -1,10 +1,10 @@
 ---
 Layout: post
-title: GlemQ EA Questions
+title: EA Questions
 ---
 
+<!-- GlemQ  -->
 
-- ![Q#](Screenshot*.png$)
 - ![Screenshot_2024-08-26_15-14-17](Screenshot_2024-08-26_15-14-17.png)
 - ![Screenshot_2024-08-26_15-15-06](Screenshot_2024-08-26_15-15-06.png)
 - ![Screenshot_2024-08-26_15-16-06](Screenshot_2024-08-26_15-16-06.png)
