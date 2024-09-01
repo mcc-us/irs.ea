@@ -20,15 +20,6 @@ function button3() { window.open("https://www.irs.gov/help/ita"); }
 
 3. [IRS-PTIN App. Checklist](https://mcc-us.github.io/irs.ea/2024-08-25-PTIN.app.checklist.html)
 
-5. `IRS.gov` EA info.
-   - <button onclick="button1()">OPEN PAGE</button>
-
-6. A Sample of EA Exam Questions
-   - <button onclick="button2()">OPEN PAGE</button>
-
-7. For basic tax questions go to the IRS Interactive Tax Assistant chatbot:
-   - <button onclick="button3()">OPEN PAGE</button>
-
 ---
 
 Poor
