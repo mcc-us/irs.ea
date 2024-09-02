@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free help resources
+title: Free misc
 --- 
 
 
@@ -17,9 +17,10 @@ title: Free help resources
     </iframe>
 </div>
 
+[](/assets/misc/2023EAStudyGuidePart3.pdf)
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/misc/2021EAStudyGuidePart3.pdf" 
+    <iframe src="/irs.ea/assets/misc/2023EAStudyGuidePart3.pdf" 
     height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
