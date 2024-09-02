@@ -22,6 +22,6 @@ function button3() { window.open("https://www.irs.gov/help/ita"); }
 
 ---
 
-Poor
+OK
 
 1. [A guide to becoming an enrolled agent](https://www.naea.org/education-events/the-definitive-guide-to-becoming-an-enrolled-agent/) from the National Association of Enrolled Agents (NAEA)
