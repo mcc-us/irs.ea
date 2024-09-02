@@ -9,22 +9,24 @@ title: IRS Docs On Site
 
 |Document<br><button onclick="button2()">Go to: IRS Forms</button>|Title|
 |:-|:-|
-| PTIN.Application.Checklist_Internal.Revenue.Service | [PTIN.Application.Checklist_Internal.Revenue.Service](/irs.ea/assets/pdfs/PTIN.Application.Checklist_Internal.Revenue.Service.pdf) |
-| f706 | [f706](/irs.ea/assets/pdfs/f706.pdf) |
-| f843 | [f843](/irs.ea/assets/pdfs/f843.pdf) |
-| f941 | [f941](/irs.ea/assets/pdfs/f941.pdf) |
-| f1040es | [f1040es](/irs.ea/assets/pdfs/f1040es.pdf) |
-| f1040s | [f1040s](/irs.ea/assets/pdfs/f1040s.pdf) |
-| f1040s1 | [f1040s1](/irs.ea/assets/pdfs/f1040s1.pdf) |
-| f1040s2 | [f1040s2](/irs.ea/assets/pdfs/f1040s2.pdf) |
-| f1040s3 | [f1040s3](/irs.ea/assets/pdfs/f1040s3.pdf) |
-| f1040x | [f1040x](/irs.ea/assets/pdfs/f1040x.pdf) |
-| f1041 | [f1041](/irs.ea/assets/pdfs/f1041.pdf) |
-| f1065 | [f1065](/irs.ea/assets/pdfs/f1065.pdf) |
-| f1099c | [f1099c](/irs.ea/assets/pdfs/f1099c.pdf) |
-| f1099r | [f1099r](/irs.ea/assets/pdfs/f1099r.pdf) |
-| f1116 | [f1116](/irs.ea/assets/pdfs/f1116.pdf) |
-| f1120 | [f1120](/irs.ea/assets/pdfs/f1120.pdf) |
+| PTIN.Application | [PTIN.Application.Checklist_Internal.Revenue.Service](/irs.ea/assets/pdfs/PTIN.Application.Checklist_Internal.Revenue.Service.pdf) |
+| pcir230 | [Regulations Governing Practice before the Internal Revenue Service](/irs.ea/assets/pdfs/pcir230.pdf) |
+| regulation_1_6011_4 | [Title 26: Internal Revenue](/irs.ea/assets/pdfs/regulation_1_6011_4.pdf) |
+| f706 | [US Estate (and Generation-Skipping Transfer) Tax Return](/irs.ea/assets/pdfs/f706.pdf) |
+| f843 | [Claim for Refund and Request for Abatement](/irs.ea/assets/pdfs/f843.pdf) |
+| f941 | [Employer’s QUARTERLY Federal Tax Return](/irs.ea/assets/pdfs/f941.pdf) |
+| f1040es | [Form 1040-Estimate](/irs.ea/assets/pdfs/f1040es.pdf) |
+| f1040s | [U.S. Tax Return for Seniors](/irs.ea/assets/pdfs/f1040s.pdf) |
+| f1040s1 | [Additional Income and Adjustments to Income](/irs.ea/assets/pdfs/f1040s1.pdf) |
+| f1040s2 | [Additional Taxes](/irs.ea/assets/pdfs/f1040s2.pdf) |
+| f1040s3 | [Additional Credits and Payments](/irs.ea/assets/pdfs/f1040s3.pdf) |
+| f1040x | [Amended U.S. Individual Income Tax Return](/irs.ea/assets/pdfs/f1040x.pdf) |
+| f1041 | [U.S. Income Tax Return for Estates and Trusts](/irs.ea/assets/pdfs/f1041.pdf) |
+| f1065 | [U.S. Return of Partnership Income](/irs.ea/assets/pdfs/f1065.pdf) |
+| f1099c | [Cancellation of Debt](/irs.ea/assets/pdfs/f1099c.pdf) |
+| f1099r | [Distributions From Pensions,Annuities,Retirement,Profit-Sharing,Plans,IRAs,Insurance,Contracts,etc.](/irs.ea/assets/pdfs/f1099r.pdf) |
+| f1116 | [Foreign Tax Credit](/irs.ea/assets/pdfs/f1116.pdf) |
+| f1120 | [U.S. Corporation Income Tax Return](/irs.ea/assets/pdfs/f1120.pdf) |
 | f1127 | [f1127](/irs.ea/assets/pdfs/f1127.pdf) |
 | f2555 | [f2555](/irs.ea/assets/pdfs/f2555.pdf) |
 | f2587 | [f2587](/irs.ea/assets/pdfs/f2587.pdf) |
@@ -93,8 +95,6 @@ title: IRS Docs On Site
 | p4245 | [p4245](/irs.ea/assets/pdfs/p4245.pdf) |
 | p4491 | [p4491](/irs.ea/assets/pdfs/p4491.pdf) |
 | p4491x | [p4491x](/irs.ea/assets/pdfs/p4491x.pdf) |
-| pcir230 | [pcir230](/irs.ea/assets/pdfs/pcir230.pdf) |
-| regulation_1_6011_4 | [regulation_1_6011_4](/irs.ea/assets/pdfs/regulation_1_6011_4.pdf) |
 
 
 
