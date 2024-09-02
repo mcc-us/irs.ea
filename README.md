@@ -43,7 +43,7 @@ Page 1
 
 Notes:
 
-1. Other than that, Pub 17 is one that I'd recommend for Part 1, but Parts 2 and 3 are going to be all over the place. For Part 2, I'd go through the instructions for 1065, 1120, 1120-S, and Part 3 Pubs 594, 1660, and 556 to start. Really, I'd spring for one of the review courses. 
+1. Pub 17 is one that I'd recommend for Part 1. Parts 2 and 3 are going to be all over the place. For Part 2, I'd go through the instructions for 1065, 1120, 1120-S, and Part 3 Pubs 594, 1660, and 556 to start. Really, I'd spring for one of the review courses. 
 
 ---
 
