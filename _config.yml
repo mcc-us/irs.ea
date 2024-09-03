@@ -56,6 +56,9 @@ collections:
   pdfs:
     output: true
     permalink: /:collection/:path/
+  ea:
+    output: true
+    permalink: /:collection/:path/
 
 ordered_collections:
   - pages
