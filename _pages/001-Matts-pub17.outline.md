@@ -8,21 +8,15 @@ layout: post
 {: .block-tip }
 
 
-# Introduction
+**Pub. 17 closely follows Form 1040**
 
-## How this publication is arranged
-
-Pub. 17 closely follows Form 1040
-
-### What is in this publication
+#### Main Points
 
 1. Who must file a return,
 2. When the return is due,
 3. How to e-file your return, etc
 
-#### Examples and Flowcharts
-
-### What is not covered in this publication
+#### Not covered in this publication
 
 - Pub. 334, Tax Guide for Small Business.
 - Pub. 225, Farmer's Tax Guide
@@ -38,21 +32,20 @@ Pub. 17 closely follows Form 1040
 
 #### Due date of return
 
-- GENERALLY, File Form 1040 or 1040-SR by April 15, 2024
+- GENERALLY, April 15, 2024
 
 #### New lines on Schedule 3
 
-- Line 5a ==>> residential clean energy credit from Form 5695
-- Line 5b ==>> energy efficient home improvement credit from Form 5695
-- Line 6m ==>> credit for previously owned clean vehicles from Form 8936
-- Line 13c ==>> elective payment election amount from Form 3800.
+- Line 5a ==>> Residential clean energy credit from Form 5695
+- Line 5b ==>> Energy efficient home improvement credit from Form 5695
+- Line 6m ==>> Credit for previously owned clean vehicles from Form 8936
+- Line 13c ==>> Elective payment election amount from Form 3800
 
 #### Who must file
 
-![Table 1-1](/assets/images/images.pub.17/table.1.1.png)
-![Table 1-2](/assets/images/images.pub.17/table.1.2.png)
-![Table 1-3](/assets/images/images.pub.17/table.1.3.png)
-
+![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)
+![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)
+![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)
 
 ### Reminders
 
@@ -78,7 +71,7 @@ Pub. 17 closely follows Form 1040
 
 #### Enter your social security number
 
-- You must enter your social security number (SSN)
+- You NEED: SSN, ITIN, ATIN
 
 #### Direct deposit of refund
 
@@ -194,30 +187,46 @@ Pub. 17 closely follows Form 1040
 - Child earnings are included in the child’s Gross Income and not the Gross Income of parent.
 - IF child does not pay the adult is liable
 
-### Certain Children Under Age 19 or Full-Time Students
+### Children < 19yr or FT Students - Form 8814
 
-- If a child's only income is interest and dividends, child < 19 or full-time student < 24, a parent can include the child's income on the parent's return. 
+- If a child's only income is *interest and dividends*, & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
 - If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents’ Election To Report Child’s Interest and Dividends
 
-### Self-Employed Persons
+### Self-Employed Persons - Pub. 334
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
-- **Must file Form 1040 or 1040-SR and Schedule SE (Form 1040)**, Self-Employment Tax IFF:
-- >$400 from self-employment (excluding church employee income) or
-- Church employee income >$108.28
+- Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
+  - >$400 from self-employment (excluding church employee income) or
+  - Church employee income >$108.28
 - See Table 1-3
 - See Pub. 334
 
 #### Employees of foreign governments or international organizations
 
+- If you're from U.S. in the U.S. for an international org, and your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
 
-##### Aliens
+#### Ministers - Pub. 517
 
-#### Who Should File
+- Like Self-employed
+- See Pub. 517
 
-#### Form 1040 or 1040-SR
+### Aliens - Pub. 519
+
+- Resident alien - Must file, same rules as US citizens
+- Nonresident alien - Must file, same rules as US citizens w/ exceptions, See Pub. 519
+- Dual-status taxpayer - Different rules apply for each part of year in and out of country, - See Pub. 519
+
+### Who Should File - See Pub. 596, 970, 974
+
+- Even if you don't have to file, you should to get your money back if:
+- Had tax W/H or Est. your tax or any tax credit
+- To Qualify for Earned income credit, See Pub. 596
+- For Premium tax credit, See Pub. 974
+- For American opportunity credit, See Pub. 970
 
 #### Why Should I File Electronically?
+
+- Table 1-4 for FREE Filing services
 
 ##### Requirements for an electronic return
 
