@@ -1,0 +1,24 @@
+the document provided has sections and subparts
+
+1. Conents
+2. What's New
+3. Remindiers
+4. Introduction
+5. Subpart One
+6. Subpart Two
+7. Subpart Three
+8. Subpart Four
+9. Your rights as a taxpayer
+10. How to get Tax Help
+
+In sections {Conents, What's New, Remindiers, Introduction} each paragraph has header in bold followed by one main thought.
+
+Please summarize each pargraph into one one sentence or sentence fragment that easily describes the main thought. 
+
+In Subparts 1-4 there are multiple levels for an outline. Please take each subpart and reduce it to an outline form that still retains all its original information but it much now be condensed into one sentence per paragraph. Show the headers for each level of the outline followed by a one or two sentence synopsis.
+
+If charts are important, please refer to the chart specificaslly by its table number and or name or title.
+
+I need detail from each paragraph that is required for complete mastery of the paragraph. 
+
+For the output: I need your answer to be in a copy code box. I want your answer to be output into Github markdown language. Please mark every subpart with the header. Summarize the text and give a two-sentence summary. Then, provide the list of steps described in each chapter in number format. Please use hash marks for all headers. Use Outline numbering for all bullet points. I want your output formatted into Gihub markdown language. Please format the output in GitHub markdown format. I would like to paste your response into a .md file to save.
