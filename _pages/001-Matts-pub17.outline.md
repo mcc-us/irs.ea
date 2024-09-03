@@ -4,10 +4,10 @@ date: 2024-08-24, started
 layout: post
 ---
 
-> W/H = Withholding, S.S. - social security, AGI - adjusted gross income,
+> W/H = Withholding
+> S.S. - social security
+> AGI - adjusted gross income
 {: .block-tip }
-
-
 
 
 #### Main Points
@@ -17,23 +17,27 @@ layout: post
 3. How to e-file your return, etc
 4. Pub. 17 closely follows Form 1040
 
-#### Not covered in this publication
+#### Not in this publication
 
-- Pub. 334, Tax Guide for Small Business.
+- Pub. 334, Tax Guide for Small Business
 - Pub. 225, Farmer's Tax Guide
 - Pub. 587, Business Use of Your Home
 
 ## Publication 17 Changes
 
-# Part One - The Income Tax Return
+- ????
+
+# Part One: The Income Tax Return
 
 ## 1. Filing Information
 
 ### What's New
 
+- ?????
+
 #### Due date of return
 
-- GENERALLY, April 15, 2024
+- Generally, April 15, 2024
 
 #### New lines on Schedule 3
 
@@ -58,23 +62,19 @@ layout: post
 
 #### Access your online account
 
-- `IRS.gov/Account`
-- See payment plan details or apply for a new payment plan
+- `www.irs.gov/account`
+- See payment plans or apply for new payment plan
 - Make payments
 - View 5 years of payment history and any pending or scheduled payments
 - Access your tax records, including key data from your most recent tax return, your economic impact payment amounts, and transcripts
 - View digital copies of select notices from the IRS
 - Approve or reject authorization requests from tax professionals
 - View your address on file or manage your communication preferences
-- Go to `IRS.gov/SecureAccess` to view the required identity authentication process.
+- Go to `www.irs.gov/secureaccess` to view the required identity authentication process.
 
-#### Change of address
+#### Change of address: use Form 8822
 
-- use Form 8822
-
-#### Enter your social security number
-
-- You NEED: SSN, ITIN, ATIN
+#### Enter your social security number: NEED-SSN, ITIN, ATIN
 
 #### Direct deposit of refund
 
@@ -88,26 +88,24 @@ layout: post
 
 - See install agreement section?
 
-#### Automatic 6-month extension
-
-- Form 4868
+#### Automatic 6-month extension: Form 4868
 
 #### Service in combat zone
 
-- You are allowed extra time, See section?
-- 
+- Allowed extra time, See section?
+
 #### Adoption taxpayer identification number
 
 - See section?
-- 
+
 #### Taxpayer identification number for aliens
 
 - doesn't have and isn't eligible to get a social security number, file Form W-7
-- 
-#### Individual taxpayer identification number (ITIN) renewal 
 
-- see `IRS.gov/ITIN`
-- 
+#### Individual taxpayer identification number (ITIN) renewal
+
+- see `www.irs.gov/itin`
+
 #### Frivolous tax submissions
 
 - The IRS has published a lists of frivolous positions. WHERE?
@@ -126,24 +124,23 @@ layout: post
 4. Self-employed persons.
 5. Aliens.
 
-#### Individuals, In General - 3 factors
+#### Individuals, In General: 3 factors
 
-1. Gross income,
-2. Filing status,
+1. Gross income
+2. Filing status
 3. Age
 
 #### Gross income
 
-- Includes ALL income: forms of money, goods, property, and services that isn't exempt from tax
-- Also income from outside the U.S or from the sale of your main home
-- social security benefits if:
-- You were married, & filing a separate return
-- Half of your S.S. benefits plus(+) gross income and any tax-exempt interest is > $25 K (or $32 K filing jointly)
+- Includes ALL income: all forms of money, goods, property, and services that aren't exempt from tax
+- Include income from outside the U.S or from the sale of your main home
+- Social security benefits if:
+  - You were married, & filing a separate return
+  - Half of your S.S. benefits plus(+) gross income and any tax-exempt interest is > $25 K (or $32 K filing jointly)
 
-#### Community property states
+#### Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
 
 - Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin
-- see Form 8958 and Pub.555, Schedule F (Form 1040)
 
 #### Self-employed individuals
 
@@ -151,32 +148,34 @@ layout: post
 
 #### Filing status
 
-- single or married and your family situation.
+- Single or married and your family situation.
 - See Chapter 2
 
 #### Age See Table 1-1
 
-### Surviving Spouses, Executors, Administrators, and Legal Representatives
+### Surviving Spouses, Executors, Administrators, and Legal Representatives: Pub. 559
 
-- must file a final return for a decedent
+- MUST file a final return for a decedent
 - you are executor, administrator, or legal representative
-- see Pub. 559
 
-#### U.S. Citizens and Resident Aliens Living Abroad
+#### U.S. Citizens and Resident Aliens Living Abroad: Pub. 54
 
-- See Pub. 54
 - See AGI and table ???
 
-#### Residents of Puerto Rico
+#### Residents of Puerto Rico: Pub. 570
 
 - file based on AGI
 - See Table 1-1 or Table 1-2
-- See Pub. 570
+- See 
 
-#### Individuals With Income From U.S. Territories
+|Who must file|
+|:-:|
+|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-- Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
-- See Pub. 570
+#### Individuals With Income From U.S. Territories: Pub. 570
+
+- Guam, The Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
 
 ### Dependents
 
@@ -185,44 +184,42 @@ layout: post
 
 #### Responsibility of parent
 
-- Generally, children are responsible for filing, & paying
+- Generally, children ARE responsible for filing, & paying
 - If a child cannot then adult MUST, also sign child's name & **“By (your signature), parent for minor child.”**
 
 #### Child's earnings
 
-- Child earnings are included in the child’s Gross Income and not the Gross Income of parent.
-- IF child does not pay the adult is liable
+- Child earnings are (Generally) included in the child’s Gross Income and not the Gross Income of parent.
+- IF child does not pay the adult is liable.
 
-### Children < 19yr or FT Students - Form 8814
+### Children < 19yr or FT Students: Form 8814
 
 - If a child's only income is *interest and dividends*, & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
-- If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents’ Election To Report Child’s Interest and Dividends
+- If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents Election To Report Child’s Interest and Dividends
 
-### Self-Employed Persons - Pub. 334
+### Self-Employed Persons: Pub. 334
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
 - Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
   - >$400 from self-employment (excluding church employee income) or
   - Church employee income >$108.28
 - See Table 1-3
-- See Pub. 334
 
 #### Employees of foreign governments or international organizations
 
 - If you're from U.S. in the U.S. for an international org, and your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
 
-#### Ministers - Pub. 517
+#### Ministers: Pub. 517
 
 - Like Self-employed
-- See Pub. 517
 
-### Aliens - Pub. 519
+### Aliens: Pub. 519
 
 - Resident alien - Must file, same rules as US citizens
-- Nonresident alien - Must file, same rules as US citizens w/ exceptions, See Pub. 519
-- Dual-status taxpayer - Different rules apply for each part of year in and out of country, - See Pub. 519
+- Nonresident alien - Must file, same rules as US citizens w/ exceptions
+- Dual-status taxpayer - Different rules apply for each part of year in and out of country
 
-### Who Should File - See Pub. 596, 970, 974
+### Who Should File: See Pub. 596, 970, 974
 
 - Even if you don't have to file, you should to get your money back if:
 - Had tax W/H or Est. your tax or any tax credit
@@ -298,7 +295,7 @@ layout: post
 
 ##### Adjusting Your Withholding
 
-# Part Two - Income and Adjustments to Income
+# Part Two: Income and Adjustments to Income
 
 ## 5. Wages, Salaries, and Other Earnings
 
@@ -390,7 +387,7 @@ layout: post
 
 ##### Roth IRAs
 
-# Part Three - Standard Deduction, Itemized Deductions, and Other Deductions
+# Part Three: Std Deduction, Itemized Deductions and Others
 
 ## 10. Standard Deduction
 
@@ -446,7 +443,7 @@ layout: post
 
 ##### Charitable Contributions
 
-# Part Four - Figuring Your Taxes, and Refundable and Nonrefundable Credits
+# Part Four: Figuring Your Taxes, and Refundable and Nonrefundable Credits
 
 ## 13. How To Figure Your Tax
 
@@ -499,4 +496,3 @@ layout: post
 ## Index
 
 ## Where To File
-
