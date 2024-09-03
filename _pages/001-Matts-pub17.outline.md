@@ -1,5 +1,10 @@
+---
+title: Pub 17 Outline
+date: 2024-08-24, started
+layout: post
+---
 
-> W/H = Withholding, S.S. - social security, AGI - adjusted gross income, 
+> W/H = Withholding, S.S. - social security, AGI - adjusted gross income,
 {: .block-tip }
 
 
@@ -154,17 +159,57 @@ Pub. 17 closely follows Form 1040
 
 ### Surviving Spouses, Executors, Administrators, and Legal Representatives
 
-##### U.S. Citizens and Resident Aliens Living Abroad
+- must file a final return for a decedent
+- you are executor, administrator, or legal representative
+- see Pub. 559
 
-##### Residents of Puerto Rico
+#### U.S. Citizens and Resident Aliens Living Abroad
 
-##### Individuals With Income From U.S. Territories
+- See Pub. 54
+- See AGI and table ???
 
-##### Dependents
+#### Residents of Puerto Rico
 
-##### Certain Children Under Age 19 or Full-Time Students
+- file based on AGI
+- See Table 1-1 or Table 1-2
+- See Pub. 570
 
-##### Self-Employed Persons
+#### Individuals With Income From U.S. Territories
+
+- Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
+- See Pub. 570
+
+### Dependents
+
+- See Table 1-2
+- See Table 1-3
+
+#### Responsibility of parent
+
+- Generally, children are responsible for filing, & paying
+- If a child cannot then adult MUST, also sign child's name & **“By (your signature), parent for minor child.”**
+
+#### Child's earnings
+
+- Child earnings are included in the child’s Gross Income and not the Gross Income of parent.
+- IF child does not pay the adult is liable
+
+### Certain Children Under Age 19 or Full-Time Students
+
+- If a child's only income is interest and dividends, child < 19 or full-time student < 24, a parent can include the child's income on the parent's return. 
+- If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents’ Election To Report Child’s Interest and Dividends
+
+### Self-Employed Persons
+
+- Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
+- **Must file Form 1040 or 1040-SR and Schedule SE (Form 1040)**, Self-Employment Tax IFF:
+- >$400 from self-employment (excluding church employee income) or
+- Church employee income >$108.28
+- See Table 1-3
+- See Pub. 334
+
+#### Employees of foreign governments or international organizations
+
 
 ##### Aliens
 

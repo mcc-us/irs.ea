@@ -1,3 +1,9 @@
+---
+title: Pub 17 OUTLINE 2
+
+layout: post
+---
+
 # Introduction
 
 ## How this publication is arranged
