@@ -1,6 +1,6 @@
 ---
 layout: home
-title: IRS EA Notes
+title: IRS EA Notes Homepage
 permalink: /
 ---
 
@@ -11,7 +11,6 @@ function button3() { window.open("https://www.irs.gov/help/ita"); }
 function button4() { window.open("https://www.govinfo.gov/content/pkg/USCODE-2021-title26/html/USCODE-2021-title26-subtitleA-chap1-subchapN.htm"); }
 </script>
 
-Page 1
 
 | **IRS Information** ||
 |:-|:-:|
