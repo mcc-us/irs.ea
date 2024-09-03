@@ -8,13 +8,14 @@ layout: post
 {: .block-tip }
 
 
-**Pub. 17 closely follows Form 1040**
+
 
 #### Main Points
 
 1. Who must file a return,
 2. When the return is due,
 3. How to e-file your return, etc
+4. Pub. 17 closely follows Form 1040
 
 #### Not covered in this publication
 
@@ -43,21 +44,23 @@ layout: post
 
 #### Who must file
 
-![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)
-![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)
-![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)
+|Who must file|
+|:-:|
+|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
+|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
 ### Reminders
 
 #### File online
 
-- If your adjusted gross income (AGI) is less than a certain amount, you are eligible for Free File
+- If adjusted gross income (AGI) is < 64K-79K, file for FREE
 
 #### Access your online account
 
-- Go to IRS.gov/Account
+- `IRS.gov/Account`
 - See payment plan details or apply for a new payment plan
-- Make payments, 
+- Make payments
 - View 5 years of payment history and any pending or scheduled payments
 - Access your tax records, including key data from your most recent tax return, your economic impact payment amounts, and transcripts
 - View digital copies of select notices from the IRS
@@ -77,14 +80,17 @@ layout: post
 
 - See Refunds
 
-#### Pay online or by phone - See How to pay
+#### Pay online or by phone
 
-#### Installment agreement - See install agreement section?
+- See How to pay
+
+#### Installment agreement
+
+- See install agreement section?
 
 #### Automatic 6-month extension
 
 - Form 4868
-
 
 #### Service in combat zone
 
@@ -104,13 +110,13 @@ layout: post
 - 
 #### Frivolous tax submissions
 
-- The IRS has published a lists of frivolous positions.
-- Penalty = $5,000, per submissions
-- see Civil Penalties,
+- The IRS has published a lists of frivolous positions. WHERE?
+- Penalty = $5,000 per submissions
+- see Civil Penalties
 
 ### Introduction
 
-- Discusses, Whether you have to file a return, How to file electronically, How to file for free, When, how, and where to file your return. What happens if you pay too little/too much tax, What records to keep and how long. How you can change a return you have already filed.
+- Discusses: Whether you have to file a return, How to file electronically, How to file for free, When, how, and where to file your return. What happens if you pay too little/too much tax, What records to keep and how long. How you can change a return you have already filed.
 
 #### Do I Have To File a Return?
 
