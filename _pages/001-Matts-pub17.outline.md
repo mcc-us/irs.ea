@@ -4,11 +4,10 @@ date: 2024-08-24, started
 layout: post
 ---
 
-> W/H = Withholding
-> S.S. - social security
-> AGI - adjusted gross income
-{: .block-tip }
-
+> W/H = Withholding  
+> S.S. - social security  
+> AGI - adjusted gross income  
+{: .block-tip }  
 
 #### Main Points
 
