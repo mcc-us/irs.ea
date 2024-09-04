@@ -52,9 +52,9 @@ layout: post
   - Single or Married filing separately **-->** \$13,850  
   - Married filing jointly or Qualifying surviving spouse **-->** \$27,700  
   - Head of household **-->** \$20,800
-- Credits for qualified sick and family leave wages: See Schedule 1040 H & Schedule 3, line 13z
+- Credits for qualified sick and family leave wages: See 1040 Schedule H & Schedule 3, line 13z
 - Alternative motor vehicle credit **-->** expired
-- Self-employed health insurance deduction: See Form 7206, report on Schedule 1040 1, line 17
+- Self-employed health insurance deduction: See Form 7206, report on 1040 Schedule 1, line 17
 - Charitable distribution 1X election: 2023 **-->** distribute < \$50 K from IRA
 - Increase required minimum distribution age **-->** 72yr, See Pub. 590–B
 - **IRA contribution limit increased to \$6,500 (\$7,500 for individuals $\gt$ 50 yr) from \$6,000 (\$7,000 for individuals $\gt$ 50 yr)**  
@@ -111,7 +111,7 @@ layout: post
 
 ##### 1.2.7 Installment agreement
 
-- See install agreement section?
+- See Install agreement section?
 
 #### 1.2.8 Automatic 6-month extension: Form 4868
 
@@ -125,7 +125,7 @@ layout: post
 
 ##### 1.2.11 Taxpayer identification number for aliens
 
-- doesn't have & isn't eligible to get a social security number, file Form W-7
+- Doesn't have & isn't eligible to get a social security number, file Form W-7
 
 ##### 1.2.12 Individual taxpayer identification number (ITIN) renewal
 
@@ -134,7 +134,7 @@ layout: post
 ##### 1.2.13 Frivolous tax submissions
 
 - The IRS has published a lists of frivolous positions. WHERE?
-- Penalty = $5,000 per submissions
+- Penalty **-->** \$5,000 per submissions
 - see Civil Penalties
 
 ### 1.3. Introduction
@@ -168,7 +168,7 @@ layout: post
 - Include income from outside the U.S or from the sale of your main home
 - Social security benefits if:
   - You were married & filing a separate return
-  - Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is > $25 K (or $32 K filing jointly)
+  - Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is $\gt$ \$25 K (or $32 K filing jointly)
 
 ##### 1.4.3 Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
 
@@ -226,15 +226,15 @@ layout: post
 
 ### 1.6 Children < 19yr or FT Students: Form 8814
 
-- If a child's only income is *interest & dividends* & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
+- If a child's only income is *interest & dividends* & child $\lt$ 19 or full-time student $\lt$ 24, a parent can include the child's income on the parent's return.
 - If this election is made, the child doesn't have to file a return: See Instructions for Form 8814, Parents Election To Report Child’s Interest & Dividends
 
 ### 1.7 Self-Employed Persons: Pub. 334
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
 - Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
-  - >$400 from self-employment (excluding church employee income) or
-  - Church employee income >$108.28
+  - $\gt$ $400 from self-employment (excluding church employee income) or
+  - Church employee income $\gt$ $108.28
 - See Table 1-3
 
 ##### 1.7.1 Employees of foreign governments or international organizations
