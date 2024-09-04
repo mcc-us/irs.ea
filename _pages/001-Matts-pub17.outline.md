@@ -31,22 +31,22 @@ layout: post
 
 ## 1. Filing Information
 
-### What's New
+### 1.1 What's New
 
 - ?????
 
-#### Due date of return
+#### 1.1.1 Due date of return
 
 - Generally, April 15, 2024
 
-#### New lines on Schedule 3
+#### 1.1.2 New lines on Schedule 3
 
 - Line 5a ==>> Residential clean energy credit from Form 5695
 - Line 5b ==>> Energy efficient home improvement credit from Form 5695
 - Line 6m ==>> Credit for previously owned clean vehicles from Form 8936
 - Line 13c ==>> Elective payment election amount from Form 3800
 
-#### Who must file
+#### 1.1.3 Who must file
 
 |Who must file|
 |:-:|
@@ -54,13 +54,13 @@ layout: post
 |![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-### Reminders
+### 1.2 Reminders
 
-#### File online
+#### 1.2.1 File online
 
 - If adjusted gross income (AGI) is < 64K-79K, file for FREE
 
-#### Access your online account
+#### 1.2.2 Access your online account
 
 - `www.irs.gov/account`
 - See payment plans or apply for new payment plan
@@ -72,51 +72,58 @@ layout: post
 - View your address on file or manage your communication preferences
 - Go to `www.irs.gov/secureaccess` to view the required identity authentication process.
 
-#### Change of address: use Form 8822
+#### 1.2.3 Change of address: use Form 8822
 
-#### Enter your social security number: NEED-SSN, ITIN, ATIN
+#### 1.2.4 Enter your social security number: NEED-SSN, ITIN, ATIN
 
-#### Direct deposit of refund
+#### 1.2.5 Direct deposit of refund
 
 - See Refunds
 
-#### Pay online or by phone
+#### 1.2.6 Pay online or by phone
 
 - See How to pay
 
-#### Installment agreement
+#### 1.2.7 Installment agreement
 
 - See install agreement section?
 
-#### Automatic 6-month extension: Form 4868
+#### 1.2.8 Automatic 6-month extension: Form 4868
 
-#### Service in combat zone
+#### 1.2.9 Service in combat zone
 
 - Allowed extra time, See section?
 
-#### Adoption taxpayer identification number
+#### 1.2.10 Adoption taxpayer identification number
 
 - See section?
 
-#### Taxpayer identification number for aliens
+#### 1.2.11 Taxpayer identification number for aliens
 
 - doesn't have and isn't eligible to get a social security number, file Form W-7
 
-#### Individual taxpayer identification number (ITIN) renewal
+#### 1.2.12 Individual taxpayer identification number (ITIN) renewal
 
 - see `www.irs.gov/itin`
 
-#### Frivolous tax submissions
+#### 1.2.13 Frivolous tax submissions
 
 - The IRS has published a lists of frivolous positions. WHERE?
 - Penalty = $5,000 per submissions
 - see Civil Penalties
 
-### Introduction
+### 1.3. Introduction
 
-- Discusses: Whether you have to file a return, How to file electronically, How to file for free, When, how, and where to file your return. What happens if you pay too little/too much tax, What records to keep and how long. How you can change a return you have already filed.
+- Discusses
+- Whether you have to file a return, 
+- How to file electronically, 
+- How to file for free, 
+- When, how, and where to file your return. 
+- What happens if you pay too little/too much tax, 
+- What records to keep and how long. 
+- How you can change a return you have already filed.
 
-#### Do I Have To File a Return?
+#### 1.4 Do I Have To File a Return?
 
 1. MUST FILE: Individuals, There are special rules for individuals whose spouse has died, executors, administrators, legal representatives, U.S. citizens and residents living outside the United States, residents of Puerto Rico, and individuals with income from U.S. territories.
 2. Dependents.
@@ -124,13 +131,13 @@ layout: post
 4. Self-employed persons.
 5. Aliens.
 
-#### Individuals, In General: 3 factors
+#### 1.4.1 Individuals, In General: 3 factors
 
 1. Gross income
 2. Filing status
 3. Age
 
-#### Gross income
+#### 1.4.2 Gross income
 
 - Includes ALL income: all forms of money, goods, property, and services that aren't exempt from tax
 - Include income from outside the U.S or from the sale of your main home
@@ -138,31 +145,31 @@ layout: post
   - You were married, & filing a separate return
   - Half of your S.S. benefits plus(+) gross income and any tax-exempt interest is > $25 K (or $32 K filing jointly)
 
-#### Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
+#### 1.4.3 Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
 
 - Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin
 
-#### Self-employed individuals
+#### 1.4.4 Self-employed individuals
 
 - AGI includes the amount on line 7 of Schedule C (Form 1040) Profit or Loss From Business; and line 9
 
-#### Filing status
+#### 1.4.5 Filing status
 
 - Single or married and your family situation.
 - See Chapter 2
 
-#### Age See Table 1-1
+#### 1.4.6 Age See Table 1-1
 
-### Surviving Spouses, Executors, Administrators, and Legal Representatives: Pub. 559
+### 1.5 Surviving Spouses, Executors, Administrators, and Legal Representatives: Pub. 559
 
 - MUST file a final return for a decedent
 - you are executor, administrator, or legal representative
 
-#### U.S. Citizens and Resident Aliens Living Abroad: Pub. 54
+#### 1.5.1 U.S. Citizens and Resident Aliens Living Abroad: Pub. 54
 
 - See AGI and table ???
 
-#### Residents of Puerto Rico: Pub. 570
+#### 1.5.2 Residents of Puerto Rico: Pub. 570
 
 - file based on AGI
 - See Table 1-1 or Table 1-2
@@ -173,31 +180,31 @@ layout: post
 |![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-#### Individuals With Income From U.S. Territories: Pub. 570
+#### 1.5.3 Individuals With Income From U.S. Territories: Pub. 570
 
 - Guam, The Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
 
-### Dependents
+### 1.5.4 Dependents
 
 - See Table 1-2
 - See Table 1-3
 
-#### Responsibility of parent
+#### 1.5.5 Responsibility of parent
 
 - Generally, children ARE responsible for filing, & paying
 - If a child cannot then adult MUST, also sign child's name & **“By (your signature), parent for minor child.”**
 
-#### Child's earnings
+#### 1.5.6 Child's earnings
 
 - Child earnings are (Generally) included in the child’s Gross Income and not the Gross Income of parent.
 - IF child does not pay the adult is liable.
 
-### Children < 19yr or FT Students: Form 8814
+### 1.6 Children < 19yr or FT Students: Form 8814
 
 - If a child's only income is *interest and dividends*, & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
 - If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents Election To Report Child’s Interest and Dividends
 
-### Self-Employed Persons: Pub. 334
+### 1.7 Self-Employed Persons: Pub. 334
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
 - Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
@@ -205,21 +212,21 @@ layout: post
   - Church employee income >$108.28
 - See Table 1-3
 
-#### Employees of foreign governments or international organizations
+#### 1.7.1 Employees of foreign governments or international organizations
 
 - If you're from U.S. in the U.S. for an international org, and your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
 
-#### Ministers: Pub. 517
+#### 1.7.2 Ministers: Pub. 517
 
 - Like Self-employed
 
-### Aliens: Pub. 519
+### 1.8 Aliens: Pub. 519
 
 - Resident alien - Must file, same rules as US citizens
 - Nonresident alien - Must file, same rules as US citizens w/ exceptions
 - Dual-status taxpayer - Different rules apply for each part of year in and out of country
 
-### Who Should File: See Pub. 596, 970, 974
+### 1.9 Who Should File: See Pub. 596, 970, 974
 
 - Even if you don't have to file, you should to get your money back if:
 - Had tax W/H or Est. your tax or any tax credit
@@ -227,11 +234,69 @@ layout: post
 - For Premium tax credit, See Pub. 974
 - For American opportunity credit, See Pub. 970
 
-#### Why Should I File Electronically?
+#### 1.10 Why Should I File Electronically?
 
 - Table 1-4 for FREE Filing services
 
-##### Requirements for an electronic return
+#### 1.11 Requirements for an electronic return
+
+#### 1.12 Self-Select PIN
+
+#### 1.13 Practitioner PIN
+
+#### 1.14 Form 8453
+
+#### 1.15 Identity Protection PIN
+
+#### 1.16 Power of attorney
+
+#### 1.17 State returns
+
+#### 1.18 Refunds
+
+#### 1.19 Refund inquiries
+
+#### 1.20 Amount you owe
+
+#### 1.21 Using Your Personal Computer
+
+#### 1.22 Through Employers and Financial Institutions
+
+#### 1.23 Free Help With Your Return
+
+#### 1.24 Using a Tax Professional
+
+### 1.x When Do I Have To File?
+
+#### Filing paper returns on time
+
+#### Private delivery services
+
+#### Filing electronic returns on time
+
+#### Filing late
+
+#### Filing for a decedent
+
+### Extensions of Time To File
+
+#### Automatic Extension
+
+E-file options.
+
+E-file using your personal computer or a tax professional.
+
+E-file and pay by credit or debit card or by direct transfer from your bank account
+
+Filing a paper Form 4868
+
+When to file.
+
+When you file your return
+
+Individuals Outside the United States
+
+#### Nonresident alien
 
 ## 2. Filing Status
 
