@@ -32,10 +32,10 @@ layout: post
 
 ### 1.1 What's New & Reminders & Introduction
 
-- Line 5a --> Residential clean energy credit from Form 5695
-- Line 5b --> Energy efficient home improvement credit from Form 5695
-- Line 6m --> Credit for previously owned clean vehicles from Form 8936
-- Line 13c --> Elective payment election amount from Form 3800
+- Line 5a **-->** Residential clean energy credit from Form 5695
+- Line 5b **-->** Energy efficient home improvement credit from Form 5695
+- Line 6m **-->** Credit for previously owned clean vehicles from Form 8936
+- Line 13c **-->** Elective payment election amount from Form 3800
 
 |Who must file|
 |:-:|
@@ -45,21 +45,21 @@ layout: post
 
 ---
 
-- Child tax credit --> \$1,600 for each qualifying child
+- Child tax credit **-->** \$1,600 for each qualifying child
 - New clean vehicle credit: See Form 8936 & 1040-Schedule 3, line 6f
 - Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, see Form 8936
 - Std deduction amount:  
-  - Single or Married filing separately --> \$13,850  
-  - Married filing jointly or Qualifying surviving spouse --> \$27,700  
-  - Head of household: \$20,800
+  - Single or Married filing separately **-->** \$13,850  
+  - Married filing jointly or Qualifying surviving spouse **-->** \$27,700  
+  - Head of household **-->** \$20,800
 - Credits for qualified sick and family leave wages: See Schedule 1040 H & Schedule 3, line 13z
-- Alternative motor vehicle credit = expired
+- Alternative motor vehicle credit **-->** expired
 - Self-employed health insurance deduction: See Form 7206, report on Schedule 1040 1, line 17
-- Charitable distribution 1X election: 2023, you can elect to distribute < \$50 K from IRA
-- Increase required minimum distribution age: 72yr, See Pub. 590–B
+- Charitable distribution 1X election: 2023 **-->** distribute < \$50 K from IRA
+- Increase required minimum distribution age **-->** 72yr, See Pub. 590–B
 - **IRA contribution limit increased to \$6,500 (\$7,500 for individuals $\gt$ 50 yr) from \$6,000 (\$7,000 for individuals $\gt$ 50 yr)**  
-- Deferred compensation contribution increased: If you have 401(k), 403(b),fed gov Thrift Savings Plan --> $\gt$ \$22.5 K (\$30 K, if $\gt$ \$50 yr), also for most 457 plans
-- Insurance premiums for retired public safety officers: can exclude from income up --> \$3 K.
+- Deferred compensation contribution increased: If you have 401(k), 403(b),fed gov Thrift Savings Plan **-->** $\gt$ \$22.5 K (\$30 K, if $\gt$ \$50 yr), also for most 457 plans
+- Insurance premiums for retired public safety officers: can exclude from income up **-->** \$3 K.
 - ????Exception to the 10% additional tax for early distributions????
 
 ### 1.2 Do I Have To File A Return?
