@@ -66,13 +66,9 @@ layout: post
 
 |Who must file|
 |:-:|
-|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
-|![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
-|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
-
-
-
-
+|![Table 1-1](/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-2](/assets/images/images.pub.17/table.1.2.png)|
+|![Table 1-3](/assets/images/images.pub.17/table.1.3.png)|
 
 #### 1.2.1 FREE File
 
@@ -85,7 +81,7 @@ layout: post
 |3|          OLT.com|            Any|          <= 45k|All states|All|
 |4|FileYourTaxes.com|          <= 64|          <= 45k|All states|Some|
 |5|       FreeTaxUSA|            Any|8.5k <= x <= 45k|All states|All|
-|6|    TaxSlayer    |            Any|          <= 45k|All states|Some|
+|6|        TaxSlayer|            Any|          <= 45k|All states|Some|
 |7|           TaxAct|20 <= age <= 58|          <= 45k|All states|Some|
 |8|  ezTaxReturn.com|            Any|          <= 79k|Some states|No|
 
