@@ -1,19 +1,19 @@
 ---
-title: Pub 17 Outline
+title: Pub 17 Notes
 date: 2024-08-24, started
 layout: post
 ---
 
 > W/H = Withholding  
-> S.S. - social security  
-> AGI - adjusted gross income  
+> SS = Social security  
+> AGI = Adjusted gross income  
 {: .block-tip }  
 
 #### Main Points
 
-1. Who must file a return,
-2. When the return is due,
-3. How to e-file your return, etc
+1. Who must file
+2. When file
+3. How to e-file
 4. Pub. 17 closely follows Form 1040
 
 #### Not in this publication
