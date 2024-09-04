@@ -9,34 +9,41 @@ layout: post
 > AGI = Adjusted gross income  
 {: .block-tip }  
 
-#### Main Points
+- **Main Points**
 
-4. Pub. 17 closely follows Form 1040
+1. Pub. 17 closely follows Form 1040
 1. Who must file?
-2. When to file?
-3. How to e-file?
-5. What happens if you pay more/less tax?
-6. What records to keep and how long?
-7. How to ammend a filing?
+1. When to file?
+1. How to e-file?
+1. What happens if you pay more/less tax?
+1. What records to keep and how long?
+1. How to ammend a filing?
 
-#### Not in this publication
+- **Not in this publication**
 
-- Pub. 334, Tax Guide for Small Business
-- Pub. 225, Farmer's Tax Guide
-- Pub. 587, Business Use of Your Home
-
-#### Publication 17 Changes ?????????
+1. Pub. 334, Tax Guide for Small Business
+2. Pub. 225, Farmer's Tax Guide
+3. Pub. 587, Business Use of Your Home
+4. **Publication 17 Changes ?????????**
 
 # Part One: The Income Tax Return
 
 ## 1. Filing Information
 
-### 1.1 What's New & Reminders
+### 1.1 What's New & Reminders & Introduction
 
 - Line 5a --> Residential clean energy credit from Form 5695
 - Line 5b --> Energy efficient home improvement credit from Form 5695
 - Line 6m --> Credit for previously owned clean vehicles from Form 8936
 - Line 13c --> Elective payment election amount from Form 3800
+
+|Who must file|
+|:-:|
+|![Table 1-1](/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-2](/assets/images/images.pub.17/table.1.2.png)|
+|![Table 1-3](/assets/images/images.pub.17/table.1.3.png)|
+
+---
 
 - Child tax credit --> \$1,600 for each qualifying child
 - New clean vehicle credit: See Form 8936 & 1040-Schedule 3, line 6f
@@ -55,15 +62,17 @@ layout: post
 - Insurance premiums for retired public safety officers: can exclude from income up --> \$3 K.
 - ????Exception to the 10% additional tax for early distributions????
 
-### 1.2 Do I Have To File?
-
-#### Tables
+### 1.2 Do I Have To File A Return?
 
 |Who must file|
 |:-:|
 |![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
 |![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
+
+
+
+
 
 #### 1.2.1 FREE File
 
