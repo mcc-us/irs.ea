@@ -22,9 +22,11 @@ layout: post
 - Pub. 225, Farmer's Tax Guide
 - Pub. 587, Business Use of Your Home
 
-## Publication 17 Changes
+#### What's New
 
-- ????
+#### Reminders
+
+#### Publication 17 Changes
 
 # Part One: The Income Tax Return
 
@@ -32,18 +34,30 @@ layout: post
 
 ### 1.1 What's New
 
-- ?????
-
-#### 1.1.1 Due date of return
-
-- Generally, April 15, 2024
-
-#### 1.1.2 New lines on Schedule 3
-
 - Line 5a ==>> Residential clean energy credit from Form 5695
 - Line 5b ==>> Energy efficient home improvement credit from Form 5695
 - Line 6m ==>> Credit for previously owned clean vehicles from Form 8936
 - Line 13c ==>> Elective payment election amount from Form 3800
+
+- Child tax credit = $1,600 for each qualifying child
+- New clean vehicle credit: See Form 8936 & 1040-Schedule 3, line 6f
+- Previously owned clean vehicle credit - credit is available for previously owned clean vehicles, see Form 8936
+- Std deduction amount:  
+  - Single or Married filing separately - $13,850  
+  - Married filing jointly or Qualifying surviving spouse- $27,700  
+  - Head of household - $20,800
+- Credits for qualified sick and family leave wages - See Schedule 1040 H & Schedule 3, line 13z
+- Alternative motor vehicle credit = expired
+- Self-employed health insurance deduction - See Form 7206, report on Schedule 1040 1, line 17
+- Charitable distribution 1X election - 2023, you can elect to distribute < $50,000 from IRA
+- Increase required minimum distribution age - 72yr, See Pub. 590–B
+- IRA contribution limit increased to $6,500 ($7,500 for individuals $gt$ 50 yr) from $6,000 ($7,000 for individuals $gt$ 50 yr)
+
+
+
+
+
+### 1.2 Reminders
 
 #### 1.1.3 Who must file
 
@@ -64,8 +78,8 @@ layout: post
 - `www.irs.gov/account`
 - See payment plans or apply for new payment plan
 - Make payments
-- View 5 years of payment history and any pending or scheduled payments
-- Access your tax records, including key data from your most recent tax return, your economic impact payment amounts, and transcripts
+- View 5 years of payment history & any pending or scheduled payments
+- Access your tax records, including key data from your most recent tax return, your economic impact payment amounts & transcripts
 - View digital copies of select notices from the IRS
 - Approve or reject authorization requests from tax professionals
 - View your address on file or manage your communication preferences
@@ -99,7 +113,7 @@ layout: post
 
 #### 1.2.11 Taxpayer identification number for aliens
 
-- doesn't have and isn't eligible to get a social security number, file Form W-7
+- doesn't have & isn't eligible to get a social security number, file Form W-7
 
 #### 1.2.12 Individual taxpayer identification number (ITIN) renewal
 
@@ -117,14 +131,14 @@ layout: post
 - Whether you have to file a return, 
 - How to file electronically, 
 - How to file for free, 
-- When, how, and where to file your return. 
+- When, how & where to file your return. 
 - What happens if you pay too little/too much tax, 
-- What records to keep and how long. 
+- What records to keep & how long. 
 - How you can change a return you have already filed.
 
 #### 1.4 Do I Have To File a Return?
 
-1. MUST FILE: Individuals, There are special rules for individuals whose spouse has died, executors, administrators, legal representatives, U.S. citizens and residents living outside the United States, residents of Puerto Rico, and individuals with income from U.S. territories.
+1. MUST FILE: Individuals, There are special rules for individuals whose spouse has died, executors, administrators, legal representatives, U.S. citizens & residents living outside the United States, residents of Puerto Rico & individuals with income from U.S. territories.
 2. Dependents.
 3. Certain children under age 19 or full-time students.
 4. Self-employed persons.
@@ -138,35 +152,35 @@ layout: post
 
 #### 1.4.2 Gross income
 
-- Includes ALL income: all forms of money, goods, property, and services that aren't exempt from tax
+- Includes ALL income: all forms of money, goods, property & services that aren't exempt from tax
 - Include income from outside the U.S or from the sale of your main home
 - Social security benefits if:
-  - You were married, & filing a separate return
-  - Half of your S.S. benefits plus(+) gross income and any tax-exempt interest is > $25 K (or $32 K filing jointly)
+  - You were married & filing a separate return
+  - Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is > $25 K (or $32 K filing jointly)
 
 #### 1.4.3 Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
 
-- Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin
+- Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington & Wisconsin
 
 #### 1.4.4 Self-employed individuals
 
-- AGI includes the amount on line 7 of Schedule C (Form 1040) Profit or Loss From Business; and line 9
+- AGI includes the amount on line 7 of Schedule C (Form 1040) Profit or Loss From Business & line 9
 
 #### 1.4.5 Filing status
 
-- Single or married and your family situation.
+- Single or married & your family situation.
 - See Chapter 2
 
 #### 1.4.6 Age See Table 1-1
 
-### 1.5 Surviving Spouses, Executors, Administrators, and Legal Representatives: Pub. 559
+### 1.5 Surviving Spouses, Executors, Administrators & Legal Representatives: Pub. 559
 
 - MUST file a final return for a decedent
 - you are executor, administrator, or legal representative
 
-#### 1.5.1 U.S. Citizens and Resident Aliens Living Abroad: Pub. 54
+#### 1.5.1 U.S. Citizens & Resident Aliens Living Abroad: Pub. 54
 
-- See AGI and table ???
+- See AGI & table ???
 
 #### 1.5.2 Residents of Puerto Rico: Pub. 570
 
@@ -190,18 +204,18 @@ layout: post
 
 #### 1.5.5 Responsibility of parent
 
-- Generally, children ARE responsible for filing, & paying
+- Generally, children ARE responsible for filing & paying
 - If a child cannot then adult MUST, also sign child's name & **“By (your signature), parent for minor child.”**
 
 #### 1.5.6 Child's earnings
 
-- Child earnings are (Generally) included in the child’s Gross Income and not the Gross Income of parent.
+- Child earnings are (Generally) included in the child’s Gross Income & not the Gross Income of parent.
 - IF child does not pay the adult is liable.
 
 ### 1.6 Children < 19yr or FT Students: Form 8814
 
-- If a child's only income is *interest and dividends*, & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
-- If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents Election To Report Child’s Interest and Dividends
+- If a child's only income is *interest & dividends* & child < 19 or full-time student < 24, a parent can include the child's income on the parent's return.
+- If this election is made, the child doesn't have to file a return. - See Instructions for Form 8814, Parents Election To Report Child’s Interest & Dividends
 
 ### 1.7 Self-Employed Persons: Pub. 334
 
@@ -213,7 +227,7 @@ layout: post
 
 #### 1.7.1 Employees of foreign governments or international organizations
 
-- If you're from U.S. in the U.S. for an international org, and your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
+- If you're from U.S. in the U.S. for an international org & your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
 
 #### 1.7.2 Ministers: Pub. 517
 
@@ -223,7 +237,7 @@ layout: post
 
 - Resident alien - Must file, same rules as US citizens
 - Nonresident alien - Must file, same rules as US citizens w/ exceptions
-- Dual-status taxpayer - Different rules apply for each part of year in and out of country
+- Dual-status taxpayer - Different rules apply for each part of year in & out of country
 
 ### 1.9 Who Should File: See Pub. 596, 970, 974
 
@@ -259,7 +273,7 @@ layout: post
 
 #### 1.21 Using Your Personal Computer
 
-#### 1.22 Through Employers and Financial Institutions
+#### 1.22 Through Employers & Financial Institutions
 
 #### 1.23 Free Help With Your Return
 
@@ -285,7 +299,7 @@ E-file options.
 
 E-file using your personal computer or a tax professional.
 
-E-file and pay by credit or debit card or by direct transfer from your bank account
+E-file & pay by credit or debit card or by direct transfer from your bank account
 
 Filing a paper Form 4868
 
@@ -325,7 +339,7 @@ Individuals Outside the United States
 
 ### What's New
 
-#### Child and Dependent Care Credit
+#### Child & Dependent Care Credit
 
 ### Reminders
 
@@ -339,7 +353,7 @@ Individuals Outside the United States
 
 ##### Qualifying Relative
 
-## 4. Tax Withholding and Estimated Tax
+## 4. Tax Withholding & Estimated Tax
 
 ### What's New
 
@@ -359,9 +373,9 @@ Individuals Outside the United States
 
 ##### Adjusting Your Withholding
 
-# Part Two: Income and Adjustments to Income
+# Part Two: Income & Adjustments to Income
 
-## 5. Wages, Salaries, and Other Earnings
+## 5. Wages, Salaries & Other Earnings
 
 ### What's New
 
@@ -397,7 +411,7 @@ Individuals Outside the United States
 
 ##### Tax-Exempt Interest
 
-## 7. Social Security and Equivalent Railroad Retirement Benefits
+## 7. Social Security & Equivalent Railroad Retirement Benefits
 
 ### What's New
 
@@ -451,7 +465,7 @@ Individuals Outside the United States
 
 ##### Roth IRAs
 
-# Part Three: Std Deduction, Itemized Deductions and Others
+# Part Three: Std Deduction, Itemized Deductions & Others
 
 ## 10. Standard Deduction
 
@@ -475,7 +489,7 @@ Individuals Outside the United States
 
 ### What's New
 
-#### State and Local Tax Deduction
+#### State & Local Tax Deduction
 
 ### Reminders
 
@@ -485,7 +499,7 @@ Individuals Outside the United States
 
 #### Types of Taxes
 
-##### State and Local Taxes
+##### State & Local Taxes
 
 ##### Real Estate Taxes
 
@@ -497,7 +511,7 @@ Individuals Outside the United States
 
 ### Reminders
 
-#### Medical and Dental Expenses
+#### Medical & Dental Expenses
 
 ### Introduction
 
@@ -507,7 +521,7 @@ Individuals Outside the United States
 
 ##### Charitable Contributions
 
-# Part Four: Figuring Your Taxes, and Refundable and Nonrefundable Credits
+# Part Four: Figuring Your Taxes & Refundable & Nonrefundable Credits
 
 ## 13. How To Figure Your Tax
 
@@ -527,7 +541,7 @@ Individuals Outside the United States
 
 ##### Tax Computation Worksheet
 
-## 14. Child Tax Credit and Credit for Other Dependents
+## 14. Child Tax Credit & Credit for Other Dependents
 
 ### What's New
 
