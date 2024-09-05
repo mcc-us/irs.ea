@@ -441,3 +441,208 @@ layout: post
 ## Index
 
 ## Where To File
+
+---
+
+
+# Part Two: Income & Adjustments to Income
+
+## 5. Wages, Salaries & Other Earnings
+
+### What's New
+
+##### Changes in Wage Reporting
+
+### Reminders
+
+##### Form W-2
+
+### Introduction
+
+##### Types of Income
+
+##### Employee Compensation
+
+##### Fringe Benefits
+
+## 6. Interest Income
+
+### What's New
+
+#### Interest on U.S. Savings Bonds
+
+### Reminders
+
+#### Reporting Interest Income
+
+### Introduction
+
+#### Types of Interest Income
+
+##### Taxable Interest
+
+##### Tax-Exempt Interest
+
+## 7. Social Security & Equivalent Railroad Retirement Benefits
+
+### What's New
+
+#### Increase in Social Security Benefits
+
+### Reminders
+
+#### Reporting Social Security Income
+
+### Introduction
+
+#### Taxable Benefits
+
+##### How to Report
+
+##### Lump-Sum Election
+
+## 8. Other Income
+
+### What's New
+
+#### Changes in Reporting Requirements
+
+### Reminders
+
+#### Reporting Other Income
+
+### Introduction
+
+#### Types of Other Income
+
+##### Alimony
+
+##### Gambling Winnings
+
+## 9. Individual Retirement Arrangements (IRAs)
+
+### What's New
+
+#### IRA Contribution Limits
+
+### Reminders
+
+#### Penalties for Early Withdrawal
+
+### Introduction
+
+#### Types of IRAs
+
+##### Traditional IRAs
+
+##### Roth IRAs
+
+# Part Three: Std Deduction, Itemized Deductions & Others
+
+## 10. Standard Deduction
+
+### What's New
+
+#### Standard Deduction Amounts
+
+### Reminders
+
+#### Claiming the Standard Deduction
+
+### Introduction
+
+#### Who Should Itemize?
+
+##### Standard Deduction for Dependents
+
+##### Additional Standard Deduction
+
+## 11. Taxes
+
+### What's New
+
+#### State & Local Tax Deduction
+
+### Reminders
+
+#### Deductible Taxes
+
+### Introduction
+
+#### Types of Taxes
+
+##### State & Local Taxes
+
+##### Real Estate Taxes
+
+## 12. Other Itemized Deductions
+
+### What's New
+
+#### Changes in Deductible Expenses
+
+### Reminders
+
+#### Medical & Dental Expenses
+
+### Introduction
+
+#### Types of Deductions
+
+##### Medical Expenses
+
+##### Charitable Contributions
+
+# Part Four: Figuring Your Taxes & Refundable & Nonrefundable Credits
+
+## 13. How To Figure Your Tax
+
+### What's New
+
+#### Tax Tables
+
+### Reminders
+
+#### Alternative Minimum Tax
+
+### Introduction
+
+#### Tax Computation Methods
+
+##### Tax Table
+
+##### Tax Computation Worksheet
+
+## 14. Child Tax Credit & Credit for Other Dependents
+
+### What's New
+
+#### Changes in Credit Amounts
+
+### Reminders
+
+#### Claiming the Credit
+
+### Introduction
+
+#### Eligibility Requirements
+
+##### Qualifying Child
+
+##### Credit for Other Dependents
+
+# Additional Information
+
+## 2023 Tax Table
+
+## 2023 Tax Computation Worksheet
+
+## 2023 Tax Rate Schedules
+
+## Your Rights as a Taxpayer
+
+## How To Get Tax Help
+
+## Index
+
+## Where To File

@@ -12,12 +12,12 @@ layout: post
 - **Main Points**
 
 1. Pub. 17 closely follows Form 1040
-1. Who must file?
-1. When to file?
-1. How to e-file?
-1. What happens if you pay more/less tax?
-1. What records to keep and how long?
-1. How to ammend a filing?
+1. Who must file
+1. When to file
+1. How to e-file
+1. Paying more/less tax
+1. What records to keep and how long
+1. How to ammend
 
 - **Not in this publication**
 
@@ -31,10 +31,12 @@ layout: post
 
 ### 1.1 What's New & Reminders & Introduction
 
-- Line 5a **-->** Residential clean energy credit from Form 5695
-- Line 5b **-->** Energy efficient home improvement credit from Form 5695
-- Line 6m **-->** Credit for previously owned clean vehicles from Form 8936
-- Line 13c **-->** Elective payment election amount from Form 3800
+- Child tax credit **-->** \$1,600 for each qualifying child  
+
+- New clean vehicle credit: Use Form 8936 & 1040-Schedule 3, line 6f  
+- Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, Use Form 8936
+
+---
 
 |Who must file|
 |:-:|
@@ -44,22 +46,105 @@ layout: post
 
 ---
 
-- Child tax credit **-->** \$1,600 for each qualifying child
-- New clean vehicle credit: See Form 8936 & 1040-Schedule 3, line 6f
-- Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, see Form 8936
-- Std deduction amount:  
-  - Single or Married filing separately **-->** \$13,850  
-  - Married filing jointly or Qualifying surviving spouse **-->** \$27,700  
-  - Head of household **-->** \$20,800
-- Credits for qualified sick and family leave wages: See 1040 Schedule H & Schedule 3, line 13z
+- Std Deductions for 2023:  
+
+|Single or Married filing separately|Married filing jointly or Qualifying surviving spouse|Head of household|
+|-|-|-|
+|\$13,850|\$27,700|\$20,800|
+
+---
+
+- **Schedule 3-1040 Add'ns**
+- Line 5a **-->** Residential clean energy credit: Form 5695
+- Line 5b **-->** Energy efficient home improvement credit: Form 5695
+- Line 6m **-->** Credit for previously owned clean vehicles: Form 8936
+- Line 13c **-->** Elective payment election amount: Form 3800
+
+- Credits for qualified sick and family leave wages: Use 1040 Schedule H & Schedule 3, line 13z
+
 - Alternative motor vehicle credit **-->** expired
-- Self-employed health insurance deduction: See Form 7206, report on 1040 Schedule 1, line 17
-- Charitable distribution 1X election: 2023 **-->** distribute < \$50 K from IRA
-- Increase required minimum distribution age **-->** 72yr, See Pub. 590–B
-- **IRA contribution limit increased to \$6,500 (\$7,500 for individuals $\gt$ 50 yr) from \$6,000 (\$7,000 for individuals $\gt$ 50 yr)**  
-- Deferred compensation contribution increased: If you have 401(k), 403(b),fed gov Thrift Savings Plan **-->** $\gt$ \$22.5 K (\$30 K, if $\gt$ \$50 yr), also for most 457 plans
-- Insurance premiums for retired public safety officers: can exclude from income up **-->** \$3 K.
+
+- Self-employed health insurance deduction: Use Form 7206, report on 1040 Schedule 1, line 17
+
+- 1X Charitable distribution: 2023 **-->** distribute < \$50K from IRA
+
+- Increase required minimum distribution age **-->** 72yr, Use Pub. 590–B
+
+- IRA contribution limit increased to:
+
+|Problem|
+|-|
+|\$6,500 (\$7,500 for individuals $\gt$ 50 yr) from \$6,000 (\$7,000 for individuals $\gt$ 50 yr)**|
+
+- Deferred compensation contribution (401(k), 403(b),fed gov Thrift Savings Plan) increased: **-->** $\gt$ \$22.5 K (\$30 K, if $\gt$ \$50 yr), also for most 457 plans
+
+- Insurance premiums for retired public safety officers: can now exclude **\$3 K** from income
+
 - ????Exception to the 10% additional tax for early distributions????
+
+- Use: www.irs.gov/directfile
+
+- Health Flexible Spending Act under cafeteria plans = \$3,050, under section 125(i) on volunttary salary redux.
+
+- Temp. allowance of 100% business meal deduction has **Expired**, section 210.
+
+- Diaster tax relief - See Disaster-Related Relief in Pub. 590-B  
+
+- Distributions to terminally ill individuals. The exception to the 10% additional tax for early distributions is expanded to distributions made after 12/29/2022, to a certified individual. See Pub. 590-B
+
+- **??   Certain corrective distributions not subject to 10% early distribution tax. Beginning with distributions made on 12/29/2022, and after, the 10% additionaltax on early distributions will not apply to the income attributed to a corrective IRA distribution, as long as the corrective distribution is made on or before the due date (including extensions) of the income tax return.**
+
+- The IRS cannot issue refunds before mid-February 2024 for returns that claim Additional child tax credit (ACTC).
+
+---
+
+- Standard mileage rates per mile
+
+|Business|Charitable organizations|Medical|
+|-|-|-|
+|65.5 cents|14 cents|22 cents|
+
+---
+
+- ????? `Modified adjusted gross income` (mAGI) limit for traditional IRA contributions. If you are covered by a retirement plan at work, your **?????? eduction** for contributions to a traditional IRA is **reduced/phased out** if the modified AGI is:
+
+|Married filing jointly<br>or<br>Qualifying surviving spouse|Single<br>or<br>Head of household|Married filing separately
+|-|-|-|
+|$\gt$ \$116,000 and $\lt$ \$136,000|$\gt$ \$73,000 and $\lt$ \$83,000|$\lt$ \$10,000|
+
+
+- **IF**
+  1. you live with your spouse **or** 
+  2. file jointly, **and** the spouse has a retirement plan (but you don't)
+  - **THEN the deduction is phased out**.
+  
+- **IF** 
+  1. (\$218K $\lt$ **mAGI** $\lt$ \$228K ) **or** 
+  2. **mAGI** $\geq$ \$228,000
+  - you can't take the IRA deduction
+  - See **?????How Much Can You Deduct in chapter 9**
+
+---
+
+- Roth IRA contributions, RE: Modified AGI limit for The Roth IRA contribution limit is reduced (phased out) in the following situations.
+  1. Your filing status is married filing jointly or qualifying surviving spouse and your modified AGI is at least $218,000. You can't make a Roth IRA contribution if your modified AGI is $228,000 or more.
+  2. Your filing status is single, head of household, or married filing separately and you didn't live with your spouse at any time in 2023 and your modified AGI is at least $138,000. You can't make a Roth IRA contribution if your modified AGI is $153,000 or more.
+  3. Your filing status is married filing separately, you lived with your spouse at any time during the year, and your modified AGI is more than zero. You can't make a Roth IRA contribution if your modified AGI is $10,000 or more. See Can You Contribute to a Roth IRA in chapter 9, later.
+
+- 2024 modified AGI limits. You can find information about the 2024 contribution and modified AGI limits in Pub. 590-A. Tax law changes for 2024. When you figure how much income tax you want withheld from your pay and when you figure your estimated tax, consider tax law changes effective in 2024. For more information, see Pub. 505. Alternative minimum tax (AMT) exemption amount increased. The AMT exemption amount is increased to $81,300 ($126,500 if married filing jointly or qualifying surviving spouse; $63,250 if married filing separately). The income levels at which the AMT exemption begins to phase out have increased to $578,150 ($1,156,300 if married filing jointly or qualifying surviving spouse).
+
+- Reporting requirements for Form 1099-K. Form 1099-K is issued by third party settlement organizations and credit card companies to report payment transactions made to you for goods and services. You must report all income on your tax return unless excluded by law, whether you received the income electronically or not, and whether you received a Form 1099-K or not. The box 1a and other amounts reported on Form 1099-K are additional pieces of information to help determine the correct amounts to report on your return.
+
+  - If you received a Form 1099-K that shows payments you didn’t receive or is otherwise incorrect, contact the Form 1099-K issuer. Don’t contact the IRS; the IRS can’t correct an incorrect Form 1099-K. If you can’t get it corrected, or you sold a personal item at a loss, see the instructions for Schedule 1, lines 8z and 24z, later, for more reporting information. All IRS information about Form 1099-K is available by going to `www.irs.gov/1099k`.
+
+
+
+
+
+
+
+
+
 
 ### 1.2 Do I Have To File A Return?
 
@@ -254,9 +339,9 @@ layout: post
 
 - Even if you don't have to file, you should to get your money back if:
 - Had tax W/H or Est. your tax or any tax credit
-- To Qualify for Earned income credit, See Pub. 596
-- For Premium tax credit, See Pub. 974
-- For American opportunity credit, See Pub. 970
+- To Qualify for Earned income credit, Use Pub. 596
+- For Premium tax credit, Use Pub. 974
+- For American opportunity credit, Use Pub. 970
 
 ### 1.3 1040 & 1040-SR
 
@@ -396,208 +481,6 @@ Filing a paper Form 4868
 
 ###### Adjusting Your Withholding
 
-# Part Two: Income & Adjustments to Income
-
-## 5. Wages, Salaries & Other Earnings
-
-### What's New
-
-##### Changes in Wage Reporting
-
-### Reminders
-
-##### Form W-2
-
-### Introduction
-
-##### Types of Income
-
-##### Employee Compensation
-
-##### Fringe Benefits
-
-## 6. Interest Income
-
-### What's New
-
-#### Interest on U.S. Savings Bonds
-
-### Reminders
-
-#### Reporting Interest Income
-
-### Introduction
-
-#### Types of Interest Income
-
-##### Taxable Interest
-
-##### Tax-Exempt Interest
-
-## 7. Social Security & Equivalent Railroad Retirement Benefits
-
-### What's New
-
-#### Increase in Social Security Benefits
-
-### Reminders
-
-#### Reporting Social Security Income
-
-### Introduction
-
-#### Taxable Benefits
-
-##### How to Report
-
-##### Lump-Sum Election
-
-## 8. Other Income
-
-### What's New
-
-#### Changes in Reporting Requirements
-
-### Reminders
-
-#### Reporting Other Income
-
-### Introduction
-
-#### Types of Other Income
-
-##### Alimony
-
-##### Gambling Winnings
-
-## 9. Individual Retirement Arrangements (IRAs)
-
-### What's New
-
-#### IRA Contribution Limits
-
-### Reminders
-
-#### Penalties for Early Withdrawal
-
-### Introduction
-
-#### Types of IRAs
-
-##### Traditional IRAs
-
-##### Roth IRAs
-
-# Part Three: Std Deduction, Itemized Deductions & Others
-
-## 10. Standard Deduction
-
-### What's New
-
-#### Standard Deduction Amounts
-
-### Reminders
-
-#### Claiming the Standard Deduction
-
-### Introduction
-
-#### Who Should Itemize?
-
-##### Standard Deduction for Dependents
-
-##### Additional Standard Deduction
-
-## 11. Taxes
-
-### What's New
-
-#### State & Local Tax Deduction
-
-### Reminders
-
-#### Deductible Taxes
-
-### Introduction
-
-#### Types of Taxes
-
-##### State & Local Taxes
-
-##### Real Estate Taxes
-
-## 12. Other Itemized Deductions
-
-### What's New
-
-#### Changes in Deductible Expenses
-
-### Reminders
-
-#### Medical & Dental Expenses
-
-### Introduction
-
-#### Types of Deductions
-
-##### Medical Expenses
-
-##### Charitable Contributions
-
-# Part Four: Figuring Your Taxes & Refundable & Nonrefundable Credits
-
-## 13. How To Figure Your Tax
-
-### What's New
-
-#### Tax Tables
-
-### Reminders
-
-#### Alternative Minimum Tax
-
-### Introduction
-
-#### Tax Computation Methods
-
-##### Tax Table
-
-##### Tax Computation Worksheet
-
-## 14. Child Tax Credit & Credit for Other Dependents
-
-### What's New
-
-#### Changes in Credit Amounts
-
-### Reminders
-
-#### Claiming the Credit
-
-### Introduction
-
-#### Eligibility Requirements
-
-##### Qualifying Child
-
-##### Credit for Other Dependents
-
-# Additional Information
-
-## 2023 Tax Table
-
-## 2023 Tax Computation Worksheet
-
-## 2023 Tax Rate Schedules
-
-## Your Rights as a Taxpayer
-
-## How To Get Tax Help
-
-## Index
-
-## Where To File
-
 
 ## APPENDIX: Publications & Forms Mentioned
 
@@ -605,12 +488,12 @@ Filing a paper Form 4868
 <button onclick="buttonFunc()">Link to Forms</button>
 
 - **Pub. 505** - Tax W/H & Estimated Tax
-- **Pub. 501** - Dependents, Standard Deduction, & Filing Information
-- **Pub. 531** - Reporting Tip Income
+- **Pub. 501** - Dependents, Standard Deduction
+- **Pub. 531** - Tip Income
 - **Pub. 225** - Farmer’s Tax Guide
-- **Pub. 519** - U.S. Tax Guide for Aliens
+- **Pub. 519** - Tax Guide for Aliens
 - **Pub. 555** - Community Property
-- **Pub. 966** - EFTPS (Electronic Federal Tax Payment System)
+- **Pub. 966** - Electronic Federal Tax Payment System (EFTPS)
 - **Pub. 5250** - Pay by Cash
 - **Form W-4** - Employee’s W/H Certificate
 - **Form W-4V** - Voluntary W/H Request
