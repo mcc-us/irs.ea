@@ -24,11 +24,10 @@ layout: post
 1. Pub. 334, Tax Guide for Small Business
 2. Pub. 225, Farmer's Tax Guide
 3. Pub. 587, Business Use of Your Home
-4. **Publication 17 Changes ?????????**
 
 # Part One: The Income Tax Return
 
-## 1. Filing Information
+## Chapter 1. Filing Information
 
 ### 1.1 What's New & Reminders & Introduction
 
@@ -598,3 +597,23 @@ Filing a paper Form 4868
 ## Index
 
 ## Where To File
+
+
+## APPENDIX: Publications & Forms Mentioned
+
+ <script> function buttonFunc() { window.open("https://www.irs.gov/forms-instructions"); } </script>
+<button onclick="buttonFunc()">Link to Forms</button>
+
+- **Pub. 505** - Tax W/H & Estimated Tax
+- **Pub. 501** - Dependents, Standard Deduction, & Filing Information
+- **Pub. 531** - Reporting Tip Income
+- **Pub. 225** - Farmer’s Tax Guide
+- **Pub. 519** - U.S. Tax Guide for Aliens
+- **Pub. 555** - Community Property
+- **Pub. 966** - EFTPS (Electronic Federal Tax Payment System)
+- **Pub. 5250** - Pay by Cash
+- **Form W-4** - Employee’s W/H Certificate
+- **Form W-4V** - Voluntary W/H Request
+- **Form 1040-ES** - Estimated Tax for Individuals
+- **Form 8822** - Change of Address
+- **Form 2210** - Underpayment of Estimated Tax by Individuals, Estates, & Trusts
