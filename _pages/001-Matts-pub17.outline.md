@@ -24,7 +24,7 @@ layout: post
 
 # Chapter 1. Filing Information
 
-## 1.1 What's New & Reminders & Introduction
+## 1.1 New for 2023, Reminders & Introduction
 
 - Child tax credit **-->** \$1,600 for each qualifying child  
 
