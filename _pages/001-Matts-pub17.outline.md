@@ -11,10 +11,9 @@ layout: post
 
 - **Main Points**
 
+1. Who, What, When, Where, How to file
+1. What records to keep and how long, How to amend filings 
 1. Pub. 17 closely follows Form 1040
-1. How, Who, When to file, Where to pay
-1. What records to keep and how long
-1. How to amend
 
 - **Not in this publication**
 
@@ -100,7 +99,7 @@ layout: post
 
 ---
 
-- Standard mileage rates per mile
+- Standard mileage rates
 
 |Business|Charitable organizations|Medical|
 |-|-|-|
@@ -159,9 +158,9 @@ Three determining factors for filing
 2. Filing status
 3. Age
 
-### 1.2.1 FREE File
+---
 
-- Programs are FREE or low-cost, if adjusted gross income (AGI) is < ~64K
+- FREE File: Programs are FREE or low-cost, if adjusted gross income (AGI) is < ~64K
 
 |#|Site|Age|Dollar|Fed|State|
 |-|-|-|-|-|-|
@@ -174,21 +173,20 @@ Three determining factors for filing
 |7|           TaxAct|20 <= age <= 58|          <= 45k|All states|Some|
 |8|  ezTaxReturn.com|            Any|          <= 79k|Some states|No|
 
-##### 1.2.2 Access your online account
+---
 
-- `www.irs.gov/account`
-- See payment plans or apply for new payment plan
-- Make payments
-- View 5 years of payment history & any pending or scheduled payments
-- Access your tax records, including key data from your most recent tax return, your economic impact payment amounts & transcripts
-- View digital copies of select notices from the IRS
-- Approve or reject authorization requests from tax professionals
-- View your address on file or manage your communication preferences
-- Go to `www.irs.gov/secureaccess` to view the required identity authentication process.
+- Access your online account: `www.irs.gov/account`
+  1. View address on file, manage communications
+  1. Make payments. See & set up payment plans, payment history
+  1. Access your tax records (key data!), transcripts, View digital copies
+  1. Approve or reject authorization requests from tax professionals
+  1. `www.irs.gov/secureaccess` for identity authentication process.
 
-##### 1.2.3 Change of address: use Form 8822
+---
 
-##### 1.2.4 Enter your social security number: NEED-SSN, ITIN, ATIN
+- Change of address: Form 8822
+
+- ONE NEEDS: SSN, ITIN, ATIN
 
 ##### 1.2.5 Direct deposit of refund
 
@@ -202,7 +200,7 @@ Three determining factors for filing
 
 - See Install agreement section?
 
-#### 1.2.8 Automatic 6-month extension: Form 4868
+- Automatic 6-month extension: Form 4868
 
 ##### 1.2.9 Service in combat zone
 
@@ -214,111 +212,71 @@ Three determining factors for filing
 
 ##### 1.2.11 Taxpayer identification number for aliens
 
+---
+
 - Doesn't have & isn't eligible to get a social security number, file Form W-7
 
-##### 1.2.12 Individual taxpayer identification number (ITIN) renewal
+- Individual taxpayer identification number (ITIN) renewal: `www.irs.gov/itin`
 
-- see `www.irs.gov/itin`
+---
 
-##### 1.2.13 Frivolous tax submissions
+- Frivolous tax submissions
+  1. The IRS has published a lists of frivolous positions. WHERE?
+  1. Penalty **-->** \$5,000 per submissions, see **Civil Penalties**
 
-- The IRS has published a lists of frivolous positions. WHERE?
-- Penalty **-->** \$5,000 per submissions
-- see Civil Penalties
+- Gross income
+  1. All forms of money, goods, property & services that aren't exempt from tax
+  1. Include income from outside the U.S or from the sale of your main home
+  1. Social security benefits if:
+     1. You were married & filing a separate return
+     1. Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is $\gt$ \$25 K or 
+     1. $32 K filing jointly
 
-### 1.3. Introduction
+- Community property states: 
+  1. Form 8958, *Allocation of Tax Amounts Between Certain Individuals in Community Property States*
+  1. Pub. 555, *Community Property*
+  1. Schedule F-Form 1040
+  1. Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington & Wisconsin
 
-- Discusses
-- Whether you have to file a return, 
-- How to file electronically, 
-- How to file for free, 
-- When, how & where to file your return. 
-- What happens if you pay too little/too much tax, 
-- What records to keep & how long. 
-- How you can change a return you have already filed.
+- Self-employed individuals
+  1. SEE: line 7 of Schedule C (Form 1040) Profit or Loss From Business & line 9
 
-##### 1.4 Do I Have To File a Return?
+- Surviving Spouses, Executors, Administrators & Legal Representatives: 
+  1. Pub. 559, Survivors, Executors, and Administrators
+  1. MUST file a final return for a decedent, IF you are executor, administrator, or legal representative
 
-1. MUST FILE: Individuals, There are special rules for individuals whose spouse has died, executors, administrators, legal representatives, U.S. citizens & residents living outside the United States, residents of Puerto Rico & individuals with income from U.S. territories.
-2. Dependents.
-3. Certain children under age 19 or full-time students.
-4. Self-employed persons.
-5. Aliens.
+- U.S. Citizens & Resident Aliens Living Abroad:
+  1. Pub. 54, *Tax Guide for U.S. Citizens and Resident Aliens Abroad*
+  1. See Tables 1-1,2,3
 
-##### 1.4.1 Individuals, In General: 3 factors
+- Residents of Puerto Rico, Guam, The Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
+  1. Pub. 570,
+  1. See Table 1-1,3
 
-1. Gross income
-2. Filing status
-3. Age
-
-##### 1.4.2 Gross income
-
-- Includes ALL income: all forms of money, goods, property & services that aren't exempt from tax
-- Include income from outside the U.S or from the sale of your main home
-- Social security benefits if:
-  - You were married & filing a separate return
-  - Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is $\gt$ \$25 K (or $32 K filing jointly)
-
-##### 1.4.3 Community property states: Form 8958, Pub.555, Schedule F (Form 1040)
-
-- Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington & Wisconsin
-
-##### 1.4.4 Self-employed individuals
-
-- AGI includes the amount on line 7 of Schedule C (Form 1040) Profit or Loss From Business & line 9
-
-##### 1.4.5 Filing status
-
-- Single or married & your family situation.
-- See Chapter 2
-
-##### 1.4.6 Age See Table 1-1
-
-### 1.5 Surviving Spouses, Executors, Administrators & Legal Representatives: Pub. 559
-
-- MUST file a final return for a decedent
-- you are executor, administrator, or legal representative
-
-##### 1.5.1 U.S. Citizens & Resident Aliens Living Abroad: Pub. 54
-
-- See AGI & table ???
-
-##### 1.5.2 Residents of Puerto Rico: Pub. 570
-
-- file based on AGI
-- See Table 1-1 or Table 1-2
-- See 
-
-|Who must file|
-|:-:|
+|MAKE LINKS|
+|-|
 |![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-##### 1.5.3 Individuals With Income From U.S. Territories: Pub. 570
 
-- Guam, The Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
 
-### 1.5.4 Dependents
+- **Dependents**
 
-- See Table 1-2
-- See Table 1-3
+- Responsibility of parent
+  1. Generally, children ARE responsible for filing & paying
+  1. If a child cannot then adult MUST, also adult must sign child's name:<br>**“By (your signature), parent for minor child.”**
 
-##### 1.5.5 Responsibility of parent
 
-- Generally, children ARE responsible for filing & paying
-- If a child cannot then adult MUST, also sign child's name & **“By (your signature), parent for minor child.”**
+- Child earnings are (Generally) **included in the child’s** Gross Income & **not parents**, AGI.
+- **IF child does not pay the adult is liable.**
 
-##### 1.5.6 Child's earnings
+- Children < 19yr or FT Students: 
+  1. Form 8814
+  1. If a child's only income is *interest & dividends* & child $\leq$ 19 or full-time student $\leq$ 24, parent can include the child's income on the parent's return.
+  1. The child can choose to lump income together:
+      1. See: i8814, *Parents Election To Report Child’s Interest & Dividends*
 
-- Child earnings are (Generally) included in the child’s Gross Income & not the Gross Income of parent.
-- IF child does not pay the adult is liable.
-
-### 1.6 Children < 19yr or FT Students: Form 8814
-
-- If a child's only income is *interest & dividends* & child $\lt$ 19 or full-time student $\lt$ 24, a parent can include the child's income on the parent's return.
-- If this election is made, the child doesn't have to file a return: See Instructions for Form 8814, Parents Election To Report Child’s Interest & Dividends
-
-### 1.7 Self-Employed Persons: Pub. 334
+- Self-Employed: *Pub. 334, Tax Guide for Small Business (Schedule C)*
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
 - Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
@@ -326,19 +284,22 @@ Three determining factors for filing
   - Church employee income $\gt$ $108.28
 - See Table 1-3
 
-##### 1.7.1 Employees of foreign governments or international organizations
+- Employees of foreign governments or international organizations
+  1. If you're from U.S. in the U.S. and work for an international org & your org. doesn't withhold Social Security & Medicare taxes (therefore you are Self-employed
+  1. Calculate self-employment taxes
 
-- If you're from U.S. in the U.S. for an international org & your org. doesn't withhold Social Security & Medicare taxes (i.e. Self-employed), you need to include this income when calculating your self-employment taxes.
 
-##### 1.7.2 Ministers: Pub. 517
+- Ministers: Pub. 517, Like Self-employed
 
-- Like Self-employed
+---
 
-### 1.8 Aliens: Pub. 519
+- Aliens: Pub. 519, *Tax Guide for Aliens*  
 
-- Resident alien: Must file, same rules as US citizens
-- Nonresident alien: Must file, same rules as US citizens w/ exceptions
-- Dual-status taxpayer: Different rules apply for each part of year in & out of country
+|Resident alien|Nonresident alien|Dual-status taxpayer|
+|-|-|-|
+|Same rules as US citizens|Some rules like US citizens, min. exceptions|Different rules based on % in country|
+
+---
 
 ### 1.9 Who Should File: See Pub. 596, 970, 974
 
