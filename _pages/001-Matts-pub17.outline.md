@@ -44,7 +44,7 @@ layout: post
 
 - Std Deductions for 2023:  
 
-|Single,<br>Married filing separately|Married filing jointly,<br>Qualifying surviving spouse|Head of household|
+|Single,<br>Married filing separately |Married filing jointly,<br>Qualifying surviving spouse |Head of household |
 |-|-|-|
 |\$13,850|\$27,700|\$20,800|
 
@@ -119,11 +119,11 @@ layout: post
   2. file jointly, **and** the spouse has a retirement plan (but you don't)
   - **THEN the deduction is phased out**.
   
-- **IF** 
+- **IF** ???????????????
   1. (\$218K $\lt$ **mAGI** $\lt$ \$228K ) **or** 
   2. **mAGI** $\geq$ \$228,000
-  - Then NO IRA deduction
-  - See **?????How Much Can You Deduct in chapter 9**
+  - **Then NO IRA deduction**
+  - See **????? How Much Can You Deduct in chapter 9**
 
 ---
 
@@ -134,7 +134,7 @@ layout: post
 <br>
 - 2024 modified AGI limits. You can find information about the 2024 contribution and modified AGI limits in Pub. 590-A. Tax law changes for 2024. When you figure how much income tax you want withheld from your pay and when you figure your estimated tax, consider tax law changes effective in 2024. For more information, see Pub. 505. Alternative minimum tax (AMT) exemption amount increased. The AMT exemption amount is increased to \$81,300 (\$126,500 if married filing jointly or qualifying surviving spouse; \$63,250 if married filing separately). The income levels at which the AMT exemption begins to phase out have increased to \$578,150 (\$1,156,300 if married filing jointly or qualifying surviving spouse).  
 <br>
-- 1099-K. Form 1099-K is issued by third party settlement organizations and credit card companies to report payment transactions made to you for goods and services. You must report all income on your tax return unless excluded by law, whether you received the income electronically or not, and whether you received a Form 1099-K or not. The box 1a and other amounts reported on Form 1099-K are additional pieces of information to help determine the correct amounts to report on your return.
+- 1099-K. Form 1099-K is issued by third parties (like Uber, Lyft, Etsy, etc) to report payment transactions made to you for goods and services. You must report all income on your tax return unless excluded by law, whether you received the income electronically or not, and whether you received a Form 1099-K or not. The box 1a and other amounts reported on Form 1099-K are additional pieces of information to help determine the correct amounts to report on your return.
 
   - If you received a Form 1099-K that shows payments you didn’t receive or is otherwise incorrect, contact the Form 1099-K issuer. Don’t contact the IRS; the IRS can’t correct an incorrect Form 1099-K. If you can’t get it corrected, or you sold a personal item at a loss, see the instructions for Schedule 1, lines 8z and 24z, later, for more reporting information. All IRS information about Form 1099-K is available by going to `www.irs.gov/1099k`.
 
@@ -498,7 +498,7 @@ Filing a paper Form 4868
 - **Pub. 225** - Farmer’s Tax Guide
 - **Pub. 519** - Tax Guide for Aliens
 - **Pub. 555** - Community Property
-- **Pub. 590** - 
+- **Pub. 590** - Distributions from IRAs
 - **Pub. 966** - Electronic Federal Tax Payment System (EFTPS)
 - **Pub. 5250** - Pay by Cash
 - **Form W-4** - Employee’s W/H Certificate
@@ -506,3 +506,9 @@ Filing a paper Form 4868
 - **Form 1040-ES** - Estimated Tax for Individuals
 - **Form 8822** - Change of Address
 - **Form 2210** - Underpayment of Estimated Tax by Individuals, Estates, & Trusts
+Publication 590-B
+Cat. No. 66303U
+Distributions
+from Individual
+Retirement
+Arrangements
