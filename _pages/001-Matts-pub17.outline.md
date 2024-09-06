@@ -1,5 +1,5 @@
 ---
-title: Pub 17 Notes
+title: Pub 17 Tax Guide
 date: 2024-08-24, started
 layout: post
 ---
@@ -22,15 +22,14 @@ layout: post
 2. Pub. 225, Farmer's Tax Guide
 3. Pub. 587, Business Use of Your Home
 
-# Part One: The Income Tax Return
+# Chapter 1. Filing Information
 
-## Chapter 1. Filing Information
-
-### 1.1 What's New & Reminders & Introduction
+## 1.1 What's New & Reminders & Introduction
 
 - Child tax credit **-->** \$1,600 for each qualifying child  
 
 - New clean vehicle credit: Use Form 8936 & 1040-Schedule 3, line 6f  
+
 - Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, Use Form 8936
 
 ---
@@ -57,6 +56,8 @@ layout: post
 - Line 6m **-->** Credit for previously owned clean vehicles: Form 8936
 - Line 13c **-->** Elective payment election amount: Form 3800
 
+---
+
 - Credits for qualified sick and family leave wages: Use 1040 Schedule H & Schedule 3, line 13z
 
 - Alternative motor vehicle credit **-->** Expired
@@ -67,11 +68,15 @@ layout: post
 
 - Increase required minimum distribution age **-->** 72yr, Use Pub. 590–B
 
+---
+
 - IRA contribution limit increased to:
 
 |Problem|
 |-|
 |\$6,500 (\$7,500 for individuals $\gt$ 50 yr) from \$6,000 (\$7,000 for individuals $\gt$ 50 yr)**|
+
+---
 
 - Deferred compensation contribution (401(k), 403(b),fed gov Thrift Savings Plan) increased: **-->** $\gt$ \$22.5 K (\$30 K, if $\gt$ \$50 yr), also for most 457 plans
 
@@ -81,15 +86,15 @@ layout: post
 
 - Use: www.irs.gov/directfile
 
-- Health Flexible Spending Act under cafeteria plans = \$3,050, under section 125(i) on volunttary salary redux.
+- Health Flexible Spending Act (HFSA) under cafeteria plans = \$3,050, under section 125(i) on voluntary salary redux.
 
-- Temp. allowance of 100% business meal deduction has **Expired**, section 210.
+- Temp. allowance of 100% business meal deduction: **Expired**, section 210.
 
 - Diaster tax relief - See Disaster-Related Relief in Pub. 590-B  
 
 - Distributions to terminally ill individuals. The exception to the 10% additional tax for early distributions is expanded to distributions made after 12/29/2022, to a certified individual. See Pub. 590-B
 
-- **??   Certain corrective distributions not subject to 10% early distribution tax. Beginning with distributions made on 12/29/2022, and after, the 10% additionaltax on early distributions will not apply to the income attributed to a corrective IRA distribution, as long as the corrective distribution is made on or before the due date (including extensions) of the income tax return.**
+- **??   Certain corrective distributions not subject to 10% early distribution tax. Beginning with distributions made on 12/29/2022, and after, the 10% additional tax on early distributions will not apply to the income attributed to a corrective IRA distribution, as long as the corrective distribution is made on or before the due date (including extensions) of the income tax return.**
 
 - The IRS cannot issue refunds before mid-February 2024 for returns that claim Additional child tax credit (ACTC).
 
@@ -108,7 +113,6 @@ layout: post
 |Married filing jointly,<br>Qualifying surviving spouse|Single,<br>Head of household|Married filing separately
 |-|-|-|
 |$\gt$ \$116,000 and $\lt$ \$136,000|$\gt$ \$73,000 and $\lt$ \$83,000|$\lt$ \$10,000|
-
 
 - **IF**
   1. you live with your spouse **or** 
@@ -134,24 +138,28 @@ layout: post
 
   - If you received a Form 1099-K that shows payments you didn’t receive or is otherwise incorrect, contact the Form 1099-K issuer. Don’t contact the IRS; the IRS can’t correct an incorrect Form 1099-K. If you can’t get it corrected, or you sold a personal item at a loss, see the instructions for Schedule 1, lines 8z and 24z, later, for more reporting information. All IRS information about Form 1099-K is available by going to `www.irs.gov/1099k`.
 
-
-
-
-
-
-
-
-
-
-### 1.2 Do I Have To File A Return?
+## 1.2 Do I Have To File A Return?
 
 |Who must file|
 |:-:|
-|![Table 1-1](/assets/images/images.pub.17/table.1.1.png)|
-|![Table 1-2](/assets/images/images.pub.17/table.1.2.png)|
-|![Table 1-3](/assets/images/images.pub.17/table.1.3.png)|
+|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
+|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-#### 1.2.1 FREE File
+United States or Puerto Rican resident must file even if you
+don't owe tax.
+1. Individuals in general
+2. Dependents
+3. Certain $\lt$ 19 or full-time students
+4. Self-employed persons
+5. Aliens
+
+Three determining factors for filing
+1. Gross income
+2. Filing status
+3. Age
+
+### 1.2.1 FREE File
 
 - Programs are FREE or low-cost, if adjusted gross income (AGI) is < ~64K
 
@@ -490,6 +498,7 @@ Filing a paper Form 4868
 - **Pub. 225** - Farmer’s Tax Guide
 - **Pub. 519** - Tax Guide for Aliens
 - **Pub. 555** - Community Property
+- **Pub. 590** - 
 - **Pub. 966** - Electronic Federal Tax Payment System (EFTPS)
 - **Pub. 5250** - Pay by Cash
 - **Form W-4** - Employee’s W/H Certificate
