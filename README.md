@@ -9,14 +9,14 @@ function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled
 function button2() { window.open("https://www.irs.gov/forms-pubs"); }
 function button3() { window.open("https://www.irs.gov/help/ita"); }
 function button4() { window.open("https://www.govinfo.gov/content/pkg/USCODE-2021-title26/html/USCODE-2021-title26-subtitleA-chap1-subchapN.htm"); }
-function button5() { window.open("https://www.irs.gov/help/ita"); }
+function button5() { window.open("https://mcc-us.github.io/irs.ea/pages/001-Matts-pub17.outline/"); }
 </script>
 
 
 | **IRS Information** ||
 |:-|:-|
 | Find IRS Pubs & Forms |<button onclick="button2()">Open: irs-pubs</button>|
-| IRS chatbot |<button onclick="button3()">Open: irs-ita</button>|
+| IRS Info chatbot |<button onclick="button3()">Open: irs-ita</button>|
 | Title 26 Code |<button onclick="button4()">Open: Title 26</button>|
 | IRS EA Info |<button onclick="button4()">Open: EA Info</button>|
 |||
