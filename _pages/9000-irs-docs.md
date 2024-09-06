@@ -10,7 +10,7 @@ title: IRS Docs On Site
 <br><button onclick="button2()">Go to: IRS Forms</button>
 
 |Document|Title|
-|:-|-:|
+|:-|:-|
 | PTIN.Application | [PTIN.Application.Checklist_Internal.Revenue.Service](/irs.ea/assets/pdfs/PTIN.Application.Checklist_Internal.Revenue.Service.pdf) |
 | pcir230 | [Regulations Governing Practice before the Internal Revenue Service](/irs.ea/assets/pdfs/pcir230.pdf) |
 | regulation_1_6011_4 | [Title 26: Internal Revenue](/irs.ea/assets/pdfs/regulation_1_6011_4.pdf) |
