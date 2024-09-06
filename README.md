@@ -15,7 +15,7 @@ function button5() { window.open("https://www.irs.gov/help/ita"); }
 
 | **IRS Information** ||
 |:-|:-|
-| Find Tax Forms |<button onclick="button2()">Open: irs-pubs</button>|
+| Find IRS Pubs & Forms |<button onclick="button2()">Open: irs-pubs</button>|
 | IRS Interactive Tax Assistant chatbot |<button onclick="button3()">Open: irs-ita</button>|
 | Title 26 - IRS Code |<button onclick="button4()">Open: Title 26</button>|
 | IRS EA Info |<button onclick="button4()">Open: EA Info</button>|
