@@ -27,7 +27,10 @@ layout: post
 
 - Child tax credit **-->** \$1,600 for each qualifying child  
 
-- New clean vehicle credit: Use Form 8936 & 1040-Schedule 3, line 6f  
+<script> function button1() { window.open("/irs.ea/assets/pdfs/i8936.pdf"); } </script>
+- Clean vehicle credit (New): Use Form 8936 & and Schedule A (Form 8936) & 1040-Schedule 3, line 6f: <button onclick="button1()">See 8936</button>
+
+> "The credit is lesser of $4,000 or 30% of the sales price of the previously owned clean vehicle you acquired and placed into service that year."
 
 - Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, Use Form 8936
 
