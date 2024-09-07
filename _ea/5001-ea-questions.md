@@ -5,44 +5,79 @@ title: EA Questions
 
 <!-- GlemQ -->
 
-![Screenshot_2024-08-26_15-14-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-14-17.png)
-![Screenshot_2024-08-26_15-15-06](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-15-06.png)
-![Screenshot_2024-08-26_15-16-06](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-06.png)
-![Screenshot_2024-08-26_15-16-27](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-27.png)
-![Screenshot_2024-08-26_15-16-52](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-52.png)
-![Screenshot_2024-08-26_15-17-20](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-17-20.png)
-![Screenshot_2024-08-26_15-17-39](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-17-39.png)
-![Screenshot_2024-08-26_15-18-05](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-05.png)
-![Screenshot_2024-08-26_15-18-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-17.png)
-![Screenshot_2024-08-26_15-18-31](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-31.png)
-![Screenshot_2024-08-26_15-18-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-45.png)
-![Screenshot_2024-08-26_15-20-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-20-41.png)
-![Screenshot_2024-08-26_15-21-21](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-21-21.png)
-![Screenshot_2024-08-26_15-21-40](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-21-40.png)
-![Screenshot_2024-08-26_15-22-15](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-15.png)
-![Screenshot_2024-08-26_15-22-28](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-28.png)
-![Screenshot_2024-08-26_15-22-47](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-47.png)
-![Screenshot_2024-08-26_15-23-07](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-07.png)
-![Screenshot_2024-08-26_15-23-20](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-20.png)
-![Screenshot_2024-08-26_15-23-33](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-33.png)
-![Screenshot_2024-08-26_15-23-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-45.png)
-![Screenshot_2024-08-26_15-23-54](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-54.png)
-![Screenshot_2024-08-26_15-24-03](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-03.png)
-![Screenshot_2024-08-26_15-24-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-17.png)
-![Screenshot_2024-08-26_15-24-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-41.png)
-![Screenshot_2024-08-26_15-25-12](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-12.png)
-![Screenshot_2024-08-26_15-25-29](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-29.png)
-![Screenshot_2024-08-26_15-25-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-41.png)
-![Screenshot_2024-08-26_15-25-53](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-53.png)
-![Screenshot_2024-08-26_15-26-05](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-05.png)
-![Screenshot_2024-08-26_15-26-16](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-16.png)
-![Screenshot_2024-08-26_15-26-46](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-46.png)
-![Screenshot_2024-08-26_15-27-01](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-01.png)
-![Screenshot_2024-08-26_15-27-15](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-15.png)
-![Screenshot_2024-08-26_15-27-26](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-26.png)
-![Screenshot_2024-08-26_15-27-36](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-36.png)
-![Screenshot_2024-08-26_15-27-44](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-44.png)
-![Screenshot_2024-08-26_15-28-02](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-02.png)
-![Screenshot_2024-08-26_15-28-16](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-16.png)
-![Screenshot_2024-08-26_15-28-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-45.png)
-![Screenshot_2024-08-26_15-28-55](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-55.png)
+1. ![Screenshot_2024-08-26_15-14-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-14-17.png)
+1. ![Screenshot_2024-08-26_15-15-06](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-15-06.png)
+1. ![Screenshot_2024-08-26_15-16-06](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-06.png)
+1. ![Screenshot_2024-08-26_15-16-27](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-27.png)
+1. ![Screenshot_2024-08-26_15-16-52](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-16-52.png)
+1. ![Screenshot_2024-08-26_15-17-20](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-17-20.png)
+
+1. ![Screenshot_2024-08-26_15-17-39](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-17-39.png)
+
+1. ![Screenshot_2024-08-26_15-18-05](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-05.png)
+
+1. ![Screenshot_2024-08-26_15-18-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-17.png)
+
+1. ![Screenshot_2024-08-26_15-18-31](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-31.png)
+
+1. ![Screenshot_2024-08-26_15-18-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-18-45.png)
+
+1. ![Screenshot_2024-08-26_15-20-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-20-41.png)
+
+1. ![Screenshot_2024-08-26_15-21-21](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-21-21.png)
+
+1. ![Screenshot_2024-08-26_15-21-40](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-21-40.png)
+
+1. ![Screenshot_2024-08-26_15-22-15](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-15.png)
+
+1. ![Screenshot_2024-08-26_15-22-28](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-28.png)
+
+1. ![Screenshot_2024-08-26_15-22-47](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-22-47.png)
+
+1. ![Screenshot_2024-08-26_15-23-07](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-07.png)
+
+1. ![Screenshot_2024-08-26_15-23-20](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-20.png)
+
+1. ![Screenshot_2024-08-26_15-23-33](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-33.png)
+
+1. ![Screenshot_2024-08-26_15-23-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-45.png)
+
+1. ![Screenshot_2024-08-26_15-23-54](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-23-54.png)
+
+1. ![Screenshot_2024-08-26_15-24-03](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-03.png)
+
+1. ![Screenshot_2024-08-26_15-24-17](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-17.png)
+
+1. ![Screenshot_2024-08-26_15-24-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-24-41.png)
+
+1. ![Screenshot_2024-08-26_15-25-12](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-12.png)
+
+1. ![Screenshot_2024-08-26_15-25-29](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-29.png)
+
+1. ![Screenshot_2024-08-26_15-25-41](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-41.png)
+
+1. ![Screenshot_2024-08-26_15-25-53](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-25-53.png)
+
+1. ![Screenshot_2024-08-26_15-26-05](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-05.png)
+
+1. ![Screenshot_2024-08-26_15-26-16](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-16.png)
+
+1. ![Screenshot_2024-08-26_15-26-46](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-26-46.png)
+
+1. ![Screenshot_2024-08-26_15-27-01](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-01.png)
+
+1. ![Screenshot_2024-08-26_15-27-15](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-15.png)
+
+1. ![Screenshot_2024-08-26_15-27-26](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-26.png)
+
+1. ![Screenshot_2024-08-26_15-27-36](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-36.png)
+
+1. ![Screenshot_2024-08-26_15-27-44](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-27-44.png)
+
+1. ![Screenshot_2024-08-26_15-28-02](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-02.png)
+
+1. ![Screenshot_2024-08-26_15-28-16](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-16.png)
+
+1. ![Screenshot_2024-08-26_15-28-45](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-45.png)
+
+1. ![Screenshot_2024-08-26_15-28-55](/irs.ea/assets/glemQ/Screenshot_2024-08-26_15-28-55.png)
