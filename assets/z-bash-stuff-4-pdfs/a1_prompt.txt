@@ -1,0 +1,17 @@
+Generally: 
+I want a bash script that will organize the files in one directory. 
+
+I have a list of PDF files in one directory. 
+All files start with "i", "p" or "f". 
+All files have the extension, ".pdf".
+
+I would like to use a multi-step approach.
+
+1. Remove the first character of the filename and save the name to a list.
+All the files have the extension ".pdf".
+2. Using the list, remove the file extensions, ".pdf" from all the files names, saving the resultant.
+3. Next I want the list of abbrevaited-filenames sorted in ascending order. 
+
+For example: (p555.pdf, i456.pdf, f1010-sr.pdf) would become (1010, 456, 555)
+
+4. Print the list of filenames to a new text document, called a1_names.txt.
