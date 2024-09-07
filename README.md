@@ -15,13 +15,13 @@ function button5() { window.open("https://mcc-us.github.io/irs.ea/pages/001-Matt
 
 | **IRS Information** |
 |:-|
-| Find IRS Pubs & Forms <button onclick="button2()">Open: irs-pubs</button>|
-| IRS Info chatbot <button onclick="button3()">Open: irs-ita</button>|
-| Title 26 Code <button onclick="button4()">Open: Title 26</button>|
-| IRS EA Info <button onclick="button4()">Open: EA Info</button>|
+| <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
+| <button onclick="button3()">Open: irs-ita</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS Info chatbot|
+| <button onclick="button4()">Open: Title 26</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title 26 Code |
+| <button onclick="button4()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
 ||
 |**To Do**|
-|Work On Pub 17 <button onclick="button5()">17 Notes</button>|
+| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 ||
 | **Add'n Info** |
 | EA guide: https://www.becker.com/ea/a-complete-guide-to-the-enrolled-agent-exam|
