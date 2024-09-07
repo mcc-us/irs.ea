@@ -21,7 +21,7 @@ function button5() { window.open("https://mcc-us.github.io/irs.ea/pages/001-Matt
 | <button onclick="button4()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
 ||
 |**To Do**|
-| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
+| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 ||
 | **Add'n Info** |
 | EA guide: https://www.becker.com/ea/a-complete-guide-to-the-enrolled-agent-exam|
