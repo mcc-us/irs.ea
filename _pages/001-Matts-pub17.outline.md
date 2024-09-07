@@ -27,12 +27,12 @@ layout: post
 
 - Child tax credit **-->** \$1,600 for each qualifying child  
 
+---
+
 <script> function button1() { window.open("/irs.ea/assets/pdfs/i8936.pdf"); } </script>
-- Clean vehicle credit (New): Use Form 8936 & and Schedule A (Form 8936) & 1040-Schedule 3, line 6f: <button onclick="button1()">See 8936</button>
-
+1. Clean vehicle credit (New): Use Form 8936 & and Schedule A (Form 8936) & 1040-Schedule 3, line 6f: <button onclick="button1()">See 8936</button>
+2. Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, Use Form 8936
 > "The credit is lesser of $4,000 or 30% of the sales price of the previously owned clean vehicle you acquired and placed into service that year."
-
-- Previously owned clean vehicle credit: credit is available for previously owned clean vehicles, Use Form 8936
 
 ---
 
@@ -130,15 +130,20 @@ layout: post
 ---
 
 - Roth IRA contributions, RE: Modified AGI limit for The Roth IRA contribution limit is reduced (phased out) in the following situations.
-  1. Your filing status is married filing jointly or qualifying surviving spouse and your modified AGI is at least \$218,000. You can't make a Roth IRA contribution if your modified AGI is \$228,000 or more.
-  2. Your filing status is single, head of household, or married filing separately and you didn't live with your spouse at any time in 2023 and your modified AGI is at least \$138,000. You can't make a Roth IRA contribution if your modified AGI is \$153,000 or more.
-  3. Your filing status is married filing separately, you lived with your spouse at any time during the year, and your modified AGI is more than zero. You can't make a Roth IRA contribution if your modified AGI is $10,000 or more. See Can You Contribute to a Roth IRA in chapter 9, later.  
+  1. Your filing status is married filing jointly or qualifying surviving spouse and your modified AGI is $\geq$ \$218K. You can't make a Roth IRA contribution if your modified AGI $\geq$ \$228K.
+  2. Your filing status is single, head of household, or married filing separately and you didn't live with your spouse at any time in 2023 and your modified AGI is $\geq$  \$138K. You can't make a Roth IRA contribution if your modified AGI is $\geq$ \$153K.
+  3. Your filing status is married filing separately, you lived with your spouse at any time during the year, and your modified AGI is more than zero. You can't make a Roth IRA contribution if your modified AGI is $\geq$ $10K. See Can You Contribute to a Roth IRA in chapter 9, later.  
 <br>
 - 2024 modified AGI limits. You can find information about the 2024 contribution and modified AGI limits in Pub. 590-A. Tax law changes for 2024. When you figure how much income tax you want withheld from your pay and when you figure your estimated tax, consider tax law changes effective in 2024. For more information, see Pub. 505. Alternative minimum tax (AMT) exemption amount increased. The AMT exemption amount is increased to \$81,300 (\$126,500 if married filing jointly or qualifying surviving spouse; \$63,250 if married filing separately). The income levels at which the AMT exemption begins to phase out have increased to \$578,150 (\$1,156,300 if married filing jointly or qualifying surviving spouse).  
-<br>
-- 1099-K. Form 1099-K is issued by third parties (like Uber, Lyft, Etsy, etc) to report payment transactions made to you for goods and services. You must report all income on your tax return unless excluded by law, whether you received the income electronically or not, and whether you received a Form 1099-K or not. The box 1a and other amounts reported on Form 1099-K are additional pieces of information to help determine the correct amounts to report on your return.
 
-  - If you received a Form 1099-K that shows payments you didn’t receive or is otherwise incorrect, contact the Form 1099-K issuer. Don’t contact the IRS; the IRS can’t correct an incorrect Form 1099-K. If you can’t get it corrected, or you sold a personal item at a loss, see the instructions for Schedule 1, lines 8z and 24z, later, for more reporting information. All IRS information about Form 1099-K is available by going to `www.irs.gov/1099k`.
+---
+
+- **1099-K**: 1099-K is issued by third parties (like Uber, Lyft, Etsy, etc) to report payment transactions made to you for goods and services. You must report all income on your tax return unless excluded by law, whether you received the income electronically or not, and whether you received a Form 1099-K or not. The **box 1a** and other amounts reported on Form 1099-K are additional pieces of information to help determine the correct amounts to report on your return.
+
+  - If you received a Form 1099-K that shows payments you didn’t receive or is otherwise incorrect, **contact the Form 1099-K issuer**, not the IRS. 
+  - If you can’t get it corrected, or you sold a personal item at a loss, see the instructions for **Schedule 1, lines 8z and 24z**, see reporting information & `www.irs.gov/1099k`.
+
+---
 
 ## 1.2 Do I Have To File A Return?
 
@@ -148,22 +153,17 @@ layout: post
 |![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
-United States or Puerto Rican resident must file even if you
-don't owe tax.
-1. Individuals in general
-2. Dependents
-3. Certain $\lt$ 19 or full-time students
-4. Self-employed persons
-5. Aliens
+> **NOTE**: US and Puerto Rican residents must file even if you don't owe tax.  
+{: .block-tip }
 
-Three determining factors for filing
+- **Three determining factors for filing**
 1. Gross income
 2. Filing status
 3. Age
 
 ---
 
-- FREE File: Programs are FREE or low-cost, if adjusted gross income (AGI) is < ~64K
+- FREE Filing Programs (or low-cost), if adjusted gross income (AGI) is < ~64K
 
 |#|Site|Age|Dollar|Fed|State|
 |-|-|-|-|-|-|
@@ -179,9 +179,9 @@ Three determining factors for filing
 ---
 
 - Access your online account: `www.irs.gov/account`
-  1. View address on file, manage communications
+  1. View address(es), manage communications
   1. Make payments. See & set up payment plans, payment history
-  1. Access your tax records (key data!), transcripts, View digital copies
+  1. Access tax records (key data!), transcripts, digital copies
   1. Approve or reject authorization requests from tax professionals
   1. `www.irs.gov/secureaccess` for identity authentication process.
 
@@ -191,13 +191,7 @@ Three determining factors for filing
 
 - ONE NEEDS: SSN, ITIN, ATIN
 
-##### 1.2.5 Direct deposit of refund
-
-- See Refunds
-
-##### 1.2.6 Pay online or by phone
-
-- See How to pay
+---
 
 ##### 1.2.7 Installment agreement
 
@@ -217,15 +211,16 @@ Three determining factors for filing
 
 ---
 
-- Doesn't have & isn't eligible to get a social security number, file Form W-7
-
-- Individual taxpayer identification number (ITIN) renewal: `www.irs.gov/itin`
+- Doesn't have & isn't eligible to get a social security number, **Use/file Form W-7**
+  - `www.irs.gov/itin`: Individual taxpayer identification number (ITIN) renewal
 
 ---
 
 - Frivolous tax submissions
   1. The IRS has published a lists of frivolous positions. WHERE?
-  1. Penalty **-->** \$5,000 per submissions, see **Civil Penalties**
+  1. Penalty **-->** \$5,000 per submissions, see Civil Penalties
+
+<br>
 
 - Gross income
   1. All forms of money, goods, property & services that aren't exempt from tax
@@ -235,22 +230,32 @@ Three determining factors for filing
      1. Half of your S.S. benefits plus(+) gross income & any tax-exempt interest is $\gt$ \$25 K or 
      1. $32 K filing jointly
 
+<br>
+
 - Community property states: 
   1. Form 8958, *Allocation of Tax Amounts Between Certain Individuals in Community Property States*
   1. Pub. 555, *Community Property*
   1. Schedule F-Form 1040
   1. Include Arizona, California,Idaho, Louisiana, Nevada, New Mexico, Texas, Washington & Wisconsin
 
+<br>
+
 - Self-employed individuals
   1. SEE: line 7 of Schedule C (Form 1040) Profit or Loss From Business & line 9
+
+<br>
 
 - Surviving Spouses, Executors, Administrators & Legal Representatives: 
   1. Pub. 559, Survivors, Executors, and Administrators
   1. MUST file a final return for a decedent, IF you are executor, administrator, or legal representative
 
+<br>
+
 - U.S. Citizens & Resident Aliens Living Abroad:
   1. Pub. 54, *Tax Guide for U.S. Citizens and Resident Aliens Abroad*
   1. See Tables 1-1,2,3
+
+<br>
 
 - Residents of Puerto Rico, Guam, The Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands
   1. Pub. 570,
@@ -261,17 +266,20 @@ Three determining factors for filing
 |![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
 |![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
 
+<br>
 
-
-- **Dependents**
+#### **DEPENDENTS**
 
 - Responsibility of parent
   1. Generally, children ARE responsible for filing & paying
   1. If a child cannot then adult MUST, also adult must sign child's name:<br>**“By (your signature), parent for minor child.”**
 
+<br>
 
 - Child earnings are (Generally) **included in the child’s** Gross Income & **not parents**, AGI.
 - **IF child does not pay the adult is liable.**
+
+<br>
 
 - Children < 19yr or FT Students: 
   1. Form 8814
@@ -279,7 +287,11 @@ Three determining factors for filing
   1. The child can choose to lump income together:
       1. See: i8814, *Parents Election To Report Child’s Interest & Dividends*
 
+<br>
+
 - Self-Employed: *Pub. 334, Tax Guide for Small Business (Schedule C)*
+
+<br>
 
 - Are a **sole proprietor**, An **independent contractor**, **member of a partnership**, or anything else.
 - Must file Form 1040 or 1040-SR OR **Schedule SE (Form 1040), Self-Employment Tax** IFF:
@@ -287,16 +299,20 @@ Three determining factors for filing
   - Church employee income $\gt$ $108.28
 - See Table 1-3
 
+<br>
+
 - Employees of foreign governments or international organizations
   1. If you're from U.S. in the U.S. and work for an international org & your org. doesn't withhold Social Security & Medicare taxes (therefore you are Self-employed
   1. Calculate self-employment taxes
 
+<br>
 
 - Ministers: Pub. 517, Like Self-employed
 
 ---
 
-- Aliens: Pub. 519, *Tax Guide for Aliens*  
+- Aliens: Pub. 519, *Tax Guide for Aliens*, 
+  - See also 1040-NR, Nonresident Alien Income Tax Return
 
 |Resident alien|Nonresident alien|Dual-status taxpayer|
 |-|-|-|
@@ -312,49 +328,52 @@ Three determining factors for filing
 - For Premium tax credit, Use Pub. 974
 - For American opportunity credit, Use Pub. 970
 
-### 1.3 1040 & 1040-SR
+---
 
-### 1.4 Why Should I File Electronically?
+- Three basic Filings: *1040 & 1040-SR & 1040-NR* 
+  - SR = for seniors, 
+  - NR = Non-residents
 
-- Table 1-4 for FREE Filing services
+---
 
-##### 1.11 Requirements for an electronic return
+- Requirements for an Electronic filing & returns
+  - See: Table 1-2 for Requirements
 
-##### 1.12 Self-Select PIN
 
-##### 1.13 Practitioner PIN
+  - 1.12 Self-Select PIN
 
-##### 1.14 Form 8453
+  - 1.13 Practitioner PIN
+  - 1.14 Form 8453
 
-##### 1.15 Identity Protection PIN
+  - 1.15 Identity Protection PIN
 
-##### 1.16 Power of attorney
+  - 1.16 Power of attorney
 
-##### 1.17 State returns
+  - 1.17 State returns
 
-##### 1.18 Refunds
+  - 1.18 Refunds
 
-##### 1.19 Refund inquiries
+  - 1.19 Refund inquiries
 
-##### 1.20 Amount you owe
+  - 1.20 Amount you owe
 
-##### 1.21 Using Your Personal Computer
+  - 1.21 Using Your Personal Computer
 
-##### 1.22 Through Employers & Financial Institutions
+  - 1.22 Through Employers & Financial Institutions
 
-##### 1.23 Free Help With Your Return
+  - 1.23 Free Help With Your Return
 
-##### 1.24 Using a Tax Professional
+  - 1.24 Using a Tax Professional
 
 ### 1.5 When Do I Have To File?
 
-##### Filing paper returns on time
+  - Filing paper returns on time
 
-##### Private delivery services
+  - Private delivery services
 
-##### Filing electronic returns on time
+  - Filing electronic returns on time
 
-##### Filing late
+  - Filing late
 
 #### Filing for a decedent
 
@@ -396,35 +415,35 @@ Filing a paper Form 4868
 
 ### 2.7
 
-##### Filing status rules
+  - Filing status rules
 
-##### Tax benefits for married taxpayers
+  - Tax benefits for married taxpayers
 
 ### Filing Status Categories
 
-##### Single
+  - Single
 
-##### Married Filing Jointly
+  - Married Filing Jointly
 
-##### Married Filing Separately
+  - Married Filing Separately
 
-##### Head of Household
+  - Head of Household
 
-##### Qualifying Surviving Spouse
+  - Qualifying Surviving Spouse
 
 ## 3. Dependents
 
 ### What's New
 
-##### Child & Dependent Care Credit
+  - Child & Dependent Care Credit
 
 ### Reminders
 
-##### Dependent Rules
+  - Dependent Rules
 
 ### Introduction
 
-##### Who Can Claim a Dependent?
+  - Who Can Claim a Dependent?
 
 ###### Qualifying Child
 
@@ -434,17 +453,17 @@ Filing a paper Form 4868
 
 ### What's New
 
-##### Changes in Tax Withholding
+  - Changes in Tax Withholding
 
 ### Reminders
 
-##### Estimated Tax Payments
+  - Estimated Tax Payments
 
-##### Changes in Taxable Income
+  - Changes in Taxable Income
 
 ### Introduction
 
-##### Understanding Tax Withholding
+  - Understanding Tax Withholding
 
 ###### W-4 Forms
 
