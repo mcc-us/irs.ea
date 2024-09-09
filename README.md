@@ -12,9 +12,6 @@ function button4() { window.open("https://www.govinfo.gov/content/pkg/USCODE-202
 function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 </script>
 
-https://mcc-us.github.io/irs.ea/pages/001-pub17.tax.guide/
-
-
 | **IRS Information** |
 |:-|
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
