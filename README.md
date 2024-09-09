@@ -9,7 +9,7 @@ function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled
 function button2() { window.open("https://www.irs.gov/forms-pubs"); }
 function button3() { window.open("https://www.irs.gov/help/ita"); }
 function button4() { window.open("https://www.govinfo.gov/content/pkg/USCODE-2021-title26/html/USCODE-2021-title26-subtitleA-chap1-subchapN.htm"); }
-function button5() { window.open("/irs.ea/_pages/001-pub17.tax.guide.md"); }
+function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide.md"); }
 </script>
 
 
