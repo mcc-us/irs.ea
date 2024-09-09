@@ -10,7 +10,9 @@ function button2() { window.open("https://www.test-guide.com/enrolled-agent-exam
 function button3() { window.open("https://www.irs.gov/help/ita"); }
 </script>
 
-[IRS EA Home](https://mcc-us.github.io/irs.ea/)
+- See: [IRS EA Home](https://mcc-us.github.io/irs.ea/)
+
+- See: [IRS 'How-to' YouTube Video](https://www.youtube.com/watch?v=13o9RhIAilE)
 
 ### 'Becoming an Enrolled Agent' Info for Jan :honeybee:
 
