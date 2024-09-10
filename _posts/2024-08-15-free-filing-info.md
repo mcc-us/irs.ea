@@ -10,7 +10,7 @@ layout: post
    - See: https://apps.irs.gov/app/vita/
    - https://apps.irs.gov/app/vita/sitemap.jsp **EXCELLENT**
 
-<hr class-"red">
+<hr class="red">
 
 -  **Free** Tax Counseling for the Elderly (TCE): IRS.gov/TCE  
    - download the IRS2Go app, or call 888-227-7669 to find the nearest TCE location.
