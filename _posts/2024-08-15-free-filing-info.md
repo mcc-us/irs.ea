@@ -1,5 +1,5 @@
 ---
-title: Free Filing Info
+title: VITA & TCE Guides
 layout: post
 ---
 
@@ -17,7 +17,27 @@ layout: post
 
 ### VITA Training Guide
 
+-  Pub 4491, VITA/TCE Training Guide 
+
 <div class="pdf-container">
-    <iframe src="/assets/pdfs/p4491.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/irs.ea/assets/pdfs/p4491.pdf" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
+
+### VITA / TCE Resource Guide
+
+- Pub 4012, VITA/TCE Volunteer Resource Guide 
+
+<div class="pdf-container">
+    <iframe src="/irs.ea/assets/pdfs/p4012.pdf" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
+
+### Filing Status - Interview Tips
+
+- filing_status_4012.pdf, Filing Status - Interview Tips
+
+<div class="pdf-container">
+    <iframe src="/irs.ea/assets/pdfs/filing_status_4012.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
