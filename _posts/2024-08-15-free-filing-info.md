@@ -10,6 +10,20 @@ layout: post
    - See: https://apps.irs.gov/app/vita/
    - https://apps.irs.gov/app/vita/sitemap.jsp **EXCELLENT**
 
+
+- **What do I need?** (To Start)
+  1. Form 13614-C, Intake/Interview and Quality Review Sheet 
+  1. Publication 4012, Volunteer Resource Guide
+  1. Publication 17, US TAx Guide
+  1. Publication 4961, VITA/TCE Volunteer Standards of Conduct – Ethics Training
+  1. Publication 5101, VITA/TCE Intake/Interview and Quality Review Training
+  1. Form 6744, Volunteer Assistor’s Test/Retest
+  1. Form 13614-C Job Aid in Publication 4012
+  1. Form 13615, Volunteer Standards of Conduct Agreement - VITA/TCE Programs 
+- **Optional**  
+  1. Publication 4299, Privacy, Confidentiality, and Civil Rights - A Public Trust 
+
+
 <hr class="red">
 
 -  **Free** Tax Counseling for the Elderly (TCE): IRS.gov/TCE  
@@ -41,3 +55,4 @@ layout: post
     <iframe src="/irs.ea/assets/pdfs/filing_status_4012.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
+
