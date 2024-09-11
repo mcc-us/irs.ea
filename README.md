@@ -12,15 +12,15 @@ function button4() { window.open("https://www.govinfo.gov/content/pkg/USCODE-202
 function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 </script>
 
-| **IRS Information** |
+|**To Do**|
 |:-|
+| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
+| **IRS Information** |
+||
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
 | <button onclick="button3()">Open: irs-ita</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS Info chatbot|
 | <button onclick="button4()">Open: Title 26</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title 26 Code |
-| <button onclick="button4()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
-||
-|**To Do**|
-| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
+| <button onclick="button1()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
 ||
 | **Add'n Info** |
 | EA guide: https://www.becker.com/ea/a-complete-guide-to-the-enrolled-agent-exam|

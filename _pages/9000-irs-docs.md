@@ -11,9 +11,7 @@ title: IRS Docs On Site
 
 |Document|Title|
 |:-|:-|
-| PTIN.Application | [PTIN.Application.Checklist_Internal.Revenue.Service](/irs.ea/assets/pdfs/PTIN.Application.Checklist_Internal.Revenue.Service.pdf) |
 | pcir230 | [Regulations Governing Practice before the Internal Revenue Service](/irs.ea/assets/pdfs/pcir230.pdf) |
-| regulation_1_6011_4 | [Title 26: Internal Revenue](/irs.ea/assets/pdfs/regulation_1_6011_4.pdf) |
 | f706 | [US Estate (and Generation-Skipping Transfer) Tax Return](/irs.ea/assets/pdfs/f706.pdf) |
 | f843 | [Claim for Refund and Request for Abatement](/irs.ea/assets/pdfs/f843.pdf) |
 | f941 | [Employer’s QUARTERLY Federal Tax Return](/irs.ea/assets/pdfs/f941.pdf) |
@@ -97,8 +95,8 @@ title: IRS Docs On Site
 | p4245 | [p4245](/irs.ea/assets/pdfs/p4245.pdf) |
 | p4491 | [p4491](/irs.ea/assets/pdfs/p4491.pdf) |
 | p4491x | [p4491x](/irs.ea/assets/pdfs/p4491x.pdf) |
-
-
+| PTIN.Application | [PTIN.Application.Checklist_Internal.Revenue.Service](/irs.ea/assets/pdfs/PTIN.Application.Checklist_Internal.Revenue.Service.pdf) |
+| regulation_1_6011_4 | [Title 26: Internal Revenue](/irs.ea/assets/pdfs/regulation_1_6011_4.pdf) |
 
 <!--
 | **pcir230** | Regulations Governing Practice before the Internal Revenue Service|
