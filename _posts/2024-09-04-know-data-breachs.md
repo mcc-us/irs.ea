@@ -11,11 +11,10 @@ Tax professionals should contact the IRS immediately when there's an identity th
 
 Tax professionals should watch for these red flags when their business experiences these situations:
 
-1.  Slow or unexpected computer or network responsiveness such as:
-
-  - Software is slow or actions take longer to process than usual.
-  - Computer cursor moves or changes numbers without touching the mouse or keyboard.
-  - Unexpectedly being locked out of a network or computer.
+1.  Slow or unexpected computer or network responsiveness such as:  
+  - Software is slow or actions take longer to process than usual.  
+  - Computer cursor moves or changes numbers without touching the mouse or keyboard.  
+  - Unexpectedly being locked out of a network or computer.  
 
 1.  Client tax returns are being rejected because their Social Security number was already used on another return.
 
@@ -27,7 +26,7 @@ Tax professionals should watch for these red flags when their business experienc
 
 1.  Transcripts are being delivered to the tax professional’s Secure Object Repository that they did not order.
 
-1.  Notification from the IRS that the tax professional’s Centralized Authorized File number has been compromised. If they suffer a data breach, they should take proactive steps to protect their CAF number and consider requesting a new one to protect themself and their clients.
+1.  The IRS has notified that the tax professional’s Centralized Authorized File (CAF) number has been compromised. In case of a data breach, proactively safeguard the CAF number and consider requesting a new one for protection.
 
 1.  Notification from the IRS regarding a client that they do not represent.
 
