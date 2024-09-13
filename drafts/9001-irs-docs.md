@@ -1,0 +1,63 @@
+- **Pub. 5**: Your Appeal Rights and How to Prepare a Protest if You Don't Agree
+- **Pub. 463**: Travel, Gift, and Car Expenses
+- **Pub. 502**: Medical and Dental Expenses
+- **Pub. 503**: Child and Dependent Care Expenses
+- **Pub. 504**: Divorced or Separated Individuals
+- **Pub. 505**: Tax Withholding and Estimated Tax
+- **Pub. 523**: Selling Your Home
+- **Pub. 524**: Credit for the Elderly or the Disabled
+- **Pub. 526**: Charitable Contributions
+- **Pub. 527**: Residential Rental Property (Including Rental of Vacation Homes)
+- **Pub. 531**: Reporting Tip Income
+- **Pub. 534**: Depreciating Property Placed in Service Before 1987
+- **Pub. 535**: Business Expenses
+- **Pub. 547**: Casualties, Disasters, and Thefts
+- **Pub. 551**: Basis of Assets
+- **Pub. 556**: Examination of Returns, Appeal Rights, and Claims for Refund
+- **Pub. 561**: Determining the Value of Donated Property
+- **Pub. 570**: Tax Guide for Individuals With Income from U.S. Possessions
+- **Pub. 575**: Pension and Annuity Income
+- **Pub. 590-A**: Contributions to Individual Retirement Arrangements (IRAs)
+- **Pub. 590-B**: Distributions from Individual Retirement Arrangements (IRAs)
+- **Pub. 596**: Earned Income Credit (EIC)
+- **Pub. 936**: Home Mortgage Interest Deduction
+- **Pub. 970**: Tax Benefits for Education
+- **Pub. 971**: Innocent Spouse Relief
+- **Pub. 1546**: The Taxpayer Advocate Service is Your Voice at the IRS
+- **Pub. 4134**: Low Income Taxpayer Clinic List
+
+- **Form 1040**: U.S. Individual Income Tax Return
+- **Form 1040-SR**: U.S. Tax Return for Seniors
+- **Form 1040-ES**: Estimated Tax for Individuals
+- **Form 1040-X**: Amended U.S. Individual Income Tax Return
+- **Form 1040-NR**: U.S. Nonresident Alien Income Tax Return
+- **Form 1099-R**: Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+- **Form 1099-MISC**: Miscellaneous Income
+- **Form 1099-NEC**: Nonemployee Compensation
+- **Form 1099-S**: Proceeds from Real Estate Transactions
+- **Form 1099-B**: Proceeds from Broker and Barter Exchange Transactions
+- **Form 1099-G**: Certain Government Payments
+- **Form W-2**: Wage and Tax Statement
+- **Form W-2G**: Certain Gambling Winnings
+- **Form W-4**: Employee's Withholding Certificate
+- **Form W-4V**: Voluntary Withholding Request
+- **Form 8332**: Release of Claim to Exemption for Child of Divorced or Separated Parents
+- **Form 8615**: Tax for Certain Children Who Have Unearned Income
+- **Form 8814**: Parents' Election To Report Child's Interest and Dividends
+- **Form 8962**: Premium Tax Credit (PTC)
+- **Form 4970**: Tax on Accumulation Distribution of Trusts
+- **Form 4972**: Tax on Lump-Sum Distributions
+- **Form 6198**: At-Risk Limitations
+- **Form 6251**: Alternative Minimum Tax - Individuals
+- **Form 8606**: Nondeductible IRAs
+- **Form 8839**: Qualified Adoption Expenses
+- **Form 8853**: Archer MSAs and Long-Term Care Insurance Contracts
+- **Form 8889**: Health Savings Accounts (HSAs)
+- **Form 8919**: Uncollected Social Security and Medicare Tax on Wages
+- **Schedule A (Form 1040)**: Itemized Deductions
+- **Schedule B (Form 1040)**: Interest and Ordinary Dividends
+- **Schedule C (Form 1040)**: Profit or Loss from Business (Sole Proprietorship)
+- **Schedule D (Form 1040)**: Capital Gains and Losses
+- **Schedule E (Form 1040)**: Supplemental Income and Loss
+- **Schedule F (Form 1040)**: Profit or Loss from Farming
+- **Schedule K-1 (Form 1120S)**: Shareholder’s Share of Income, Deductions, Credits, etc.

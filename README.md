@@ -14,7 +14,7 @@ function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 
 |**To Do**|
 |:-|
-| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
+| <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 | **IRS Information** |
 ||
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
@@ -29,8 +29,12 @@ function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 | GOOD! EA syllabus & study material: https://www.iprep.online/courses/enrolled-agent-exam|
 | 1 EA Lesson: https://www.hockinternational.com/shop/ea-exam-review|
 | https://enrolledagentexam.com|
-| **Misc. Notes:** |
-| Pub 17 is one that I'd recommend for Part 1. Parts 2 and 3 are going to be all over the place. For Part 2, I'd go through the instructions for 1065, 1120, 1120-S, and Part 3 Pubs 594, 1660, and 556 to start. Investigate review courses.|
+
+- Part 1: **Pub 17** is one that I'd recommend. 
+- Parts 2 and 3 are going to be all over the place. 
+- For Part 2, I'd go through the instructions for **1065, 1120, 1120-S**.
+- Part 3 Pubs **594, 1660, and 556** to start. 
+- Investigate review courses.
 
 ---
 
