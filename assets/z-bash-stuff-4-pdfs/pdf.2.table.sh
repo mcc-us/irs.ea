@@ -10,6 +10,7 @@ pdf_files=$(find "$directory" -type f -name "*.pdf")
 
 # Create a new text file to store the results
 output_file="$directory/file_list.txt"
+subject=$(pdfinfo "$pdf_file" | grep "Subject:         " | awk '{print}')
 
 # Write the header to the output file
 echo "| filename | [title](/filename.ext) |" > "$output_file"
