@@ -1,0 +1,19 @@
+Example: Ferdinand, a Canadian citizen, travels to the United States on a visitor's visa. During his visit, he goes to Atlantic City and happens to win $45,000 while playing Baccarat. Since Ferdinand is not a resident alien of the US for tax purposes and does not have an SSN, he falls under the category of nonresident alien. Generally, gambling winnings for nonresidentaliens are subject to a flat rate of 30% in taxes, and they are usually unable to claim deductions for gambling losses. However, a beneficial tax treaty exists between the US and Canada. Ferdinand chooses to request an ITIN, so he can file a Form 1040-NR to receive a partial refund of the US. taxes withheld from his gambling winnings.
+
+Form 1040-X, Amended US. Individual Income Tax Return: This form is used to correct errors ina previously filed Form 1040, Form 1040-SR, or 1040-NR. Form 1040-X can now be filed electronically. In 2023, taxpayers electronically filing amended returns may now choose direct deposit to obtain a faster refund.
+
+Federal Income Tax Rates
+
+An individual's federal taxable income is taxed at progressive rates The IRS groups individuals by brackets. For 2023, there are Seven axbrACKets 10%, and B79!
+2023 Federal Income Tax Brackets and Rates Taxrate Single Filers Married Filing Joint & | Head of Household Married Filing ass Separately
+
+10% $0t0$11,000 $0 t0$22,000 $01t0$15,700 $0t0$11,000
+12% $11,001 to $44,725 $22,00110$89.450 | $15701t0$59,850 | $11,001 to $44,725
+22% $4472610595375 | $89.451105190750 | $5985110§95350 | $44,726 10895375
+24% | $95376t0$182,100 | $190,751t0 $364,200 | $95,351 0 $182,100 | $95,376 to $182,100
+320% | $182,101t05231250 | $364.201t0 $462,500 | $182,101t05231250 | $182,101 t0 $231,250
+350 | $231251t08578125 | $462501t0$693,750 | $231.251t0 576,100 | $231.251 t0 $346,875
+37% $578,126 or more $693,751 ormore | $578101ormore | $346,876 or more
+
+Example: Melissa is unmarried, and she earned $32,000 of taxable income in 2023. This means she is in the 129% tax bracket. But that does not mean she will pay 12% on all her income. Instead, she would Pay 10% on the first $11,000 plus 129 on the remaining amount. a “parallel tax” called the alternative minimum tax (AMT), Taxpayers must pay either the regular tax or the AMT, depending on whichever amounts to the greater amount of tax,
+
