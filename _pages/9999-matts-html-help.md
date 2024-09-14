@@ -17,6 +17,14 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 &nbsp;
 ```
 
+- **Download with HTML**
+
+```
+<a href="/dir/filename.ext" download>
+  text
+</a>
+```
+
 - **Buttons**
 
 <script> function button1() { window.open("Address"); } </script>

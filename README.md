@@ -35,9 +35,8 @@ function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 ---
 
 - Part 1: **Pub 17** is one that I'd recommend. 
-- Parts 2 and 3 are going to be all over the place. 
-- For Part 2, I'd go through the instructions for **1065, 1120, 1120-S**.
-- Part 3 Pubs **594, 1660, and 556** to start. 
+- For Part 2, I'd suggest the instructions for **1065, 1120, 1120-S**.
+- Part 3 Pubs: **594, 1660, and 556** to start. 
 - Investigate review courses.
 
 ---

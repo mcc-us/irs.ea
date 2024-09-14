@@ -53,7 +53,10 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  pdfs:
+  hock:
+    output: true
+    permalink: /:collection/:path/
+  docs:
     output: true
     permalink: /:collection/:path/
   ea:
@@ -62,9 +65,10 @@ collections:
 
 ordered_collections:
   - pages
+  - hock
   - posts
   - ea
-  - pdfs
+  - docs
 
 page_width: 1100px
 
