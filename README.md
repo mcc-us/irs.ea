@@ -22,23 +22,6 @@ function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 | <button onclick="button3()">Open: irs-ita</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS Info chatbot|
 | <button onclick="button4()">Open: Title 26</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title 26 Code |
 | <button onclick="button1()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
-||
-| **Add'n Info** |
-| EA guide: https://www.becker.com/ea/a-complete-guide-to-the-enrolled-agent-exam|
-| 6 Tips for passing the EA exam: https://www.surgent.com/blog/enrolled-agent-exam-6-tips-for-passing|
-| Best EA prep courses: https://cpaexamguy.com/best-ea-prep-courses/?cc=13425|
-| GOOD! EA syllabus & study material: https://www.iprep.online/courses/enrolled-agent-exam|
-| 1 EA Lesson: https://www.hockinternational.com/shop/ea-exam-review|
-| https://enrolledagentexam.com|
-|https://www.hockinternational.com/ea-exam/what-is-an-enrolled-agent-ea-and-how-to-become-one/|
-
----
-
-- Part 1: **Pub 17** is one that I'd recommend. 
-- For Part 2, I'd suggest the instructions for **1065, 1120, 1120-S**.
-- Part 3 Pubs: **594, 1660, and 556** to start. 
-- Investigate review courses.
-
 ---
 
 This website is [MCs EA HOME](https://mcc-us.github.io/irs.ea/).
