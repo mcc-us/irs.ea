@@ -24,8 +24,8 @@ for filename in *.pdf; do
   # Create table row
   row="|"
   row+="$name"  # file name no ext
-  row+="|<a href=/irs.ea/assets/pdfs/\"$filename\" download> "  # Link download attribute
-  row+="$title </a>|"
+  row+="|<a href="/irs.ea/assets/pdfs/"$filename\" download>"  # Link download attribute
+  row+="$title</a>|"
 
   # Append row to the table
   echo "$row" >> 1.pdf2table.md
