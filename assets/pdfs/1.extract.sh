@@ -22,7 +22,7 @@ for filename in *.pdf; do
   # Create numbered list
   row="1. "
   row+="$name"  # file name no ext
-  row+=", <a href="/irs.ea/assets/pdfs/"$filename\" download>"  # Link download attribute
+  row+=", <a href=\"/irs.ea/assets/pdfs/"$filename\" download>"  # Link download attribute
   row+="$title</a>"
 
   # Append row to the table
