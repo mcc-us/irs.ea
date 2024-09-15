@@ -13,6 +13,7 @@ echo "|Document No.|Subject|" >> 1.pdf2table.md
 echo "|:-|:-|" >> 1.pdf2table.md
 
 # Loop through all PDF files
+i=1
 for filename in *.pdf; do
   # Extract filename and subject
   name="${filename%.*}"
@@ -27,6 +28,8 @@ for filename in *.pdf; do
   
   # Append row to the table
   echo "$row" >> 1.pdf2table.md
+
+
 
 done
 
