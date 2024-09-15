@@ -7,11 +7,11 @@ Part 1 of the exam is broken down into 6 sections:
 5. Advising the Individual Taxpayer - 11 questions
 6. Specialized Returns for Individuals - 12 questions
 
-1. Use of Prior Year Returns tax returns for clients, tax professionals are expected to gather and verify all necessary taxpayer information. 
+1. Use of Prior Year Returns tax returns for clients; tax professionals are expected to gather and verify all necessary taxpayer information. 
 
-2. This includes reviewing prior-year tax returns for accuracy, completeness, and compliance. If any errors or omissions are discovered on a prior-year return, the preparer is required by law to inform the taxpayer of the mistake and explain the potential consequences if it is not corrected. BUT, the preparer is not obligated to fix the error. 
+2. As a tax professional, your role includes reviewing prior-year tax returns for accuracy, completeness, and compliance. If any errors or omissions are discovered on a prior-year return, you are required by law to inform the taxpayer of the mistake and explain the potential consequences if it is not corrected. However, you are not obligated to fix the error. 
 
-Prior-year returns can help identify major mathematical mistakes and alert the preparer to any issues that may impact the current year's return.
+A thorough review of prior-year returns is crucial, as it can help identify major mathematical mistakes and alert the preparer to any issues that may significantly impact the current year's return.
 
 During the review process, the preparer must also consider any items from previous years that may affect the current year's return, such as:
 
