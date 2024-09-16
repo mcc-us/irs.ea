@@ -6,12 +6,15 @@ layout: post
 **Tax assistance**
 
 - **Free** Volunteer Income Tax Assistance (VITA): IRS.gov/VITA  
-   - download the **free** IRS2Go app, or call 800-906-9887 to find the nearest VITA location.
-   - See: https://apps.irs.gov/app/vita/
+   - download the **free** IRS2Go app  
+   - call 800-906-9887 to find the nearest VITA location  
+   - See: https://apps.irs.gov/app/vita/  
    - https://apps.irs.gov/app/vita/sitemap.jsp **EXCELLENT**
 
 
-- **What do I need?** (To Start)
+### VITA Training Guide 
+
+  1.  Pub 4491, VITA/TCE Training Guide 
   1. Form 13614-C, Intake/Interview and Quality Review Sheet 
   1. Publication 4012, Volunteer Resource Guide
   1. Publication 17, US TAx Guide
@@ -29,18 +32,16 @@ layout: post
 -  **Free** Tax Counseling for the Elderly (TCE): IRS.gov/TCE  
    - download the IRS2Go app, or call 888-227-7669 to find the nearest TCE location.
 
-### VITA Training Guide
+<hr class="red">
 
--  Pub 4491, VITA/TCE Training Guide 
+p4491.pdf
 
 <div class="pdf-container">
     <iframe src="/irs.ea/assets/pdfs/p4491.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 
-### VITA / TCE Resource Guide
-
-- Pub 4012, VITA/TCE Volunteer Resource Guide 
+p4012.pdf
 
 <div class="pdf-container">
     <iframe src="/irs.ea/assets/pdfs/p4012.pdf" height="600" width="100%" allowFullScreen="true">
@@ -57,6 +58,8 @@ layout: post
 </div>
 
 ### Intake/Interview and Quality Review Sheet
+
+f13614c.pdf  
 
 <div class="pdf-container">
     <iframe src="/irs.ea/assets/pdfs/f13614c.pdf" height="600" width="100%" allowFullScreen="true">
