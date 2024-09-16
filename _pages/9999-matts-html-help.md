@@ -5,6 +5,8 @@ layout: post
 
 See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+
 - **Scale images on page**
 
 ```
