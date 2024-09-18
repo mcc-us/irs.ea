@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This works for MCC 9/17/24
+
 # Loop through all files in the current directory
 for filename in *.pdf; do
   # Extract the filename without the extension
