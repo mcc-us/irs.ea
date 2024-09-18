@@ -14,7 +14,7 @@ for filename in *.pdf; do
   content+="title: $filename_no_ext.pdf\n"
   content+="---\n\n"
   content+="<div class=\"pdf-container\">\n"
-  content+="<iframe src=\"/irs.ea/assets/pdfs/$filename_no_ext\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
+  content+="<iframe src=\"/irs.ea/assets/pdfs/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
   content+="</div>\n"
 
   # Write the content to the markdown file
