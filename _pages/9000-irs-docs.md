@@ -11,7 +11,7 @@ title: IRS Docs On Site
 
 |Document|Title|
 |:-|:-|
-| pcir230 | [Regulations Governing Practice before the Internal Revenue Service](/irs.ea/assets/pdfs/pcir230.pdf) |
+| pcir230 | [Regulations Governing Practice before the Internal Revenue Service](/irs.ea/assets/pdfs/pcir230) |
 | f706 | [US Estate (and Generation-Skipping Transfer) Tax Return](/irs.ea/assets/pdfs/f706.pdf) |
 | f843 | [Claim for Refund and Request for Abatement](/irs.ea/assets/pdfs/f843.pdf) |
 | f941 | [Employer’s QUARTERLY Federal Tax Return](/irs.ea/assets/pdfs/f941.pdf) |

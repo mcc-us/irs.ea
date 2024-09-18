@@ -5,13 +5,23 @@ layout: post
 
 See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
 - **Scale images on page**
 
 ```
 <img src="dir/image.png" width="100%" />
 ```
+
+- **Buttons**
+
+<script> function button1() { window.open("Address"); } </script>
+<button onclick="button1()">ButtonText</button>
+
+
+```
+<script> function button1() { window.open("Address"); } </script>
+<button onclick="button1()">ButtonText</button>
+```
+
 
 - **Add non-breaking space**
 
@@ -25,17 +35,6 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 <a href="/dir/filename.ext" download>
   text
 </a>
-```
-
-- **Buttons**
-
-<script> function button1() { window.open("Address"); } </script>
-<button onclick="button1()">ButtonText</button>
-
-
-```
-<script> function button1() { window.open("Address"); } </script>
-<button onclick="button1()">ButtonText</button>
 ```
 
 - **PDF Containers**
