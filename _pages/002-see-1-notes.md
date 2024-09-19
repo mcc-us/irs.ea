@@ -4,6 +4,6 @@ layout: post
 ---
 
 <div class="pdf-container">
-    <iframe src="SEE-1-NOTES.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/assets/SEE-1-NOTES.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
