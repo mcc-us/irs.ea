@@ -65,7 +65,6 @@ collections:
 
 ordered_collections:
   - pages
-  - docs
   - hock
   - posts
   - ea
